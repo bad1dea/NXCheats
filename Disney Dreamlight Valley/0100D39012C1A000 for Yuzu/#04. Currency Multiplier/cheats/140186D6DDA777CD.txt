@@ -1,0 +1,2 @@
+[#04. Currency Multiplier]
+040E0000 01FB7A9C 0B144002

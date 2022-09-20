@@ -3,12 +3,12 @@
 
 ## Cheat List
 1. Inf. Energy
-2. Get 50 Items When Use or Pickup
-3. XP Multiplier
-4. Currency Multiplier
-5. Friendship Multiplier
-6. Easy Unlock Dreamlight
-7. Instant Crop Growth
+1. Get 50 Items When Use or Pickup
+1. XP Multiplier
+1. Currency Multiplier
+1. Friendship Multiplier
+1. Easy Unlock Dreamlight
+1. Instant Crop Growth
 
 ## Changelog
 [View here](./CHANGELOG.md)

@@ -4,6 +4,7 @@
 ## Cheat List
 1. Inf. Health
 1. Inf. Magic
+1. Buy Any Item
 1. Gem Multiplier 4x
 1. Gem Multiplier 8x
 

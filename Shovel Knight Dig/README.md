@@ -11,6 +11,7 @@
 1. Unlock Any Chest
 1. Ignore Item Follow Limit
 1. Never Drop Item
+1. OHK Boss
 
 ## Changelog
 [View here](./CHANGELOG.md)

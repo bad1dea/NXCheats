@@ -12,6 +12,7 @@
 1. Ignore Item Follow Limit
 1. Never Drop Item
 1. OHK Boss
+1. Enable Accessbility Menu (Check Options Menu)
 
 ## Changelog
 [View here](./CHANGELOG.md)

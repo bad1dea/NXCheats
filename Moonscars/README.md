@@ -1,4 +1,4 @@
-# Moonscar (US)
+# Moonscars (US)
 0100787017A88000 (3D6DC1B90104D8B4)
 
 ## Cheat List

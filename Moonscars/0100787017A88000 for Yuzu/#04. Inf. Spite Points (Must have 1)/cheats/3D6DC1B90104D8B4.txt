@@ -1,0 +1,2 @@
+[#04. Inf. Spite Points (Must have 1)]
+040E0000 022D7AA8 52800C68

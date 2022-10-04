@@ -1,0 +1,2 @@
+[#07. Guld Multiplier (8x)]
+040E0000 0061BE28 0B130FE0

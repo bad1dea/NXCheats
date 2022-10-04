@@ -1,0 +1,5 @@
+{# Master Code (include shared functions)}
+580F0000 06D11328
+580F1000 00000180
+580F1000 00000208
+C10F0F10

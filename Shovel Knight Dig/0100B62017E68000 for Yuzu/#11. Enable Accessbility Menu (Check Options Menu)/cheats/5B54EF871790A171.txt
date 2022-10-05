@@ -1,0 +1,2 @@
+[#11. Enable Accessbility Menu (Check Options Menu)]
+040E0000 01F8A480 D65F03C0

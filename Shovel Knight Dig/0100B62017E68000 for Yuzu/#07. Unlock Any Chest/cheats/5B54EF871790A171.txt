@@ -1,0 +1,2 @@
+[#07. Unlock Any Chest]
+040E0000 026C8144 2A1F03E8

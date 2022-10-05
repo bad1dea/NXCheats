@@ -1,0 +1,2 @@
+[#08. Ignore Item Follow Limit]
+040E0000 019AFE2C 14000008

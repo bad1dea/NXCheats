@@ -1,6 +1,7 @@
 [No Man's Sky (US) v1.2.0 TID=0100853015E86000 BID=1F215E055C557890]
 
 [Restore Code (Use after unchecking any cheats below)]
+040E0000 00EAE168 1A8AB116
 040E0000 012E9B78 B901BAE8
 040E0000 003B68A0 B40001E0
 040E0000 012E5884 BD323660
@@ -10,28 +11,31 @@
 040E0000 011E6F84 B900127F
 040E0000 013C5A88 54002641
 
-[#01. Inf. Shields]
+[#01. OHK]
+040E0000 00EAE168 1A8AC116
+
+[#02. Inf. Shields]
 040E0000 012E9B78 B901BAE0
 
-[#02. Inf. Health Cores]
+[#03. Inf. Health Cores]
 040E0000 003B68A0 D503201F
 
-[#03. Inf. Jetpack]
+[#04. Inf. Jetpack]
 040E0000 012E5884 D503201F
 
-[#04. Inf. Hazard Protection]
+[#05. Inf. Hazard Protection]
 040E0000 013880AC 1E2703E0
 
-[#05. Inf. Life Support]
+[#06. Inf. Life Support]
 040E0000 012D3F88 B9001809
 
-[#06. Inf. Stamina]
+[#07. Inf. Stamina]
 040E0000 012E674C D503201F
 
-[#07. Instant Scanner Recharge]
+[#08. Instant Scanner Recharge]
 040E0000 011E6F84 D503201F
 
-[#08. No Tool Overheat]
+[#09. No Tool Overheat]
 040E0000 013C5A88 14000132
 
 [- khuong ツ -]

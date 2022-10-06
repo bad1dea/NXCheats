@@ -11,6 +11,9 @@
 1. Inf. Stamina
 1. Instant Scanner Recharge
 1. No Tool Overheat
+1. Faster Jetpack Movement Speed
+1. Faster Walk/Sprint Speed
+1. Fast and Furious Jetpack
 
 ## Changelog
 [View here](./CHANGELOG.md)

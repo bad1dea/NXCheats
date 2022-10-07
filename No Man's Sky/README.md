@@ -10,6 +10,9 @@
 1. Inf. Hazard Protection
 1. Inf. Life Support
 1. Inf. Stamina
+1. Inf. Ship Shields
+1. Inf. Ship Life
+1. No Ship Weapon Overheat
 1. Instant Analysis Scan
 1. Instant Scanner Recharge
 1. No Tool Overheat

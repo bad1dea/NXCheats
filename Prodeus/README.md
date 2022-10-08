@@ -2,6 +2,7 @@
 0100C3A017834000 (BDA9E45A7B81737F)
 
 ## Cheat List
+1. 000 02D52FF8 D65F03C0 3940D108
 1. Invulnerable
 1. OHK
 1. Inf. Ammo
@@ -12,7 +13,7 @@
 1. Invisible
 1. 2x Walk Speed
 1. 2x Run Speed
-1. 2x Jump Speed
+1. 2x Jump Height
 1. Have Red Key
 1. Have Green Key
 1. Have Blue Key

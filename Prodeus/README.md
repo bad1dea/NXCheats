@@ -13,7 +13,7 @@
 1. Invisible
 1. 2x Walk Speed
 1. 2x Run Speed
-1. 2x Run Speed
+1. 2x Jump Speed
 1. Have Red Key
 1. Have Green Key
 1. Have Blue Key

@@ -81,7 +81,7 @@
 080E0000 0200FFBC 7100155F F841C26A
 040E0000 004AE340 946D871F
 
-[#16. Crafting/Building Does Not Consume Item(s)]
+[#16. Crafting Does Not Consume Items]
 040E0000 003B1BD4 D503201F
 
 [#17. Money Multiplier (2x)]

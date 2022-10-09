@@ -1,0 +1,2 @@
+[#11. No Ship Weapon Overheat]
+040E0000 0167AEBC 1E2703E0

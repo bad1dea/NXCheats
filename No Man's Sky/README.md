@@ -16,6 +16,8 @@
 1. Instant Analysis Scan
 1. Instant Scanner Recharge
 1. No Tool Overheat
+1. Crafting/Building Does Not Consume Items
+1. 08 01 1B 4B 48 1B 00 B9
 1. Money Multiplier (2x)
 1. Money Multiplier (4x)
 1. Money Multiplier (8x)

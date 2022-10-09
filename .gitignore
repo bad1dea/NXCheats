@@ -152,3 +152,4 @@ cython_debug/
 *.CEM
 **__
 *.lua
+*.php

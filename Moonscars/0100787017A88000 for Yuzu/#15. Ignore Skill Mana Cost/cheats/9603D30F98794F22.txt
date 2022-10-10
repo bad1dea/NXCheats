@@ -1,0 +1,2 @@
+[#15. Ignore Skill Mana Cost]
+080E0000 017F17C0 D65F03C0 D2800020

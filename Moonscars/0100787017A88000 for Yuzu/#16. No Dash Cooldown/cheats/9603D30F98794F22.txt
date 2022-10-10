@@ -1,0 +1,2 @@
+[#16. No Dash Cooldown]
+040E0000 017F7384 1E2703E0

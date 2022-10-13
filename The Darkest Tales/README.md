@@ -1,4 +1,4 @@
-# The Darkest Tale (US)
+# The Darkest Tales (US)
 01004C701479C000 (688B6CCFE599004E)
 
 ## Cheat List

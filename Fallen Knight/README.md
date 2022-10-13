@@ -3,7 +3,7 @@
 
 ## Cheat List
 1. Inf. HP
-1. Inf SP
+1. Inf. SP
 1. 2x Movement Speed
 
 ## Changelog

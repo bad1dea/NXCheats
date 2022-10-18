@@ -1,0 +1,2 @@
+[#20. Item Multiplier (2x)]
+040E0000 003ECABC 0B180508

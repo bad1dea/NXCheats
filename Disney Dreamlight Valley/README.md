@@ -1,5 +1,5 @@
 # Disney Dreamlight Valley (US)
-0100D39012C1A000 (140186D6DDA777CD)
+0100D39012C1A000 (0A44EF98614073BB)
 
 ## Cheat List
 1. Inf. Energy

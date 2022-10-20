@@ -9,6 +9,8 @@
 1. Friendship Multiplier
 1. Easy Unlock Dreamlight
 1. Instant Crop Growth
+1. 2x Movement Speed
+1. Regular Movement Speed
 
 ## Changelog
 [View here](./CHANGELOG.md)

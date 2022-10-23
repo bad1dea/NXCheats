@@ -1,0 +1,2 @@
+[#05. No Skill Cooldown(s)]
+040E0000 016AFC0C 2A1F03EF

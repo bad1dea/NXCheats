@@ -13,3 +13,5 @@
 
 ## Changelog
 [View here](./CHANGELOG.md)
+
+Some cheats are from patjenova and lulu

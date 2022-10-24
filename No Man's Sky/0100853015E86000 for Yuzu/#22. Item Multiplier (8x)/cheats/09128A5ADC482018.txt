@@ -1,0 +1,2 @@
+[#22. Item Multiplier (8x)]
+040E0000 003F3134 0B180D08

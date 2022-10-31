@@ -1,0 +1,2 @@
+[#04. Currency Multiplier]
+040E0000 01DC587C 0B144002

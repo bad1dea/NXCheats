@@ -1,0 +1,10 @@
+[Diablo II Resurrected (US) v1.0.2.0 TID=0100726014352000 BID=83AE35985950C7C4]
+
+{Master Code (include shared functions)}
+040E0000 00196610 1400000B
+
+[Restore Code (Use after unchecking any cheats below)]
+040E0000 00196610 36000140
+040E0000 00196610 1400000B
+
+[- khuong ツ -]

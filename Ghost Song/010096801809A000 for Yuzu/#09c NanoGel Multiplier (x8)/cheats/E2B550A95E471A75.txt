@@ -1,0 +1,2 @@
+[#09c NanoGel Multiplier (x8)]
+040E0000 01D3FC2C 0B0A0D29

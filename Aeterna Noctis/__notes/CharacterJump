@@ -1,0 +1,66 @@
+// Namespace: MoreMountains.CorgiEngine
+[AddComponentMenu] // RVA: 0x107CC0 Offset: 0x1085C8 VA: 0x107CC0
+[HiddenPropertiesAttribute] // RVA: 0x107CC0 Offset: 0x1085C8 VA: 0x107CC0
+public class CharacterJump : CharacterAbility // TypeDefIndex: 13479
+{
+	// Fields
+	[HeaderAttribute] // RVA: 0x1522E0 Offset: 0x152BE8 VA: 0x1522E0
+	public int NumberOfJumps; // 0xE8
+	public float JumpHeight; // 0xEC
+	public float JumpHeightLowFps; // 0xF0
+	public CharacterJump.JumpBehavior JumpRestrictions; // 0xF4
+	public float JumpTimeWindowforGround; // 0xF8
+	public float JumpTimeWindowforWallClinging; // 0xFC
+	public float JumpTimeWindowBeforeGrounded; // 0x100
+	public bool ResetCameraOffsetOnJump; // 0x104
+	[HeaderAttribute] // RVA: 0x152320 Offset: 0x152C28 VA: 0x152320
+	public bool JumpIsProportionalToThePressTime; // 0x105
+	public float JumpMinimumAirTime; // 0x108
+	public float JumpReleaseForceFactor; // 0x10C
+	[HeaderAttribute] // RVA: 0x152360 Offset: 0x152C68 VA: 0x152360
+	public float OneWayPlatformsJumpCollisionOffDuration; // 0x110
+	public float MovingPlatformsJumpCollisionOffDuration; // 0x114
+	[HeaderAttribute] // RVA: 0x1523A0 Offset: 0x152CA8 VA: 0x1523A0
+	public MMFeedbacks AirJumpFeedbacksRight; // 0x118
+	public MMFeedbacks AirJumpFeedbacksLeft; // 0x120
+	public MMFeedbacks JustGroundedFeedbacks; // 0x128
+	[ReadOnlyAttribute] // RVA: 0x1523E0 Offset: 0x152CE8 VA: 0x1523E0
+	public int NumberOfJumpsLeft; // 0x130
+	[CompilerGeneratedAttribute] // RVA: 0x1523F0 Offset: 0x152CF8 VA: 0x1523F0
+	private bool <JumpHappenedThisFrame>k__BackingField; // 0x134
+	[CompilerGeneratedAttribute] // RVA: 0x152400 Offset: 0x152D08 VA: 0x152400
+	private bool <CanJumpStop>k__BackingField; // 0x135
+	protected float _jumpButtonPressTime; // 0x138
+	protected bool _jumpButtonPressed; // 0x13C
+	protected bool _jumpButtonReleased; // 0x13D
+	protected bool _doubleJumping; // 0x13E
+	protected bool _highJumping; // 0x13F
+	protected bool canJustGroundedSound; // 0x140
+	protected CharacterWalljump _characterWallJump; // 0x148
+	protected CharacterCrouch _characterCrouch; // 0x150
+	protected CharacterButtonActivation _characterButtonActivation; // 0x158
+	protected CharacterLadder _characterLadder; // 0x160
+	protected CharacterDash _characterDash; // 0x168
+	protected int _initialNumberOfJumps; // 0x170
+	protected float _lastTimeGrounded; // 0x174
+	[HideInInspector] // RVA: 0x152410 Offset: 0x152D18 VA: 0x152410
+	public float _lastTimeWallClinging; // 0x178
+	private bool _lastWallClingingFacingRight; // 0x17C
+	private readonly Collider2D[] _floorColliders; // 0x180
+	private LayerMask _fixedEnemiesMask; // 0x188
+	private RaycastHit2D[] _floorHits; // 0x190
+	private bool _mustJump; // 0x198
+	private float _mustJumpMaxTime; // 0x19C
+	protected const string _jumpingAnimationParameterName = "Jumping";
+	protected const string _doubleJumpingAnimationParameterName = "DoubleJumping";
+	protected const string _highJumpingAnimationParameterName = "HighJumping";
+	protected const string _hitTheGroundAnimationParameterName = "HitTheGround";
+	protected int _jumpingAnimationParameter; // 0x1A0
+	protected int _doubleJumpingAnimationParameter; // 0x1A4
+	protected int _highJumpingAnimationParameter; // 0x1A8
+	protected int _hitTheGroundAnimationParameter; // 0x1AC
+	public SkillController skillController; // 0x1B0
+	public bool JumpTimeWindowForGround; // 0x1B8
+	public bool JumpTimeWindowForWallClinging; // 0x1B9
+	private static readonly int JustJump; // 0x0
+	private static readonly int Sleeping; // 0x4

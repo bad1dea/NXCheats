@@ -1,0 +1,143 @@
+// Namespace: MoreMountains.CorgiEngine
+[AddComponentMenu] // RVA: 0x1064D0 Offset: 0x106DD8 VA: 0x1064D0
+public class GameManager : PersistentSingleton<GameManager>, MMEventListener<MMGameEvent>, MMEventListenerBase, MMEventListener<CorgiEngineEvent>, MMEventListener<CorgiEnginePointsEvent> // TypeDefIndex: 13267
+{
+	// Fields
+	public CheckPoint LastThroneCheckPoint; // 0x20
+	public string LastThroneCheckPointOtherScene; // 0x28
+	public string LastThroneScene; // 0x30
+	public bool MustRespawninTrhone; // 0x38
+	public bool firstStart; // 0x39
+	public bool MustGoToInside; // 0x3A
+	public CheckPoint LastMiniThroneCheckPoint; // 0x40
+	public bool KilledByBoss; // 0x48
+	[CompilerGeneratedAttribute] // RVA: 0x14DB90 Offset: 0x14E498 VA: 0x14DB90
+	private int <Points>k__BackingField; // 0x4C
+	[CompilerGeneratedAttribute] // RVA: 0x14DBA0 Offset: 0x14E4A8 VA: 0x14DBA0
+	private bool <Paused>k__BackingField; // 0x50
+	[CompilerGeneratedAttribute] // RVA: 0x14DBB0 Offset: 0x14E4B8 VA: 0x14DBB0
+	private bool <StoredLevelMapPosition>k__BackingField; // 0x51
+	[CompilerGeneratedAttribute] // RVA: 0x14DBC0 Offset: 0x14E4C8 VA: 0x14DBC0
+	private Vector2 <LevelMapPosition>k__BackingField; // 0x54
+	[CompilerGeneratedAttribute] // RVA: 0x14DBD0 Offset: 0x14E4D8 VA: 0x14DBD0
+	private Character <StoredCharacter>k__BackingField; // 0x60
+	[CompilerGeneratedAttribute] // RVA: 0x14DBE0 Offset: 0x14E4E8 VA: 0x14DBE0
+	private List<PointsOfEntryStorage> <PointsOfEntry>k__BackingField; // 0x68
+	protected bool _inventoryOpen; // 0x70
+	protected bool _pauseMenuOpen; // 0x71
+	protected bool _selectMenuOpen; // 0x72
+	protected bool _cantPause; // 0x73
+	protected bool _cantUnPause; // 0x74
+	protected bool _shopping; // 0x75
+	protected InventoryInputManager _inventoryInputManager; // 0x78
+	protected int _initialMaximumLives; // 0x80
+	protected int _initialCurrentLives; // 0x84
+	public string ActualFolderName; // 0x88
+	public string ActualFileName; // 0x90
+	public bool _menuError; // 0x98
+	public bool fromActivity; // 0x99
+	public bool corruptSave; // 0x9A
+	[HeaderAttribute] // RVA: 0x14DBF0 Offset: 0x14E4F8 VA: 0x14DBF0
+	public bool introFreeze; // 0x9B
+	public GameObject KingTinySoul; // 0xA0
+	public GameObject KingNormalSoul; // 0xA8
+	[HeaderAttribute] // RVA: 0x14DC30 Offset: 0x14E538 VA: 0x14DC30
+	public bool LevelDebug; // 0xB0
+	[HeaderAttribute] // RVA: 0x14DC70 Offset: 0x14E578 VA: 0x14DC70
+	public bool timerStart; // 0xB1
+	public float seconds; // 0xB4
+	public float minutes; // 0xB8
+	public float milisec; // 0xBC
+	[HeaderAttribute] // RVA: 0x14DCB0 Offset: 0x14E5B8 VA: 0x14DCB0
+	public int deathCount; // 0xC0
+	public AchievementController achievements; // 0xC8
+	[HeaderAttribute] // RVA: 0x14DCF0 Offset: 0x14E5F8 VA: 0x14DCF0
+	public GameObject saveLogo; // 0xD0
+	[HeaderAttribute] // RVA: 0x14DD30 Offset: 0x14E638 VA: 0x14DD30
+	public bool vibration; // 0xD8
+	public bool fpsCounter; // 0xD9
+	[HeaderAttribute] // RVA: 0x14DD70 Offset: 0x14E678 VA: 0x14DD70
+	public bool canPickCoins; // 0xDA
+	public int currentCoins; // 0xDC
+	[HeaderAttribute] // RVA: 0x14DDB0 Offset: 0x14E6B8 VA: 0x14DDB0
+	public GameObject potionPrefab; // 0xE0
+	[HeaderAttribute] // RVA: 0x14DDF0 Offset: 0x14E6F8 VA: 0x14DDF0
+	public GameObject darkPortalPrefab; // 0xE8
+	[HeaderAttribute] // RVA: 0x14DE30 Offset: 0x14E738 VA: 0x14DE30
+	public bool canPickDarkMatter; // 0xF0
+	public int requiredDarkMatter; // 0xF4
+	public int baseRequiredDarkMatter; // 0xF8
+	public float decimalDivider; // 0xFC
+	public int currentDarkMatter; // 0x100
+	public int currentAbilityPoints; // 0x104
+	public int currentPlayerLevel; // 0x108
+	public int hitsRecieved; // 0x10C
+	[HeaderAttribute] // RVA: 0x14DE70 Offset: 0x14E778 VA: 0x14DE70
+	public int totalSecrets; // 0x110
+	public int currentSecrets; // 0x114
+	[HeaderAttribute] // RVA: 0x14DEB0 Offset: 0x14E7B8 VA: 0x14DEB0
+	public int darkMaterials; // 0x118
+	[HeaderAttribute] // RVA: 0x14DEF0 Offset: 0x14E7F8 VA: 0x14DEF0
+	public KingThrone[] thrones; // 0x120
+	private KingThrone _throneFrom; // 0x128
+	private KingThrone _throneTo; // 0x130
+	[SerializeField] // RVA: 0x14DF30 Offset: 0x14E838 VA: 0x14DF30
+	[HeaderAttribute] // RVA: 0x14DF30 Offset: 0x14E838 VA: 0x14DF30
+	private TextAsset sceneConfigFile; // 0x138
+	public float mobsLifeModifier; // 0x140
+	public bool haveVibration; // 0x144
+	public bool haveSubtitles; // 0x145
+	public bool haveDamageNumbers; // 0x146
+	public bool fromMainMenu; // 0x147
+	[HeaderAttribute] // RVA: 0x14DF80 Offset: 0x14E888 VA: 0x14DF80
+	public Texture2D save1Thumbnail; // 0x148
+	public Texture2D save2Thumbnail; // 0x150
+	public Texture2D save3Thumbnail; // 0x158
+	public Texture2D save4Thumbnail; // 0x160
+	public Texture2D save5Thumbnail; // 0x168
+	[BoxGroupAttribute] // RVA: 0x14DFC0 Offset: 0x14E8C8 VA: 0x14DFC0
+	[HideIfAttribute] // RVA: 0x14DFC0 Offset: 0x14E8C8 VA: 0x14DFC0
+	public bool forceKeyboard; // 0x170
+	[HideIfAttribute] // RVA: 0x14E090 Offset: 0x14E998 VA: 0x14E090
+	[BoxGroupAttribute] // RVA: 0x14E090 Offset: 0x14E998 VA: 0x14E090
+	public bool forcePlaystation; // 0x171
+	[BoxGroupAttribute] // RVA: 0x14E160 Offset: 0x14EA68 VA: 0x14E160
+	[HideIfAttribute] // RVA: 0x14E160 Offset: 0x14EA68 VA: 0x14E160
+	public bool forceXbox; // 0x172
+	[HideIfAttribute] // RVA: 0x14E230 Offset: 0x14EB38 VA: 0x14E230
+	[BoxGroupAttribute] // RVA: 0x14E230 Offset: 0x14EB38 VA: 0x14E230
+	public bool forceSwitch; // 0x173
+	[HeaderAttribute] // RVA: 0x14E300 Offset: 0x14EC08 VA: 0x14E300
+	[ReadOnlyAttribute] // RVA: 0x14E300 Offset: 0x14EC08 VA: 0x14E300
+	public bool inThrone; // 0x174
+	[ReadOnlyAttribute] // RVA: 0x14E350 Offset: 0x14EC58 VA: 0x14E350
+	public bool inStandUpThrone; // 0x175
+	[ReadOnlyAttribute] // RVA: 0x14E360 Offset: 0x14EC68 VA: 0x14E360
+	public float StartSceneZCameraZoom; // 0x178
+	[ReadOnlyAttribute] // RVA: 0x14E370 Offset: 0x14EC78 VA: 0x14E370
+	public GameObject PreviousCameraTriggerZoom; // 0x180
+	[ReadOnlyAttribute] // RVA: 0x14E380 Offset: 0x14EC88 VA: 0x14E380
+	public Vector3 PreviousCameraTriggerZoomPosition; // 0x188
+	[ReadOnlyAttribute] // RVA: 0x14E390 Offset: 0x14EC98 VA: 0x14E390
+	public bool InTriggerZoom; // 0x194
+	[HideInInspector] // RVA: 0x14E3A0 Offset: 0x14ECA8 VA: 0x14E3A0
+	public bool loadingDiferentScene; // 0x195
+	[HideInInspector] // RVA: 0x14E3B0 Offset: 0x14ECB8 VA: 0x14E3B0
+	public bool freezeKingGravityOff; // 0x196
+	[HideInInspector] // RVA: 0x14E3C0 Offset: 0x14ECC8 VA: 0x14E3C0
+	public bool lvlUp; // 0x197
+	public Difficulty _difficulty; // 0x198
+	public bool smoothControl; // 0x19C
+	public string gameLanguage; // 0x1A0
+	public bool isDemoForge; // 0x1A8
+	public bool skipIntroCutscene; // 0x1A9
+	public bool firstSave; // 0x1AA
+	[HideInInspector] // RVA: 0x14E3D0 Offset: 0x14ECD8 VA: 0x14E3D0
+	public bool avoidPauseJump; // 0x1AB
+	[HideInInspector] // RVA: 0x14E3E0 Offset: 0x14ECE8 VA: 0x14E3E0
+	public bool avoidNormalState; // 0x1AC
+	[HideInInspector] // RVA: 0x14E3F0 Offset: 0x14ECF8 VA: 0x14E3F0
+	public string sceneToLoad; // 0x1B0
+	private static readonly int UnscaledTime; // 0x0
+	private SceneConfig[] _sceneConfigs; // 0x1B8
+	private static LayerMask _defaultCameraMask; // 0x4

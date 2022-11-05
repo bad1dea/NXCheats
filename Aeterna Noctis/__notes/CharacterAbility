@@ -1,0 +1,36 @@
+// Namespace: MoreMountains.CorgiEngine
+[RequireComponent] // RVA: 0x107710 Offset: 0x108018 VA: 0x107710
+public class CharacterAbility : MonoBehaviour // TypeDefIndex: 13449
+{
+	// Fields
+	public MMFeedbacks AbilityStartFeedbacks; // 0x18
+	public MMFeedbacks AbilityStopFeedbacks; // 0x20
+	[HeaderAttribute] // RVA: 0x151820 Offset: 0x152128 VA: 0x151820
+	public bool AbilityPermitted; // 0x28
+	protected Character _character; // 0x30
+	protected Health _health; // 0x38
+	protected CharacterHorizontalMovement _characterHorizontalMovement; // 0x40
+	protected CorgiController _controller; // 0x48
+	protected InputManager _inputManager; // 0x50
+	protected CameraController _sceneCamera; // 0x58
+	protected Animator _animator; // 0x60
+	protected CharacterStates _state; // 0x68
+	protected SpriteRenderer _spriteRenderer; // 0x70
+	protected MMStateMachine<CharacterStates.MovementStates> _movement; // 0x78
+	protected MMStateMachine<CharacterStates.CharacterConditions> _condition; // 0x80
+	protected bool _abilityInitialized; // 0x88
+	protected CharacterGravity _characterGravity; // 0x90
+	protected bool _startFeedbackIsPlaying; // 0x98
+	[HeaderAttribute] // RVA: 0x151860 Offset: 0x152168 VA: 0x151860
+	public MMFeedbacks AbilityStartFeedbacksRight; // 0xA0
+	public MMFeedbacks AbilityStartFeedbacksLeft; // 0xA8
+	public bool AbilityFeedbackBothSides; // 0xB0
+	[HeaderAttribute] // RVA: 0x1518A0 Offset: 0x1521A8 VA: 0x1518A0
+	public MMFeedbacks AbilityStartFeedbacksGrounded; // 0xB8
+	public bool AbilityFeedbackIfGrounded; // 0xC0
+	[HeaderAttribute] // RVA: 0x1518E0 Offset: 0x1521E8 VA: 0x1518E0
+	public MMFeedbacks AbilityStartFeedbacksStoppedRight; // 0xC8
+	public MMFeedbacks AbilityStartFeedbacksStoppedLeft; // 0xD0
+	public bool AbilityFeedbackIfStopped; // 0xD8
+	private int playerID; // 0xDC
+	public Player player; // 0xE0

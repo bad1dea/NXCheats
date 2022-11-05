@@ -1,0 +1,133 @@
+// Namespace: MoreMountains.CorgiEngine
+[SelectionBaseAttribute] // RVA: 0x106CD0 Offset: 0x1075D8 VA: 0x106CD0
+[AddComponentMenu] // RVA: 0x106CD0 Offset: 0x1075D8 VA: 0x106CD0
+public class Character : MonoBehaviour // TypeDefIndex: 13368
+{
+	// Fields
+	private static readonly int Wind; // 0x0
+	private static readonly int WindInverse; // 0x4
+	[InformationAttribute] // RVA: 0x14F220 Offset: 0x14FB28 VA: 0x14F220
+	public Character.CharacterTypes CharacterType; // 0x18
+	public string PlayerID; // 0x20
+	[CompilerGeneratedAttribute] // RVA: 0x14F260 Offset: 0x14FB68 VA: 0x14F260
+	private CharacterStates <CharacterState>k__BackingField; // 0x28
+	[InformationAttribute] // RVA: 0x14F270 Offset: 0x14FB78 VA: 0x14F270
+	[HeaderAttribute] // RVA: 0x14F270 Offset: 0x14FB78 VA: 0x14F270
+	public Character.FacingDirections InitialFacingDirection; // 0x30
+	[InformationAttribute] // RVA: 0x14F2E0 Offset: 0x14FBE8 VA: 0x14F2E0
+	public Character.SpawnFacingDirections DirectionOnSpawn; // 0x34
+	[CompilerGeneratedAttribute] // RVA: 0x14F320 Offset: 0x14FC28 VA: 0x14F320
+	private bool <IsFacingRight>k__BackingField; // 0x38
+	[InformationAttribute] // RVA: 0x14F330 Offset: 0x14FC38 VA: 0x14F330
+	[HeaderAttribute] // RVA: 0x14F330 Offset: 0x14FC38 VA: 0x14F330
+	public Animator CharacterAnimator; // 0x40
+	public bool UseDefaultMecanim; // 0x48
+	[InformationAttribute] // RVA: 0x14F3A0 Offset: 0x14FCA8 VA: 0x14F3A0
+	[HeaderAttribute] // RVA: 0x14F3A0 Offset: 0x14FCA8 VA: 0x14F3A0
+	public GameObject CharacterModel; // 0x50
+	public GameObject CameraTarget; // 0x58
+	public float CameraTargetSpeed; // 0x60
+	[InformationAttribute] // RVA: 0x14F410 Offset: 0x14FD18 VA: 0x14F410
+	public bool FlipModelOnDirectionChange; // 0x64
+	[ConditionAttribute] // RVA: 0x14F450 Offset: 0x14FD58 VA: 0x14F450
+	public Vector3 ModelFlipValue; // 0x68
+	public bool RotateModelOnDirectionChange; // 0x74
+	[ConditionAttribute] // RVA: 0x14F490 Offset: 0x14FD98 VA: 0x14F490
+	public Vector3 ModelRotationValue; // 0x78
+	[ConditionAttribute] // RVA: 0x14F4D0 Offset: 0x14FDD8 VA: 0x14F4D0
+	public float ModelRotationSpeed; // 0x84
+	[HeaderAttribute] // RVA: 0x14F510 Offset: 0x14FE18 VA: 0x14F510
+	[InformationAttribute] // RVA: 0x14F510 Offset: 0x14FE18 VA: 0x14F510
+	public bool SendStateChangeEvents; // 0x88
+	public bool SendStateUpdateEvents; // 0x89
+	[HeaderAttribute] // RVA: 0x14F580 Offset: 0x14FE88 VA: 0x14F580
+	public float AirborneDistance; // 0x8C
+	public MMStateMachine<CharacterStates.MovementStates> MovementState; // 0x90
+	public MMStateMachine<CharacterStates.CharacterConditions> ConditionState; // 0x98
+	[CompilerGeneratedAttribute] // RVA: 0x14F5C0 Offset: 0x14FEC8 VA: 0x14F5C0
+	private CameraController <SceneCamera>k__BackingField; // 0xA0
+	[CompilerGeneratedAttribute] // RVA: 0x14F5D0 Offset: 0x14FED8 VA: 0x14F5D0
+	private InputManager <LinkedInputManager>k__BackingField; // 0xA8
+	[CompilerGeneratedAttribute] // RVA: 0x14F5E0 Offset: 0x14FEE8 VA: 0x14F5E0
+	private Animator <_animator>k__BackingField; // 0xB0
+	[CompilerGeneratedAttribute] // RVA: 0x14F5F0 Offset: 0x14FEF8 VA: 0x14F5F0
+	private List<int> <_animatorParameters>k__BackingField; // 0xB8
+	[CompilerGeneratedAttribute] // RVA: 0x14F600 Offset: 0x14FF08 VA: 0x14F600
+	private bool <CanFlip>k__BackingField; // 0xC0
+	public bool TotalDie; // 0xC1
+	public CorgiController _controller; // 0xC8
+	protected SpriteRenderer _spriteRenderer; // 0xD0
+	protected Color _initialColor; // 0xD8
+	protected CharacterAbility[] _characterAbilities; // 0xE8
+	protected Health _health; // 0xF0
+	protected bool _spawnDirectionForced; // 0xF8
+	protected AIBrain _aiBrain; // 0x100
+	protected Vector3 _targetModelRotation; // 0x108
+	protected DamageOnTouch _damageOnTouch; // 0x118
+	protected Vector3 _cameraTargetInitialPosition; // 0x120
+	protected Vector3 _cameraOffset; // 0x12C
+	protected Collider2D characterCollider2d; // 0x138
+	protected CharacterAbility _characterAbility; // 0x140
+	public SkillController _skillController; // 0x148
+	private bool falling; // 0x150
+	private bool fallingLoop; // 0x151
+	private float _timeFalling; // 0x154
+	private bool _isTheKing; // 0x158
+	protected float _verticalInput; // 0x15C
+	protected float _verticalInputRaw; // 0x160
+	protected float _horizontalInput; // 0x164
+	protected float _horizontalInputRaw; // 0x168
+	private CharacterGravity _characterGravity; // 0x170
+	protected string charAnimClipName; // 0x178
+	protected float timeInAir; // 0x180
+	protected DeathCounter _deathCounter; // 0x188
+	protected ProgressController _progressController; // 0x190
+	public MMFeedbacks highFallStartFeedbacks; // 0x198
+	public MMFeedbacks impactStartFeedbacks; // 0x1A0
+	private Player _player; // 0x1A8
+	private Coroutine _pauseAbilitiesCoroutine; // 0x1B0
+	protected const string _groundedAnimationParameterName = "Grounded";
+	protected const string _airborneAnimationParameterName = "Airborne";
+	protected const string _xSpeedAnimationParameterName = "xSpeed";
+	protected const string _ySpeedAnimationParameterName = "ySpeed";
+	protected const string _collidingLeftAnimationParameterName = "CollidingLeft";
+	protected const string _collidingRightAnimationParameterName = "CollidingRight";
+	protected const string _collidingBelowAnimationParameterName = "CollidingBelow";
+	protected const string _collidingAboveAnimationParameterName = "CollidingAbove";
+	protected const string _idleSpeedAnimationParameterName = "Idle";
+	protected const string _aliveAnimationParameterName = "Alive";
+	protected const string _facingRightAnimationParameterName = "FacingRight";
+	protected const string _inputHorizontalAnimationParameterName = "InputHorizontal";
+	protected const string _inputVerticalAnimationParameterName = "InputVertical";
+	protected int _groundedAnimationParameter; // 0x1B8
+	protected int _airborneSpeedAnimationParameter; // 0x1BC
+	protected int _xSpeedSpeedAnimationParameter; // 0x1C0
+	protected int _ySpeedSpeedAnimationParameter; // 0x1C4
+	protected int _collidingLeftAnimationParameter; // 0x1C8
+	protected int _collidingRightAnimationParameter; // 0x1CC
+	protected int _collidingBelowAnimationParameter; // 0x1D0
+	protected int _collidingAboveAnimationParameter; // 0x1D4
+	protected int _idleSpeedAnimationParameter; // 0x1D8
+	protected int _aliveAnimationParameter; // 0x1DC
+	protected int _facingRightAnimationParameter; // 0x1E0
+	protected int _inputHorizontalAnimationParameter; // 0x1E4
+	protected int _inputVerticalAnimationParameter; // 0x1E8
+	private bool _isHealthNotNull; // 0x1EC
+	private bool _isCharacterModelNotNull; // 0x1ED
+	private bool _isSpriteRendererNotNull; // 0x1EE
+	private bool _characterModelNotNull; // 0x1EF
+	private bool _spriteRendererNotNull; // 0x1F0
+	private bool _modelNotNull; // 0x1F1
+	private static readonly int TurnRunning; // 0x8
+	private static readonly int XSpeed; // 0xC
+	private static readonly int YSpeed; // 0x10
+	private static readonly int InverseDangling; // 0x14
+	private static readonly int MustRun; // 0x18
+	private static readonly int Jumping; // 0x1C
+	private static readonly int WallJumping; // 0x20
+	private static readonly int DoubleJumping; // 0x24
+	private static readonly int WallClinging; // 0x28
+	private static readonly int Pushing; // 0x2C
+	private static readonly int FacingRight; // 0x30
+	private static readonly int Teleport; // 0x34
+	private static readonly int MustImpact; // 0x38

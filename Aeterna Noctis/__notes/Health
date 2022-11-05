@@ -1,0 +1,160 @@
+// Namespace: MoreMountains.CorgiEngine
+[AddComponentMenu] // RVA: 0x106DB0 Offset: 0x1076B8 VA: 0x106DB0
+public class Health : MonoBehaviour // TypeDefIndex: 13396
+{
+	// Fields
+	private static readonly int KingAnimatorHurt; // 0x0
+	private static readonly int ShaderFlick; // 0x4
+	private static readonly int ShaderFlickHDR; // 0x8
+	private static readonly int ShaderFlickColor; // 0xC
+	private GUIManager _guiManager; // 0x18
+	[ReadOnlyAttribute] // RVA: 0x14F650 Offset: 0x14FF58 VA: 0x14F650
+	public int CurrentHealth; // 0x20
+	[ReadOnlyAttribute] // RVA: 0x14F660 Offset: 0x14FF68 VA: 0x14F660
+	public int BaseHealth; // 0x24
+	[ReadOnlyAttribute] // RVA: 0x14F670 Offset: 0x14FF78 VA: 0x14F670
+	public bool TemporaryInvulnerable; // 0x28
+	public bool TemporaryInvulnerablewithBow; // 0x29
+	[InformationAttribute] // RVA: 0x14F680 Offset: 0x14FF88 VA: 0x14F680
+	[HeaderAttribute] // RVA: 0x14F680 Offset: 0x14FF88 VA: 0x14F680
+	public int InitialHealth; // 0x2C
+	public int MaximumHealth; // 0x30
+	public int DamagepopupMinimumHealth; // 0x34
+	public bool Invulnerable; // 0x38
+	public bool TotalInvulnerable; // 0x39
+	public bool isBigEnemy; // 0x3A
+	[HeaderAttribute] // RVA: 0x14F6F0 Offset: 0x14FFF8 VA: 0x14F6F0
+	public Vector2 KnockBackHorizontalForce; // 0x3C
+	[InformationAttribute] // RVA: 0x14F730 Offset: 0x150038 VA: 0x14F730
+	[HeaderAttribute] // RVA: 0x14F730 Offset: 0x150038 VA: 0x14F730
+	public MMFeedbacks DamageFeedbacks; // 0x48
+	public MMFeedbacks DamageFeedbacksIfInvulnerable; // 0x50
+	public MMFeedbacks DamageFeedbacksIfInvulnerableRight; // 0x58
+	public MMFeedbacks DamageFeedbacksIfInvulnerableLeft; // 0x60
+	public MMFeedbacks DamageBladesFeedbacks; // 0x68
+	public MMFeedbacks DamageFeedbacksRight; // 0x70
+	public MMFeedbacks DamageFeedbacksLeft; // 0x78
+	public MMFeedbacks AerialRecoverFeedbacks; // 0x80
+	[SerializeField] // RVA: 0x14F7A0 Offset: 0x1500A8 VA: 0x14F7A0
+	private MMFeedbacks guardianAngelFeedbacks; // 0x88
+	public bool FlickerSpriteOnHit; // 0x90
+	public bool IgnoreKingAttackImpact; // 0x91
+	public bool IgnoreKingSelfKnockback; // 0x92
+	public bool IgnoreDamagePopup; // 0x93
+	public bool IgnoreDamagePopupInvulnerable; // 0x94
+	public bool KnockbackWhenImmune; // 0x95
+	public Vector2 KnockbackWhenImmuneForce; // 0x98
+	public bool ImmuneToKnockback; // 0xA0
+	public bool ImmuneToSpikes; // 0xA1
+	public bool ImmuneToLight; // 0xA2
+	public bool ImmuneToDark; // 0xA3
+	public bool ignoreShakeOnHit; // 0xA4
+	public bool FixedDamage; // 0xA5
+	public int MaxDamagedFromWeapon; // 0xA8
+	public int MaxDamagedFromArrow; // 0xAC
+	[MMFConditionAttribute] // RVA: 0x14F7B0 Offset: 0x1500B8 VA: 0x14F7B0
+	public int FixedDamageAmount; // 0xB0
+	[HeaderAttribute] // RVA: 0x14F7F0 Offset: 0x1500F8 VA: 0x14F7F0
+	[InformationAttribute] // RVA: 0x14F7F0 Offset: 0x1500F8 VA: 0x14F7F0
+	public MMFeedbacks DeathFeedbacks; // 0xB8
+	public MMFeedbacks DeathFeedbacksRight; // 0xC0
+	public MMFeedbacks DeathFeedbacksLeft; // 0xC8
+	public bool SlimeDeath; // 0xD0
+	public bool DestroyOnDeath; // 0xD1
+	public float DelayBeforeDestruction; // 0xD4
+	public bool CollisionsOffOnDeath; // 0xD8
+	public bool DamageOffOnDeath; // 0xD9
+	public bool SetLayerOnDeath; // 0xDA
+	public bool ignoreShakeOnDeath; // 0xDB
+	public LayerMask LayerOnDeath; // 0xDC
+	public int PointsWhenDestroyed; // 0xE0
+	public bool VibrateOnDeath; // 0xE4
+	public bool RespawnAtInitialLocation; // 0xE5
+	public bool SaveOnDestroyObject; // 0xE6
+	[HeaderAttribute] // RVA: 0x14F860 Offset: 0x150168 VA: 0x14F860
+	public Vector2 DeathForce; // 0xE8
+	public bool ResetForcesOnDeath; // 0xF0
+	public Health.OnHitDelegate OnHit; // 0xF8
+	public Health.OnHitDamageDelegate OnHitDamage; // 0x100
+	public Health.OnHitZeroDelegate OnHitZero; // 0x108
+	public Health.OnHitZeroDamageDelegate OnHitZeroDamage; // 0x110
+	public Health.OnReviveDelegate OnRevive; // 0x118
+	public Health.OnDeathDelegate OnDeath; // 0x120
+	public Health.OnDeathDamageDelegate OnDeathDamage; // 0x128
+	public Health.OnDivideDelegate onDivide; // 0x130
+	public Collider2D SecretCollider2D; // 0x138
+	protected Vector3 _initialPosition; // 0x140
+	protected Color _initialColor; // 0x14C
+	protected Color[] _initialColors; // 0x160
+	private float _flickerSpeed; // 0x168
+	protected Material _initialMaterial; // 0x170
+	protected Material[] _initialMaterials; // 0x178
+	public SpriteRenderer[] FickerIgnoreRenderers; // 0x180
+	protected SpriteRenderer _renderer; // 0x188
+	protected SpriteRenderer[] _allRenderers; // 0x190
+	protected Character _character; // 0x198
+	protected CorgiController _controller; // 0x1A0
+	protected MMHealthBar _healthBar; // 0x1A8
+	protected Collider2D _collider2D; // 0x1B0
+	protected bool _initialized; // 0x1B8
+	protected AutoRespawn _autoRespawn; // 0x1C0
+	protected Animator _animator; // 0x1C8
+	private DarkMatterOnDeath _darkMatterOnDeath; // 0x1D0
+	private VegetationController _vegetationController; // 0x1D8
+	private SlimeController _slimeController; // 0x1E0
+	private SlimeSpawner _slimeSpawner; // 0x1E8
+	public bool deathFeedbacksBothSides; // 0x1F0
+	public bool invulnerableDamageFeedbacksBothSides; // 0x1F1
+	public bool damageFeedbacksBothSides; // 0x1F2
+	public bool reflectDamage; // 0x1F3
+	public int DamageToReflect; // 0x1F4
+	public float InvincibilityDurationWhenReflect; // 0x1F8
+	[MaxAttribute] // RVA: 0x14F8A0 Offset: 0x1501A8 VA: 0x14F8A0
+	public float AerialRecoverWindow; // 0x1FC
+	[HeaderAttribute] // RVA: 0x14F900 Offset: 0x150208 VA: 0x14F900
+	[SerializeField] // RVA: 0x14F900 Offset: 0x150208 VA: 0x14F900
+	private bool isBoss; // 0x200
+	public int customLevel; // 0x204
+	[HeaderAttribute] // RVA: 0x14F950 Offset: 0x150258 VA: 0x14F950
+	[SerializeField] // RVA: 0x14F950 Offset: 0x150258 VA: 0x14F950
+	private bool FlickEnabled; // 0x208
+	[SerializeField] // RVA: 0x14F9A0 Offset: 0x1502A8 VA: 0x14F9A0
+	[ShowIfAttribute] // RVA: 0x14F9A0 Offset: 0x1502A8 VA: 0x14F9A0
+	private float FlickHdr; // 0x20C
+	[ShowIfAttribute] // RVA: 0x14F9F0 Offset: 0x1502F8 VA: 0x14F9F0
+	[SerializeField] // RVA: 0x14F9F0 Offset: 0x1502F8 VA: 0x14F9F0
+	private Color FlickColor; // 0x210
+	[SerializeField] // RVA: 0x14FA40 Offset: 0x150348 VA: 0x14FA40
+	[ShowIfAttribute] // RVA: 0x14FA40 Offset: 0x150348 VA: 0x14FA40
+	private int FlickAmounts; // 0x220
+	[SerializeField] // RVA: 0x14FA90 Offset: 0x150398 VA: 0x14FA90
+	[ShowIfAttribute] // RVA: 0x14FA90 Offset: 0x150398 VA: 0x14FA90
+	private float FlickDurations; // 0x224
+	private float FlickIntervalDuration; // 0x228
+	[SerializeField] // RVA: 0x14FAE0 Offset: 0x1503E8 VA: 0x14FAE0
+	[ShowIfAttribute] // RVA: 0x14FAE0 Offset: 0x1503E8 VA: 0x14FAE0
+	private Color FlickHealingColor; // 0x22C
+	[SerializeField] // RVA: 0x14FB30 Offset: 0x150438 VA: 0x14FB30
+	[ShowIfAttribute] // RVA: 0x14FB30 Offset: 0x150438 VA: 0x14FB30
+	private bool NoFickOnDeath; // 0x23C
+	private int playerID; // 0x240
+	private Player player; // 0x248
+	[CompilerGeneratedAttribute] // RVA: 0x14FB80 Offset: 0x150488 VA: 0x14FB80
+	private bool <IsAlive>k__BackingField; // 0x250
+	[CompilerGeneratedAttribute] // RVA: 0x14FB90 Offset: 0x150498 VA: 0x14FB90
+	private bool <IsRespawning>k__BackingField; // 0x251
+	[CompilerGeneratedAttribute] // RVA: 0x14FBA0 Offset: 0x1504A8 VA: 0x14FBA0
+	private bool <CanAerialRecover>k__BackingField; // 0x252
+	[CompilerGeneratedAttribute] // RVA: 0x14FBB0 Offset: 0x1504B8 VA: 0x14FBB0
+	private bool <DoAerialRecover>k__BackingField; // 0x253
+	private bool isInvulnerableFeedBack; // 0x254
+	private bool _aerialRecoverStopFlick; // 0x255
+	public bool flickAfterDeath; // 0x256
+	private static readonly int AnimatorDead; // 0x10
+	private static readonly int KingAnimatorDead; // 0x14
+	private static readonly int AnimatorDeath; // 0x18
+	private int _layerIndexOnDeath; // 0x258
+	private bool _canFlick; // 0x25C
+	[HideInInspector] // RVA: 0x14FBC0 Offset: 0x1504C8 VA: 0x14FBC0
+	public bool _firsTimeDie; // 0x25D
+	public float nextTimeInvulnerableKockback; // 0x260

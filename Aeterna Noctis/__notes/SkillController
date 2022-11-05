@@ -1,0 +1,351 @@
+// Namespace: Scripts.Controller
+public class SkillController : MonoBehaviour // TypeDefIndex: 12689
+{
+	// Fields
+	private static readonly int NoCombat; // 0x0
+	private static readonly int Idle; // 0x4
+	private static readonly int Sleeping; // 0x8
+	private static readonly int WallClinging; // 0xC
+	private static readonly int Pushing; // 0x10
+	private static readonly int Dashing; // 0x14
+	private static readonly int Impact; // 0x18
+	private static readonly int Teleport; // 0x1C
+	private static readonly int Hurt; // 0x20
+	private static readonly int Resting; // 0x24
+	private static readonly int HAttack; // 0x28
+	private static readonly int Dead; // 0x2C
+	private static readonly int Alive; // 0x30
+	private static readonly int Grounded; // 0x34
+	private static readonly int AttackInstant; // 0x38
+	private static readonly int BasicAttack1; // 0x3C
+	private static readonly int BasicAttack2; // 0x40
+	private static readonly int BasicAttack3; // 0x44
+	private static readonly int BasicAttackUp; // 0x48
+	private static readonly int BasicAttackDown; // 0x4C
+	private static readonly int BasicAttackOnAir; // 0x50
+	private static readonly int ScytheAttackCharge; // 0x54
+	private static readonly int ScytheAttack1; // 0x58
+	private static readonly int ScytheAttack2; // 0x5C
+	private static readonly int ScytheAttackAir; // 0x60
+	private static readonly int AnimatorSpearAttackStart; // 0x64
+	private static readonly int AnimatorSpearAttack; // 0x68
+	private static readonly int AnimatorSpearShrapnelDestroy; // 0x6C
+	private static readonly int AnimatorKatanaSlashStart; // 0x70
+	private static readonly int AnimatorKatanaSlash; // 0x74
+	private static readonly int AnimatorKatanaFeint; // 0x78
+	private static readonly int AnimatorScytheThrow; // 0x7C
+	private static readonly int AnimatorScytheThrowIndex; // 0x80
+	private static readonly int AnimatorPortalCasting; // 0x84
+	private static readonly int AnimatorPortalComplete; // 0x88
+	private static readonly int AnimatorShieldOn; // 0x8C
+	private static readonly int AnimatorShieldStatus; // 0x90
+	private static readonly int AnimatorShieldOff; // 0x94
+	private static readonly int AnimatorShieldHit; // 0x98
+	private static readonly int FacingRight; // 0x9C
+	private static readonly int Whirlwind1; // 0xA0
+	private static readonly int CollidingBelow; // 0xA4
+	[HeaderAttribute] // RVA: 0x141370 Offset: 0x141C78 VA: 0x141370
+	public bool canToNoCombatStance; // 0x18
+	[SerializeField] // RVA: 0x1413B0 Offset: 0x141CB8 VA: 0x1413B0
+	private float toNoCombatTime; // 0x1C
+	public bool canSleep; // 0x20
+	[SerializeField] // RVA: 0x1413C0 Offset: 0x141CC8 VA: 0x1413C0
+	private float toSleepTime; // 0x24
+	[SerializeField] // RVA: 0x1413D0 Offset: 0x141CD8 VA: 0x1413D0
+	private float timeBetweenBasicAndHard; // 0x28
+	public float _bigBloodCostPercent; // 0x2C
+	[SerializeField] // RVA: 0x1413E0 Offset: 0x141CE8 VA: 0x1413E0
+	private MMFeedbacks inSleepingStatusFeedbacks; // 0x30
+	[SerializeField] // RVA: 0x1413F0 Offset: 0x141CF8 VA: 0x1413F0
+	private MMFeedbacks outSleepingStatusFeedbacks; // 0x38
+	[SerializeField] // RVA: 0x141400 Offset: 0x141D08 VA: 0x141400
+	private MMFeedbacks cantPayBloodCostFeedbacks; // 0x40
+	[HeaderAttribute] // RVA: 0x141410 Offset: 0x141D18 VA: 0x141410
+	public bool basicAttack; // 0x48
+	[SerializeField] // RVA: 0x141450 Offset: 0x141D58 VA: 0x141450
+	private float basicAttackDuration; // 0x4C
+	public float basicAttackCooldown; // 0x50
+	[SerializeField] // RVA: 0x141460 Offset: 0x141D68 VA: 0x141460
+	private float basicAttackBloodCost; // 0x54
+	[SerializeField] // RVA: 0x141470 Offset: 0x141D78 VA: 0x141470
+	private float cancelAbilitiesDuration; // 0x58
+	[SerializeField] // RVA: 0x141480 Offset: 0x141D88 VA: 0x141480
+	private float basicAttackWaveDuration; // 0x5C
+	[SerializeField] // RVA: 0x141490 Offset: 0x141D98 VA: 0x141490
+	private float basicAttackWaveSpeed; // 0x60
+	[SerializeField] // RVA: 0x1414A0 Offset: 0x141DA8 VA: 0x1414A0
+	private Animator basicAttackWavePrefab; // 0x68
+	[SerializeField] // RVA: 0x1414B0 Offset: 0x141DB8 VA: 0x1414B0
+	private float basicAttackBigWaveDuration; // 0x70
+	[SerializeField] // RVA: 0x1414C0 Offset: 0x141DC8 VA: 0x1414C0
+	private float basicAttackBigWaveSpeed; // 0x74
+	[SerializeField] // RVA: 0x1414D0 Offset: 0x141DD8 VA: 0x1414D0
+	private Animator basicAttackBigWavePrefab; // 0x78
+	[SerializeField] // RVA: 0x1414E0 Offset: 0x141DE8 VA: 0x1414E0
+	private Transform basicAttackWaveSpawn; // 0x80
+	[SerializeField] // RVA: 0x1414F0 Offset: 0x141DF8 VA: 0x1414F0
+	private MMFeedbacks basicAttack1Feedbacks; // 0x88
+	[SerializeField] // RVA: 0x141500 Offset: 0x141E08 VA: 0x141500
+	private MMFeedbacks basicAttack2Feedbacks; // 0x90
+	[SerializeField] // RVA: 0x141510 Offset: 0x141E18 VA: 0x141510
+	private MMFeedbacks basicAttack3Feedbacks; // 0x98
+	[HeaderAttribute] // RVA: 0x141520 Offset: 0x141E28 VA: 0x141520
+	public bool hardAttack; // 0xA0
+	public float hardAttackLoadDuration; // 0xA4
+	[SerializeField] // RVA: 0x141560 Offset: 0x141E68 VA: 0x141560
+	private float hardAttackDuration; // 0xA8
+	[SerializeField] // RVA: 0x141570 Offset: 0x141E78 VA: 0x141570
+	private float hardAttackCooldown; // 0xAC
+	public float hardAttackBloodCost; // 0xB0
+	[SerializeField] // RVA: 0x141580 Offset: 0x141E88 VA: 0x141580
+	private bool hardAttackShake; // 0xB4
+	[SerializeField] // RVA: 0x141590 Offset: 0x141E98 VA: 0x141590
+	private bool shakeOnChargeHardAttack; // 0xB5
+	[SerializeField] // RVA: 0x1415A0 Offset: 0x141EA8 VA: 0x1415A0
+	private MMFeedbacks hardAttackStartLoadFeedbacks; // 0xB8
+	[SerializeField] // RVA: 0x1415B0 Offset: 0x141EB8 VA: 0x1415B0
+	private MMFeedbacks hardAttackNotLoadedFeedbacks; // 0xC0
+	[SerializeField] // RVA: 0x1415C0 Offset: 0x141EC8 VA: 0x1415C0
+	private MMFeedbacks hardAttackLoadedFeedbacks; // 0xC8
+	[SerializeField] // RVA: 0x1415D0 Offset: 0x141ED8 VA: 0x1415D0
+	private MMFeedbacks hardAttackRightFeedbacks; // 0xD0
+	[SerializeField] // RVA: 0x1415E0 Offset: 0x141EE8 VA: 0x1415E0
+	private MMFeedbacks hardAttackLeftFeedbacks; // 0xD8
+	[SerializeField] // RVA: 0x1415F0 Offset: 0x141EF8 VA: 0x1415F0
+	private MMFeedbacks hardAttackNotLoadedAudioFeedbacks; // 0xE0
+	[SerializeField] // RVA: 0x141600 Offset: 0x141F08 VA: 0x141600
+	private float timeWaitNoLoadedAudio; // 0xE8
+	[SerializeField] // RVA: 0x141610 Offset: 0x141F18 VA: 0x141610
+	private AudioClip hardLoadVibrationClipPS5; // 0xF0
+	[SerializeField] // RVA: 0x141620 Offset: 0x141F28 VA: 0x141620
+	private AudioClip hardAttackVibrationClipPS5; // 0xF8
+	[HeaderAttribute] // RVA: 0x141630 Offset: 0x141F38 VA: 0x141630
+	public bool scytheAttackAllowed; // 0x100
+	[SerializeField] // RVA: 0x141670 Offset: 0x141F78 VA: 0x141670
+	private float scytheWalkSpeed; // 0x104
+	[SerializeField] // RVA: 0x141680 Offset: 0x141F88 VA: 0x141680
+	private float scytheAttackDuration; // 0x108
+	[SerializeField] // RVA: 0x141690 Offset: 0x141F98 VA: 0x141690
+	private float scytheFreezeDuration; // 0x10C
+	[SerializeField] // RVA: 0x1416A0 Offset: 0x141FA8 VA: 0x1416A0
+	private float scytheAttackCooldown; // 0x110
+	public float scytheAttackBloodCost; // 0x114
+	[SerializeField] // RVA: 0x1416B0 Offset: 0x141FB8 VA: 0x1416B0
+	private MMFeedbacks scytheAttack1Feedbacks; // 0x118
+	[SerializeField] // RVA: 0x1416C0 Offset: 0x141FC8 VA: 0x1416C0
+	private MMFeedbacks scytheAttack2Feedbacks; // 0x120
+	[SerializeField] // RVA: 0x1416D0 Offset: 0x141FD8 VA: 0x1416D0
+	private MMFeedbacks scytheAttackUpFeedbacks; // 0x128
+	[SerializeField] // RVA: 0x1416E0 Offset: 0x141FE8 VA: 0x1416E0
+	private MMFeedbacks scytheAttackAirFeedbacks; // 0x130
+	[HeaderAttribute] // RVA: 0x1416F0 Offset: 0x141FF8 VA: 0x1416F0
+	public bool scytheInstantAttackAllowed; // 0x138
+	[SerializeField] // RVA: 0x141730 Offset: 0x142038 VA: 0x141730
+	private float scytheInstantWalkSpeed; // 0x13C
+	[SerializeField] // RVA: 0x141740 Offset: 0x142048 VA: 0x141740
+	private float scytheInstantAttackDuration; // 0x140
+	[SerializeField] // RVA: 0x141750 Offset: 0x142058 VA: 0x141750
+	private float scytheInstantFreezeDuration; // 0x144
+	[SerializeField] // RVA: 0x141760 Offset: 0x142068 VA: 0x141760
+	private float scytheInstantAttackCooldown; // 0x148
+	public float scytheInstantAttackBloodCost; // 0x14C
+	[HeaderAttribute] // RVA: 0x141770 Offset: 0x142078 VA: 0x141770
+	public bool spearAttackAllowed; // 0x150
+	[SerializeField] // RVA: 0x1417B0 Offset: 0x1420B8 VA: 0x1417B0
+	private float spearAttackCooldown; // 0x154
+	public float spearAttackBloodCost; // 0x158
+	[SerializeField] // RVA: 0x1417C0 Offset: 0x1420C8 VA: 0x1417C0
+	private float spearAttackStopTime; // 0x15C
+	[SerializeField] // RVA: 0x1417D0 Offset: 0x1420D8 VA: 0x1417D0
+	private float spearAttackSpeed; // 0x160
+	[SerializeField] // RVA: 0x1417E0 Offset: 0x1420E8 VA: 0x1417E0
+	private float spearAttackMaxDuration; // 0x164
+	[SerializeField] // RVA: 0x1417F0 Offset: 0x1420F8 VA: 0x1417F0
+	private float spearAttackKnockBackForce; // 0x168
+	[SerializeField] // RVA: 0x141800 Offset: 0x142108 VA: 0x141800
+	private float spearAttackShrapnelSpeed; // 0x16C
+	[SerializeField] // RVA: 0x141810 Offset: 0x142118 VA: 0x141810
+	private float spearAttackShrapnelDuration; // 0x170
+	[SerializeField] // RVA: 0x141820 Offset: 0x142128 VA: 0x141820
+	private bool SpearImpactShake; // 0x174
+	[SerializeField] // RVA: 0x141830 Offset: 0x142138 VA: 0x141830
+	private DamageOnTouch spearAttackDamage; // 0x178
+	[SerializeField] // RVA: 0x141840 Offset: 0x142148 VA: 0x141840
+	private GameObject spearAttackExplosion; // 0x180
+	[SerializeField] // RVA: 0x141850 Offset: 0x142158 VA: 0x141850
+	private Animator spearAttackShrapnel; // 0x188
+	[SerializeField] // RVA: 0x141860 Offset: 0x142168 VA: 0x141860
+	private Animator spearAttackImprovedShrapnel; // 0x190
+	[SerializeField] // RVA: 0x141870 Offset: 0x142178 VA: 0x141870
+	private Transform spearExplosionSpawn; // 0x198
+	[SerializeField] // RVA: 0x141880 Offset: 0x142188 VA: 0x141880
+	private MMFeedbacks spearAttackStartFeedbacks; // 0x1A0
+	[SerializeField] // RVA: 0x141890 Offset: 0x142198 VA: 0x141890
+	private MMFeedbacks spearAttackHitFloorFeedbacks; // 0x1A8
+	[SerializeField] // RVA: 0x1418A0 Offset: 0x1421A8 VA: 0x1418A0
+	private MMFeedbacks spearAttackHitAirFeedbacks; // 0x1B0
+	[SerializeField] // RVA: 0x1418B0 Offset: 0x1421B8 VA: 0x1418B0
+	private AudioClip spearHitVibrationClipPS5; // 0x1B8
+	[HeaderAttribute] // RVA: 0x1418C0 Offset: 0x1421C8 VA: 0x1418C0
+	public bool katanaSlashAllowed; // 0x1C0
+	[SerializeField] // RVA: 0x141900 Offset: 0x142208 VA: 0x141900
+	private float katanaSlashCooldown; // 0x1C4
+	public float katanaSlashBloodCost; // 0x1C8
+	[SerializeField] // RVA: 0x141910 Offset: 0x142218 VA: 0x141910
+	private float katanaSlashStopDuration; // 0x1CC
+	[SerializeField] // RVA: 0x141920 Offset: 0x142228 VA: 0x141920
+	private GameObject katanaSlashFakeFloor; // 0x1D0
+	[SerializeField] // RVA: 0x141930 Offset: 0x142238 VA: 0x141930
+	private GameObject katanaSlashPrefab; // 0x1D8
+	[SerializeField] // RVA: 0x141940 Offset: 0x142248 VA: 0x141940
+	private float katanaSlashBigTime; // 0x1E0
+	[SerializeField] // RVA: 0x141950 Offset: 0x142258 VA: 0x141950
+	private GameObject katanaSlashBigPrefab; // 0x1E8
+	[SerializeField] // RVA: 0x141960 Offset: 0x142268 VA: 0x141960
+	private GameObject katanaSlashBigActivateObject; // 0x1F0
+	[SerializeField] // RVA: 0x141970 Offset: 0x142278 VA: 0x141970
+	private MMFeedbacks katanaSlashLoadFeedbacks; // 0x1F8
+	[SerializeField] // RVA: 0x141980 Offset: 0x142288 VA: 0x141980
+	private MMFeedbacks katanaSlashAttackFeedbacks; // 0x200
+	[SerializeField] // RVA: 0x141990 Offset: 0x142298 VA: 0x141990
+	private MMFeedbacks katanaBigSlashLoadPulseFeedbacks; // 0x208
+	[SerializeField] // RVA: 0x1419A0 Offset: 0x1422A8 VA: 0x1419A0
+	private MMFeedbacks katanaBigSlashAttackFeedbacks; // 0x210
+	[HeaderAttribute] // RVA: 0x1419B0 Offset: 0x1422B8 VA: 0x1419B0
+	public bool katanaFeintAllowed; // 0x218
+	[SerializeField] // RVA: 0x1419F0 Offset: 0x1422F8 VA: 0x1419F0
+	private float katanaFeintCooldown; // 0x21C
+	public float katanaFeintBloodCost; // 0x220
+	[SerializeField] // RVA: 0x141A00 Offset: 0x142308 VA: 0x141A00
+	private float katanaFeintMaxDistance; // 0x224
+	[SerializeField] // RVA: 0x141A10 Offset: 0x142318 VA: 0x141A10
+	private LayerMask katanaFeintTargetLayers; // 0x228
+	[SerializeField] // RVA: 0x141A20 Offset: 0x142328 VA: 0x141A20
+	private LayerMask katanaFeintObstacleLayers; // 0x22C
+	[SerializeField] // RVA: 0x141A30 Offset: 0x142338 VA: 0x141A30
+	private GameObject katanaFeintSlashPrefab; // 0x230
+	[SerializeField] // RVA: 0x141A40 Offset: 0x142348 VA: 0x141A40
+	private Transform katanaFeintPostSpritePrefab; // 0x238
+	[SerializeField] // RVA: 0x141A50 Offset: 0x142358 VA: 0x141A50
+	private MMFeedbacks katanaFeintDisappearFeedbacks; // 0x240
+	[SerializeField] // RVA: 0x141A60 Offset: 0x142368 VA: 0x141A60
+	private MMFeedbacks katanaFeintAppearFeedbacks; // 0x248
+	[HeaderAttribute] // RVA: 0x141A70 Offset: 0x142378 VA: 0x141A70
+	public bool throwScytheAllowed; // 0x250
+	[SerializeField] // RVA: 0x141AB0 Offset: 0x1423B8 VA: 0x141AB0
+	private float throwScytheCooldown; // 0x254
+	public float throwScytheBloodCost; // 0x258
+	[SerializeField] // RVA: 0x141AC0 Offset: 0x1423C8 VA: 0x141AC0
+	private BouncingMissileController throwScythePrefab; // 0x260
+	[SerializeField] // RVA: 0x141AD0 Offset: 0x1423D8 VA: 0x141AD0
+	private Transform throwScytheSpawn; // 0x268
+	[SerializeField] // RVA: 0x141AE0 Offset: 0x1423E8 VA: 0x141AE0
+	private MMFeedbacks potionStartFeedbacks; // 0x270
+	[SerializeField] // RVA: 0x141AF0 Offset: 0x1423F8 VA: 0x141AF0
+	private MMFeedbacks potionEndFeedbacks; // 0x278
+	[HeaderAttribute] // RVA: 0x141B00 Offset: 0x142408 VA: 0x141B00
+	public int potionMaxLoads; // 0x280
+	public int potionCurrentLoads; // 0x284
+	public float potionsCooldown; // 0x288
+	[HeaderAttribute] // RVA: 0x141B40 Offset: 0x142448 VA: 0x141B40
+	public bool darkPortalAllowed; // 0x28C
+	public int darkPortalMaxLoads; // 0x290
+	public int darkPortalCurrentLoads; // 0x294
+	[SerializeField] // RVA: 0x141B80 Offset: 0x142488 VA: 0x141B80
+	private float darkPortalTimePressing; // 0x298
+	[SerializeField] // RVA: 0x141B90 Offset: 0x142498 VA: 0x141B90
+	private DarkPortal darkPortalPrefab; // 0x2A0
+	[SerializeField] // RVA: 0x141BA0 Offset: 0x1424A8 VA: 0x141BA0
+	private DarkPortal portalToLibraryPrefab; // 0x2A8
+	[SerializeField] // RVA: 0x141BB0 Offset: 0x1424B8 VA: 0x141BB0
+	private DarkPortal portalToTutorialPrefab; // 0x2B0
+	[SerializeField] // RVA: 0x141BC0 Offset: 0x1424C8 VA: 0x141BC0
+	private DarkPortal portalToLibraryAfterDashPrefab; // 0x2B8
+	[SerializeField] // RVA: 0x141BD0 Offset: 0x1424D8 VA: 0x141BD0
+	private MMFeedbacks darkPortalStartCastFeedbacks; // 0x2C0
+	[SerializeField] // RVA: 0x141BE0 Offset: 0x1424E8 VA: 0x141BE0
+	private MMFeedbacks darkPortalFailCastFeedbacks; // 0x2C8
+	[SerializeField] // RVA: 0x141BF0 Offset: 0x1424F8 VA: 0x141BF0
+	private MMFeedbacks darkPortalCompleteCastFeedbacks; // 0x2D0
+	[HeaderAttribute] // RVA: 0x141C00 Offset: 0x142508 VA: 0x141C00
+	public bool darkShieldAllowed; // 0x2D8
+	[SerializeField] // RVA: 0x141C40 Offset: 0x142548 VA: 0x141C40
+	private float darkShieldDuration; // 0x2DC
+	[SerializeField] // RVA: 0x141C50 Offset: 0x142558 VA: 0x141C50
+	private float defaultCooldownDarkShieldTime; // 0x2E0
+	[SerializeField] // RVA: 0x141C60 Offset: 0x142568 VA: 0x141C60
+	private float cooldownDarkShieldTime; // 0x2E4
+	[SerializeField] // RVA: 0x141C70 Offset: 0x142578 VA: 0x141C70
+	private float parryDarkShieldTime; // 0x2E8
+	[SerializeField] // RVA: 0x141C80 Offset: 0x142588 VA: 0x141C80
+	private float parryCooldownDarkShieldTime; // 0x2EC
+	[SerializeField] // RVA: 0x141C90 Offset: 0x142598 VA: 0x141C90
+	private MMFeedbacks shieldStartFeedbacks; // 0x2F0
+	[SerializeField] // RVA: 0x141CA0 Offset: 0x1425A8 VA: 0x141CA0
+	private MMFeedbacks shieldEndFeedbacks; // 0x2F8
+	[SerializeField] // RVA: 0x141CB0 Offset: 0x1425B8 VA: 0x141CB0
+	private MMFeedbacks shieldReloadedFeedbacks; // 0x300
+	[SerializeField] // RVA: 0x141CC0 Offset: 0x1425C8 VA: 0x141CC0
+	private MMFeedbacks parryFeedbacks; // 0x308
+	[SerializeField] // RVA: 0x141CD0 Offset: 0x1425D8 VA: 0x141CD0
+	private MMFeedbacks parryHitFeedbacks; // 0x310
+	[SerializeField] // RVA: 0x141CE0 Offset: 0x1425E8 VA: 0x141CE0
+	private Animator darkShieldAnimator; // 0x318
+	[HeaderAttribute] // RVA: 0x141CF0 Offset: 0x1425F8 VA: 0x141CF0
+	[SerializeField] // RVA: 0x141CF0 Offset: 0x1425F8 VA: 0x141CF0
+	private Animator characterAnimator; // 0x320
+	[SerializeField] // RVA: 0x141D40 Offset: 0x142648 VA: 0x141D40
+	private GameObject skillObject; // 0x328
+	[SerializeField] // RVA: 0x141D50 Offset: 0x142658 VA: 0x141D50
+	private GameObject crossHair; // 0x330
+	public int attackDirection; // 0x338
+	private Character _character; // 0x340
+	public int _attackAnim; // 0x348
+	private float _attackTime; // 0x34C
+	public float _idleTime; // 0x350
+	public float _noCombatTime; // 0x354
+	private GameObject gotoLevel; // 0x358
+	private CharacterHealing _characterHealing; // 0x360
+	[SerializeField] // RVA: 0x141D60 Offset: 0x142668 VA: 0x141D60
+	private MMFeedbacks levelUpFeedbacks; // 0x368
+	private bool _savePoint; // 0x370
+	private bool _savePointFullHeal; // 0x371
+	private bool _costBasicAttackOrbReduced; // 0x372
+	private bool _costHardAttackOrbReduced; // 0x373
+	private bool _costWhirlwindReduced; // 0x374
+	private bool _parried; // 0x375
+	private bool _stopKatana; // 0x376
+	private bool _chargeKatana; // 0x377
+	private bool _parrying; // 0x378
+	private CorgiController _controller; // 0x380
+	private float _x; // 0x388
+	private float _y; // 0x38C
+	private int playerID; // 0x390
+	private Player _player; // 0x398
+	private SkillController.Skill _currentSkill; // 0x3A0
+	private SkillController.Skill _lastSkill; // 0x3A4
+	private bool _skillInProgress; // 0x3A8
+	private float _currentSkillStartTime; // 0x3AC
+	private float _lastSkillStartTime; // 0x3B0
+	private float _currentSkillCooldown; // 0x3B4
+	private bool _hardAttackLoading; // 0x3B8
+	private bool _darkShieldAvailable; // 0x3B9
+	private bool _darkShieldActive; // 0x3BA
+	private bool _potionAvailable; // 0x3BB
+	private Vector2 _playerInput; // 0x3BC
+	public bool _basicAttackInProgress; // 0x3C4
+	private bool _basicAttackToRight; // 0x3C5
+	private float _runSpeedBackup; // 0x3C8
+	private bool _scytheFreezeContinue; // 0x3CC
+	private bool _spearAttackHit; // 0x3CD
+	private bool _stopSpearAttack; // 0x3CE
+	private bool _repeatBasicAttack; // 0x3CF
+	private bool _repeatScytheAttack; // 0x3D0
+	private bool _repeatScytheInstantAttack; // 0x3D1
+	private readonly Collider2D[] _katanaFeintEnemyHits; // 0x3D8
+	private readonly RaycastHit2D[] _katanaFeintCastHits; // 0x3E0
+	private readonly Dictionary<KatanaFeintPosition, Transform> _katanaFeintPositions; // 0x3E8
+	private BouncingMissileController _currentScythe; // 0x3F0
+	public GameObject hitParticlePos; // 0x3F8
+	public SkillController.DarkShieldUsedDelegate darkShieldUsed; // 0x400
+	public SkillController.DarkShieldStartCooldownDelegate darkShieldStartCooldown; // 0x408

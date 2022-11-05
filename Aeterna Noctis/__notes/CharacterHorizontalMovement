@@ -1,0 +1,39 @@
+// Namespace: MoreMountains.CorgiEngine
+[AddComponentMenu] // RVA: 0x107B60 Offset: 0x108468 VA: 0x107B60
+public class CharacterHorizontalMovement : CharacterAbility // TypeDefIndex: 13471
+{
+	[CompilerGeneratedAttribute] // RVA: 0x1520A0 Offset: 0x1529A8 VA: 0x1520A0
+	private float <MovementSpeed>k__BackingField; // 0xE8 /
+	[HeaderAttribute] // RVA: 0x1520B0 Offset: 0x1529B8 VA: 0x1520B0
+	public float WalkSpeed; // 0xEC
+	[ReadOnlyAttribute] // RVA: 0x1520F0 Offset: 0x1529F8 VA: 0x1520F0
+	public float MovementSpeedMultiplier; // 0xF0
+	[ReadOnlyAttribute] // RVA: 0x152100 Offset: 0x152A08 VA: 0x152100
+	public float PushSpeedMultiplier; // 0xF4
+	[CompilerGeneratedAttribute] // RVA: 0x152110 Offset: 0x152A18 VA: 0x152110
+	private bool <MovementForbidden>k__BackingField; // 0xF8
+	[HeaderAttribute] // RVA: 0x152120 Offset: 0x152A28 VA: 0x152120
+	public bool InstantAcceleration; // 0xF9
+	public float InputThreshold; // 0xFC
+	public bool InvertInput; // 0x100
+	[HeaderAttribute] // RVA: 0x152160 Offset: 0x152A68 VA: 0x152160
+	public MMFeedbacks TouchTheGroundFeedback; // 0x108
+	[SerializeField] // RVA: 0x1521A0 Offset: 0x152AA8 VA: 0x1521A0
+	public MMFeedbacks runFootStepFeedbackLeft; // 0x110
+	[SerializeField] // RVA: 0x1521B0 Offset: 0x152AB8 VA: 0x1521B0
+	public MMFeedbacks runFootStepFeedbackRight; // 0x118
+	[SerializeField] // RVA: 0x1521C0 Offset: 0x152AC8 VA: 0x1521C0
+	public MMFeedbacks stopRunFeedback; // 0x120
+	private CharacterJump _characterJump; // 0x128
+	public float _horizontalMovement; // 0x130
+	protected float _horizontalMovementForce; // 0x134
+	protected float _normalizedHorizontalSpeed; // 0x138
+	protected const string _speedAnimationParameterName = "Speed";
+	protected const string _walkingAnimationParameterName = "Walking";
+	protected int _speedAnimationParameter; // 0x13C
+	protected int _walkingAnimationParameter; // 0x140
+	protected bool stomping; // 0x144
+	public bool theking; // 0x145
+	private bool _keyBoardStopped; // 0x146
+	[CompilerGeneratedAttribute] // RVA: 0x1521D0 Offset: 0x152AD8 VA: 0x1521D0
+	private bool <OnlyForwardWalk>k__BackingField; // 0x147

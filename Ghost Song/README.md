@@ -8,6 +8,8 @@
 1. Inf. Energy
 1. Inf. Stamina
 1. Inf. Jumps
+1. Faster Movement Speed
+1. Moon Jump
 1. 0 Gun Overload
 1. Gun Overloaded
 1. NanoGel Multiplier (x2) ★

@@ -4,7 +4,7 @@
 ## Cheat List
 1. Inf. HP
 1. Inf. MP
-1. Inf. Action for Allies (Disables Enemy Movement)
+1. Inf. Action for Allies (R3+↑/↓ On/Off)
 1. One-Punch Man
 1. Enemy has 0 MP
 1. XP Multiplier (x2)

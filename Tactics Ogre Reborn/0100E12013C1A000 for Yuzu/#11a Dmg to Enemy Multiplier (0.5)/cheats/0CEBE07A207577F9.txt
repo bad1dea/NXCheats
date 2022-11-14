@@ -1,0 +1,2 @@
+[#11a Dmg to Enemy Multiplier (0.5)]
+040E0000 006E7FF4 3F000000

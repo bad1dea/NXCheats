@@ -9,7 +9,7 @@
 1. One-Punch Man
 1. Enemy has 0 MP
 1. Skill XP Multiplier (x4)
-1. Skill XP Multiplier (x8)
+1. Skill XP Multiplier (x8) ★
 1. Skill XP Multiplier (x16)
 1. Skill XP Multiplier (x32)
 1. After Battle XP Multiplier (x4)

@@ -1,0 +1,2 @@
+[#14c Dmg to Enemy Multiplier (x3)]
+040E0000 006E7FF4 40400000

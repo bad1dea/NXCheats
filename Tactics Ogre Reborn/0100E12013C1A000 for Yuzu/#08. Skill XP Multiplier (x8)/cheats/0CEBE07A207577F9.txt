@@ -1,0 +1,2 @@
+[#08. Skill XP Multiplier (x8)]
+040E0000 002DEE4C 0B020DAD

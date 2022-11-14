@@ -1,0 +1,2 @@
+[#13b Dmg to Player Multiplier (0.5) ★]
+040E0000 006E7FF8 3F000000

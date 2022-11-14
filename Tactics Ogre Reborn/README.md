@@ -22,6 +22,29 @@
 1. Max Owned Item(s) (Visit Shop)
 1. Have All Equipment(s) Max (Visit Shop)
 1. Max Owned Equipment(s) (Shop)
+1. Select Character (R3)
+1. Change Character Class to Warrior (R3+←
+1. Change Character Class to Archer (R3+←
+1. Change Character Class to Wizard (R3+←
+1. Change Character Class to Cleric (R3+←
+1. Change Character Class to Rune Fencer (R3+←
+1. Change Character Class to Knight (R3+←
+1. Change Character Class to Terror Knight (R3+←
+1. Change Character Class to Berserker (R3+←
+1. Change Character Class to Sword Master (R3+←
+1. Change Character Class to Dragoon (R3+←
+1. Change Character Class to Ninja (R3+←
+1. Change Character Class to Rogue (R3+←
+1. Change Character Class to Gunner (R3+←
+1. Change Character Class to Beast Tamer (R3+←
+1. Change Character Class to Warlock (R3+←
+1. Change Character Class to Necromancer (R3+←
+1. Change Character Class to Rich (R3+←
+1. Change Character Class to Divine Knight (R3+←
+1. Change Character Class to Hoplitai (R3+←
+1. Change Character Class to Juggernaut (R3+←
+1. Change Character Class to Pay-lith Arc (R3+←
+1. Change Character Class to Familiar (R3+←
 
 ## Changelog
 [View here](./CHANGELOG.md)

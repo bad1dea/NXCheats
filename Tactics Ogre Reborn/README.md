@@ -5,7 +5,6 @@
 1. Inf. HP
 1. Inf. MP
 1. Inf. Action(s) Single Ally Unit (R3+↑/↓ On/Off)
-1. Always Ally Turn(s) (R3+←/→ On/Off) (Must Restart Battle After Turning Off)
 1. One-Punch Man
 1. Enemy has 0 MP
 1. Skill XP Multiplier (x4)
@@ -29,7 +28,6 @@
 1. Have All Equipment(s) Max (Visit Shop)
 1. Max Owned Equipment(s) (Shop)
 1. No Card(s) Required for Class Change
-1. Select Character (R3)
 
 ## Changelog
 [View here](./CHANGELOG.md)

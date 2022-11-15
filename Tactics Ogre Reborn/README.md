@@ -2,6 +2,7 @@
 0100E12013C1A000 (0CEBE07A207577F9)
 
 ## Cheat List
+1. Instant Victory (After Turn) (R3+L3)
 1. Inf. HP
 1. Inf. MP
 1. Inf. Action(s) Single Ally Unit (R3+↑/↓ On/Off)

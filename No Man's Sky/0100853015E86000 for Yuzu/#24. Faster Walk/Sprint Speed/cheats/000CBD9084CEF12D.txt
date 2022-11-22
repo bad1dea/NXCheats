@@ -1,0 +1,2 @@
+[#24. Faster Walk/Sprint Speed]
+040E0000 01357DBC 1E201001

@@ -6,6 +6,7 @@
 1. Inf. MP
 1. Inf. AP
 1. Inf. SP
+1. Max Gil (On Get/Spend)
 
 ## Changelog
 [View here](./CHANGELOG.md)

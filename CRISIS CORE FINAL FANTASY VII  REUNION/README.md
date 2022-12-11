@@ -7,6 +7,8 @@
 1. Inf. AP
 1. Inf. SP
 1. Max Gil (On Get/Spend)
+1. 60 FPS ★
+1. 30 FPS
 
 ## Changelog
 [View here](./CHANGELOG.md)

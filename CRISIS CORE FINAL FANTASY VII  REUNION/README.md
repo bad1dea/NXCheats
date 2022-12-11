@@ -1,0 +1,10 @@
+# CRISIS CORE - FINAL FANTASY VII - REUNION (US)
+01004BC0166CC000 (6601A8A72426A5CD)
+
+## Cheat List
+1. Inf. HP
+1. Inf. MP
+1. Inf. AP
+
+## Changelog
+[View here](./CHANGELOG.md)

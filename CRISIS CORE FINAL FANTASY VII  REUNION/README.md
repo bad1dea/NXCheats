@@ -5,6 +5,7 @@
 1. Inf. HP
 1. Inf. MP
 1. Inf. AP
+1. Inf. SP
 
 ## Changelog
 [View here](./CHANGELOG.md)

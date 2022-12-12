@@ -6,7 +6,15 @@
 1. Inf. MP (In Battle)
 1. Inf. AP (In Battle)
 1. Inf. SP (In Battle)
+1. Endure (In Battle)
+1. Null Physical Damage (In Battle)
+1. Null Magical Damage (In Battle)
+1. Invincible (In Battle)
+1. 100% Critical Hits (In Battle)
+1. No MP Cost (In Battle)
+1. No AP Cost (In Battle)
 1. Max Gil (On Get/Spend)
+1. Choose Mission Anywhere
 1. 60 FPS ★
 1. 30 FPS
 

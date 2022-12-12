@@ -15,6 +15,8 @@
 1. No AP Cost (In Battle)
 1. Max Gil (On Get/Spend)
 1. Choose Mission Anywhere
+1. Unlock All Missions
+1. Complete All Missions ★
 1. 60 FPS ★
 1. 30 FPS
 

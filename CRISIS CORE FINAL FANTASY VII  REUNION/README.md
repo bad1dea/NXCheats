@@ -17,6 +17,10 @@
 1. Choose Mission Anywhere
 1. Unlock All Missions
 1. Complete All Missions ★
+1. Have All Consumables
+1. Have All Accessories
+1. Have All Fusion Items
+1. Have All Items
 1. 60 FPS ★
 1. 30 FPS
 

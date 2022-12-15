@@ -1,0 +1,2 @@
+[#05. Friendship Multiplier]
+040E0000 01C00C0C 0B014101

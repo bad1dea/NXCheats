@@ -1,0 +1,6 @@
+[#19d Absorb Elemental Damage (In Battle)]
+010E0000 0899ABA3 00000007
+[#20a Null Fire Damage (In Battle)]
+51010000 0899ABA4
+916A1120 00000001
+A1A00400 0899ABA4

@@ -1,0 +1,6 @@
+[#18d Omni-Elemental Attack (In Battle)]
+010E0000 0899ABA2 00000007
+[#19a Absorb Fire Damage (In Battle)]
+51010000 0899ABA3
+916A1120 00000001
+A1A00400 0899ABA3

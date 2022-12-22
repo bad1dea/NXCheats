@@ -1,0 +1,2 @@
+[#02. God Mode & Ignore Hits]
+040E0000 00AE1BCC D503201F

@@ -1,0 +1,2 @@
+[#30. Curse Ward (In Battle)]
+010E0000 0899ABD7 000000FF

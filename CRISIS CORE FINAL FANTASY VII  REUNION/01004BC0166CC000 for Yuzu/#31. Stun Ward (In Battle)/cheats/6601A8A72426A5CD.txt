@@ -1,0 +1,2 @@
+[#31. Stun Ward (In Battle)]
+010E0000 0899ABF8 000000FF

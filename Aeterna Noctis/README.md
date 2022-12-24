@@ -4,6 +4,7 @@
 ## Cheat List
 1. God Mode (Invulnerable/Knockback/Spikes/Light/Dark) ★
 1. Invulnerable
+1. OHK 4
 1. Inf. Jumps
 1. Lots of Coins
 1. Lots of Points

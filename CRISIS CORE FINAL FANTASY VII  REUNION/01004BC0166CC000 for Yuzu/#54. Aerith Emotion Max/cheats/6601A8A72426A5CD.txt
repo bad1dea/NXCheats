@@ -1,2 +1,0 @@
-[#54. Aerith Emotion Max]
-040E0000 089E4894 0000001E

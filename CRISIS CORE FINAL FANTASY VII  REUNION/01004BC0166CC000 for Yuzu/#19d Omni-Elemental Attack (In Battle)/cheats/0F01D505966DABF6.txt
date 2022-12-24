@@ -1,0 +1,2 @@
+[#19d Omni-Elemental Attack (In Battle)]
+010E0000 0899ABA2 00000007

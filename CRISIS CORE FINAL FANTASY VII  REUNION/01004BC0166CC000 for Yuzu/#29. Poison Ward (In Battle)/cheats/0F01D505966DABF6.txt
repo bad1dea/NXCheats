@@ -1,0 +1,2 @@
+[#29. Poison Ward (In Battle)]
+010E0000 0899ABD5 000000FF

@@ -1,0 +1,6 @@
+[#21d Null Elemental Damage (In Battle)]
+010E0000 0899ABA4 00000007
+[#22a Half Fire Damage (In Battle)]
+51010000 0899ABA5
+916A1120 0000000
+1A1A00400 0899ABA5

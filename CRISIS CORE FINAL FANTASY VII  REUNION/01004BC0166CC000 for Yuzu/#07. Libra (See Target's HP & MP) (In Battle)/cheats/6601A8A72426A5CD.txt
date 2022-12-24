@@ -1,0 +1,2 @@
+[#07. Libra (See Target's HP & MP) (In Battle)]
+010E0000 089E4AF9 000000FF

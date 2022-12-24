@@ -1,0 +1,2 @@
+[#24. Poison Strike (100% Chance) (In Battle)]
+010E0000 0899ABCD 0000007F

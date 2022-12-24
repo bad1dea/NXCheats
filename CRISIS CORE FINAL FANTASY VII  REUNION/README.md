@@ -1,5 +1,5 @@
 # CRISIS CORE - FINAL FANTASY VII - REUNION (US)
-01004BC0166CC000 (0F01D505966DABF6)
+01004BC0166CC000 (6601A8A72426A5CD)
 
 ## Cheat List
 1. Max Gil (On Get/Spend)
@@ -8,6 +8,7 @@
 1. Inf. MP (In Battle)
 1. Inf. AP (In Battle)
 1. Inf. SP (In Battle)
+1. Libra (See Target's HP & MP) (In Battle)
 1. D.M.V State Always Heavenly
 1. Barrier (In Battle)
 1. Magic Barrier (In Battle)
@@ -23,13 +24,14 @@
 1. Ice Elemental Attack (In Battle)
 1. Thunder Elemental Attack (In Battle)
 1. Omni-Elemental Attack (In Battle)
+1. Absorb Fire Damage (In Battle)
 1. Absorb Ice Damage (In Battle)
 1. Absorb Thunder Damage (In Battle)
 1. Absorb Elemental Damage (In Battle)
+1. Null Fire Damage (In Battle)
 1. Null Ice Damage (In Battle)
 1. Null Thunder Damage (In Battle)
 1. Null Elemental Damage (In Battle)
-1. Half Fire Damage (In Battle)
 1. Half Ice Damage (In Battle)
 1. Half Thunder Damage (In Battle)
 1. Half Elemental Damage (In Battle)
@@ -44,7 +46,6 @@
 1. Curse Ward (In Battle)
 1. Stun Ward (In Battle)
 1. Stop Ward (In Battle)
-1. Libra (See Target's HP & MP) (In Battle)
 1. Triple Limits (In Battle)
 1. Auto Potion (In Battle)
 1. Counterattack (In Battle)

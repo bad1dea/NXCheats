@@ -1,2 +1,0 @@
-[#32. Stop Ward (In Battle)]
-010E0000 0899ABFC 000000FF

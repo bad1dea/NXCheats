@@ -1,2 +1,0 @@
-[#20d Null Elemental Damage (In Battle)]
-010E0000 0899ABA4 00000007

@@ -1,2 +1,0 @@
-[#13. Choose Mission Anywhere]
-040E0000 08979FE4 00000001

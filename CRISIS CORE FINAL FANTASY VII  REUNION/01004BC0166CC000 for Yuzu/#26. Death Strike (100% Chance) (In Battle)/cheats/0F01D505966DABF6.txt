@@ -1,0 +1,2 @@
+[#26. Death Strike (100% Chance) (In Battle)]
+010E0000 0899ABCC 0000007F

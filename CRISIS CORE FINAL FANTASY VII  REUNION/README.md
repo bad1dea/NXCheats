@@ -1,5 +1,5 @@
 # CRISIS CORE - FINAL FANTASY VII - REUNION (US)
-01004BC0166CC000 (6601A8A72426A5CD)
+01004BC0166CC000 (0F01D505966DABF6)
 
 ## Cheat List
 1. Max Gil (On Get/Spend)
@@ -8,6 +8,9 @@
 1. Inf. MP (In Battle)
 1. Inf. AP (In Battle)
 1. Inf. SP (In Battle)
+1. Allowed to Equip 6 Materia
+1. Enable Materia Fusion Option
+1. Enable Mission Menu Anywhere
 1. Libra (See Target's HP & MP) (In Battle)
 1. D.M.V State Always Heavenly
 1. Barrier (In Battle)
@@ -58,7 +61,6 @@
 1. Double Items Dropped (In Battle)
 1. Rare-Item Drop Only (In Battle)
 1. Always Steal (In Battle)
-1. Choose Mission Anywhere
 1. Unlock All Missions
 1. Complete All Missions ★
 1. Max Materia Level (Open Equip Materia)

@@ -1,0 +1,2 @@
+[#64. Chocobo Emotion Max]
+010E0000 089E489C 0000001E

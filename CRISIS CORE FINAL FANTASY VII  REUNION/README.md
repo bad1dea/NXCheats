@@ -1,5 +1,5 @@
 # CRISIS CORE - FINAL FANTASY VII - REUNION (US)
-01004BC0166CC000 (0F01D505966DABF6)
+01004BC0166CC000 (6601A8A72426A5CD)
 
 ## Cheat List
 1. Max Gil (On Get/Spend)
@@ -32,6 +32,7 @@
 1. Null Ice Damage (In Battle)
 1. Null Thunder Damage (In Battle)
 1. Null Elemental Damage (In Battle)
+1. Half Fire Damage (In Battle)
 1. Half Ice Damage (In Battle)
 1. Half Thunder Damage (In Battle)
 1. Half Elemental Damage (In Battle)

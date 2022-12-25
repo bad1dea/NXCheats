@@ -1,0 +1,2 @@
+[#08. Enable Materia Fusion Option]
+010E0000 089EA92E 00000001

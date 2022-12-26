@@ -1,0 +1,2 @@
+[#70. Magic Pot Emotion Max]
+010E0000 089E48A1 0000001E

@@ -1,0 +1,2 @@
+[#10. Enable Mission Menu Anywhere]
+010E0000 08979FE4 00000001

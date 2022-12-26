@@ -8,7 +8,8 @@
 1. Inf. MP (In Battle)
 1. Inf. AP (In Battle)
 1. Inf. SP (In Battle)
-1. Allowed to Equip 6 Materia
+1. Materia Equip Max Slots
+1. Accessories Equip Max Slots
 1. Enable Materia Fusion Option
 1. Enable Mission Menu Anywhere
 1. Libra (See Target's HP & MP) (In Battle)

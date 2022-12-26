@@ -1,0 +1,2 @@
+[#26d Half Elemental Damage (In Battle)]
+010E0000 0899ABA5 00000007

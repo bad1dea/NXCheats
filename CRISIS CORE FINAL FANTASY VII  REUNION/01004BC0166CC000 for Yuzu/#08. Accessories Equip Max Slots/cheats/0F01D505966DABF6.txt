@@ -1,0 +1,2 @@
+[#08. Accessories Equip Max Slots]
+010E0000 089EA92F 00000004

@@ -1,0 +1,2 @@
+[#07. Materia Equip Max Slots]
+010E0000 089EA92D 00000006

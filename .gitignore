@@ -153,3 +153,19 @@ cython_debug/
 **__
 *.lua
 *.php
+notes*
+*notes
+notes/
+/notes*
+*.orig
+__*
+*.sav
+*.keys
+*.exe
+*.lnk
+*.npdm
+Sifu/Hades v589824 (0100535012974800) (UPD)/rtld
+Sifu/Hades v589824 (0100535012974800) (UPD)/sdk
+Sifu/Hades v589824 (0100535012974800) (UPD)/subsdk0
+Sifu/Hades v589824 (0100535012974800) (UPD)/subsdk1
+*.ini

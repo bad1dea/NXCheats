@@ -18,6 +18,9 @@
 1. Gold Multiplier (2x)
 1. Gold Multiplier (4x)
 1. Gold Multiplier (8x)
+1. Item Pickup Multiplier (2x)
+1. Item Pickup Multiplier (4x)
+1. Item Pickup Multiplier (10x)
 
 ## Changelog
 [View here](./CHANGELOG.md)

@@ -12,6 +12,7 @@
 1. SP Multiplier (2x)
 1. SP Multiplier (4x)
 1. SP Multiplier (8x)
+1. Inf. Item Usage
 1. Inf. Grimoire Shards
 1. Max Gold (Open Menu)
 1. Gold Multiplier (2x)

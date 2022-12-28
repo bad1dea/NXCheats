@@ -1,0 +1,2 @@
+[#09a Gold Multiplier (2x)]
+040E0000 016D0158 0B080520

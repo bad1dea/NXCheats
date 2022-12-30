@@ -6,9 +6,11 @@
 1. Inf. TP
 1. Always In Overdrive (After Action)
 1. Ultra Move Always Available (Ignore UM Bar)
+1. Always Critical Hits
 1. Inf. Item Usage
 1. Inf. Grimoire Shards Usage
 1. Steal Rate 100%
+1. Monsters Always Drop Loot
 1. Fast Level Up (Skills)
 1. Max Gold (Open Menu)
 1. One Punch Man (OHK)

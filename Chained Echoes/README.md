@@ -9,6 +9,9 @@
 1. Always Critical Hits
 1. Inf. Item Usage
 1. Inf. Grimoire Shards Usage
+1. Show All Deals
+1. Ignore Deal(s) Requirement(s)
+1. Ignore Crafting Required Material
 1. Steal Rate 100%
 1. Monsters Always Drop Loot
 1. Fast Level Up (Skills)

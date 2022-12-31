@@ -12,6 +12,7 @@
 1. Show All Deals
 1. Ignore Deal(s) Requirement(s)
 1. Ignore Crafting Required Material
+1. All Crystal(s) Quality X, Purity 5, Small (View Crystal Inventory)
 1. Steal Rate 100%
 1. Monsters Always Drop Loot
 1. Fast Level Up (Skills)

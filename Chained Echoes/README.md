@@ -27,6 +27,9 @@
 1. Gold Multiplier (2x)
 1. Gold Multiplier (4x)
 1. Gold Multiplier (8x)
+1. Allow Mech Anywhere
+1. Allow Flying Anywhere
+1. Allow Airship Anywhere (Buggy - Press Twice to Enter Airship)
 1. Item Pickup Multiplier (2x)
 1. Item Pickup Multiplier (4x)
 1. Item Pickup Multiplier (10x)

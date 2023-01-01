@@ -1,0 +1,2 @@
+[#22. Allow Airship Anywhere (Buggy - Press Twice to Enter Airship)]
+040E0000 01C84B78 52800028

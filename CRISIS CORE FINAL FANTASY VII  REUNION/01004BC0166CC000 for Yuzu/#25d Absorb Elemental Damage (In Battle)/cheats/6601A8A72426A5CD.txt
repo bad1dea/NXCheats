@@ -1,0 +1,2 @@
+[#25d Absorb Elemental Damage (In Battle)]
+010E0000 0899ABA3 00000007

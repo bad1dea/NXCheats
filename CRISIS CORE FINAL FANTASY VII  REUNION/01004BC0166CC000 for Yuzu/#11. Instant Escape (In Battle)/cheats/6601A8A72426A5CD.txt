@@ -1,0 +1,2 @@
+[#11. Instant Escape (In Battle)]
+040E0000 00B4D924 D503201F

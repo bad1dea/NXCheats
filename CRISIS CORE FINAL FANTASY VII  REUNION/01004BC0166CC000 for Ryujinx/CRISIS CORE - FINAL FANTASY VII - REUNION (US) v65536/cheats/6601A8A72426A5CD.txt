@@ -36,233 +36,236 @@ A4D00400 0899AB80
 [#10. Enable Mission Menu Anywhere]
 010E0000 08979FE4 00000001
 
-[#11. Libra (See Target's HP & MP) (In Battle)]
+[#11. Instant Escape (In Battle)]
+040E0000 00B4D924 D503201F
+
+[#12. Libra (See Target's HP & MP) (In Battle)]
 010E0000 089E4AF9 000000FF
 
-[#12. D.M.V State Always Heavenly]
+[#13. D.M.V State Always Heavenly]
 010E0000 089E487A 00000004
 
-[#13. Barrier (In Battle)]
+[#14. Barrier (In Battle)]
 010E0000 0899ABDF 0000007F
 040E0000 0899AC94 42FE0000
 
-[#14. Magic Barrier (In Battle)]
+[#15. Magic Barrier (In Battle)]
 010E0000 0899ABE0 0000007F
 040E0000 0899AC98 42FE0000
 
-[#15. Regen (In Battle)]
+[#16. Regen (In Battle)]
 010E0000 0899ABE1 0000007F
 040E0000 0899AC9C 42FE0000
 
-[#16. Endure (In Battle)]
+[#17. Endure (In Battle)]
 010E0000 0899ABE3 0000007F
 040E0000 0899ACA4 42FE0000
 
-[#17. Null Physical Damage (In Battle)]
+[#18. Null Physical Damage (In Battle)]
 010E0000 0899ABE4 0000007F
 040E0000 0899ACA8 42FE0000
 
-[#18. Null Magical Damage (In Battle)]
+[#19. Null Magical Damage (In Battle)]
 010E0000 0899ABE5 0000007F
 040E0000 0899ACAC 42FE0000
 
-[#19. Invincible (In Battle)]
+[#20. Invincible (In Battle)]
 010E0000 0899ABE6 0000007F
 040E0000 0899ACB0 42FE0000
 
-[#20. 100% Critical Hits (In Battle)]
+[#21. 100% Critical Hits (In Battle)]
 010E0000 0899ABE7 0000007F
 040E0000 0899ACB4 42FE0000
 
-[#21. No MP Cost (In Battle)]
+[#22. No MP Cost (In Battle)]
 010E0000 0899ABE8 0000007F
 040E0000 0899ACB8 42FE0000
 
-[#22. No AP Cost (In Battle)]
+[#23. No AP Cost (In Battle)]
 010E0000 0899ABE9 0000007F
 040E0000 0899ACBC 42FE0000
 
-[#23a Fire Elemental Attack (In Battle)]
+[#24a Fire Elemental Attack (In Battle)]
 51010000 0899ABA2
 916A1120 00000001
 A1A00400 0899ABA2
 
-[#23b Ice Elemental Attack (In Battle)]
+[#24b Ice Elemental Attack (In Battle)]
 51010000 0899ABA2
 916A1120 00000002
 A1A00400 0899ABA2
 
-[#23c Thunder Elemental Attack (In Battle)]
+[#24c Thunder Elemental Attack (In Battle)]
 51010000 0899ABA2
 916A1120 00000004
 A1A00400 0899ABA2
 
-[#23d Omni-Elemental Attack (In Battle)]
+[#24d Omni-Elemental Attack (In Battle)]
 010E0000 0899ABA2 00000007
 
-[#24a Absorb Fire Damage (In Battle)]
+[#25a Absorb Fire Damage (In Battle)]
 51010000 0899ABA3
 916A1120 00000001
 A1A00400 0899ABA3
 
-[#24b Absorb Ice Damage (In Battle)]
+[#25b Absorb Ice Damage (In Battle)]
 51010000 0899ABA3
 916A1120 00000002
 A1A00400 0899ABA3
 
-[#24c Absorb Thunder Damage (In Battle)]
+[#25c Absorb Thunder Damage (In Battle)]
 51010000 0899ABA3
 916A1120 00000004
 A1A00400 0899ABA3
 
-[#24d Absorb Elemental Damage (In Battle)]
+[#25d Absorb Elemental Damage (In Battle)]
 010E0000 0899ABA3 00000007
 
-[#25a Null Fire Damage (In Battle)]
+[#26a Null Fire Damage (In Battle)]
 51010000 0899ABA4
 916A1120 00000001
 A1A00400 0899ABA4
 
-[#25b Null Ice Damage (In Battle)]
+[#26b Null Ice Damage (In Battle)]
 51010000 0899ABA4
 916A1120 00000002
 A1A00400 0899ABA4
 
-[#25c Null Thunder Damage (In Battle)]
+[#26c Null Thunder Damage (In Battle)]
 51010000 0899ABA4
 916A1120 00000004
 A1A00400 0899ABA4
 
-[#25d Null Elemental Damage (In Battle)]
+[#26d Null Elemental Damage (In Battle)]
 010E0000 0899ABA4 00000007
 
-[#26a Half Fire Damage (In Battle)]
+[#27a Half Fire Damage (In Battle)]
 51010000 0899ABA5
 916A1120 00000001
 A1A00400 0899ABA5
 
-[#26b Half Ice Damage (In Battle)]
+[#27b Half Ice Damage (In Battle)]
 51010000 0899ABA5
 916A1120 00000002
 A1A00400 0899ABA5
 
-[#26c Half Thunder Damage (In Battle)]
+[#27c Half Thunder Damage (In Battle)]
 51010000 0899ABA5
 916A1120 00000004
 A1A00400 0899ABA5
 
-[#26d Half Elemental Damage (In Battle)]
+[#27d Half Elemental Damage (In Battle)]
 010E0000 0899ABA5 00000007
 
-[#27. Death Strike (100% Chance) (In Battle)]
+[#28. Death Strike (100% Chance) (In Battle)]
 010E0000 0899ABCC 0000007F
 
-[#28. Poison Strike (100% Chance) (In Battle)]
+[#29. Poison Strike (100% Chance) (In Battle)]
 010E0000 0899ABCD 0000007F
 
-[#29. Silence Strike (100% Chance) (In Battle)]
+[#30. Silence Strike (100% Chance) (In Battle)]
 010E0000 0899AC11 0000001E
 010E0000 0899ABF7 0000007F
 
-[#30. Stun Strike (100% Chance) (In Battle)]
+[#31. Stun Strike (100% Chance) (In Battle)]
 010E0000 0899AC05 0000001E
 010E0000 0899ABEB 0000007F
 
-[#31. Stop Strike (100% Chance) (In Battle)]
+[#32. Stop Strike (100% Chance) (In Battle)]
 010E0000 0899AC09 0000001E
 010E0000 0899ABEF 0000007F
 
-[#32. Death Ward (In Battle)]
+[#33. Death Ward (In Battle)]
 010E0000 0899ABD4 000000FF
 
-[#33. Poison Ward (In Battle)]
+[#34. Poison Ward (In Battle)]
 010E0000 0899ABD5 000000FF
 
-[#34. Silence Ward (In Battle)]
+[#35. Silence Ward (In Battle)]
 010E0000 0899AC04 000000FF
 
-[#35. Curse Ward (In Battle)]
+[#36. Curse Ward (In Battle)]
 010E0000 0899ABD7 000000FF
 
-[#36. Stun Ward (In Battle)]
+[#37. Stun Ward (In Battle)]
 010E0000 0899ABF8 000000FF
 
-[#37. Stop Ward (In Battle)]
+[#38. Stop Ward (In Battle)]
 010E0000 0899ABFC 000000FF
 
-[#38. Triple Limits (In Battle)]
+[#39. Triple Limits (In Battle)]
 51010000 0899AC76
 916A1120 00000080
 A1A00400 0899AC76
 
-[#39. Auto Potion (In Battle)]
+[#40. Auto Potion (In Battle)]
 51010000 0899AC77
 916A1120 00000001
 A1A00400 0899AC77
 
-[#40. Counterattack (In Battle)]
+[#41. Counterattack (In Battle)]
 51010000 0899AC77
 916A1120 00000002
 A1A00400 0899AC77
 
-[#41. Break Damage Limit (In Battle)]
+[#42. Break Damage Limit (In Battle)]
 51010000 0899AC74
 916A1120 00000001
 A1A00400 0899AC74
 
-[#42. Break HP Limit (In Battle)]
+[#43. Break HP Limit (In Battle)]
 51010000 0899AC74
 916A1120 00000002
 A1A00400 0899AC74
 
-[#43. Break MP Limit (In Battle)]
+[#44. Break MP Limit (In Battle)]
 51010000 0899AC74
 916A1120 00000004
 A1A00400 0899AC74
 
-[#44. Break AP Limit (In Battle)]
+[#45. Break AP Limit (In Battle)]
 51010000 0899AC74
 916A1120 00000008
 A1A00400 0899AC74
 
-[#45. Double Gil Dropped (In Battle)]
+[#46. Double Gil Dropped (In Battle)]
 51010000 0899AC74
 916A1120 00000040
 A1A00400 0899AC74
 
-[#46. Double Items Dropped (In Battle)]
+[#47. Double Items Dropped (In Battle)]
 51010000 0899AC74
 916A1120 00000080
 A1A00400 0899AC74
 
-[#47. Rare-Item Drop Only (In Battle)]
+[#48. Rare-Item Drop Only (In Battle)]
 51010000 0899AC74
 916A1120 00000010
 A1A00400 0899AC74
 
-[#48. Always Steal (In Battle)]
+[#49. Always Steal (In Battle)]
 51010000 0899AC74
 916A1120 00000020
 A1A00400 0899AC74
 
-[#49. Unlock All Missions]
+[#50. Unlock All Missions]
 300A0000 00000134
 010F0000 089E9EB8 00000001
 740F0000 00000003
 310A0000
 
-[#50. Complete All Missions ★]
+[#51. Complete All Missions ★]
 300A0000 00000134
 010F0000 089E9EBA 00000001
 740F0000 00000003
 310A0000
 
-[#51. Max Materia Level (Open Equip Materia)]
+[#52. Max Materia Level (Open Equip Materia)]
 080E0000 04118FE4 D65F03C0 39002808
 040E0000 04118FE0 528000A8
 040E0000 00A2F81C 94DBA5F1
 
-[#52a Shinra Shop Override - Unlock Shop Set]
+[#53a Shinra Shop Override - Unlock Shop Set]
 580F0000 089D5028
 780F0000 00000004
 400A0000 00000000 00003026
@@ -271,7 +274,7 @@ A2AF1000
 780A0000 00000001
 31000000
 
-[#52b Shinra Shop Override - Materia Set 1]
+[#53b Shinra Shop Override - Materia Set 1]
 580F0000 089D5028
 780F0000 00000004
 400A0000 00000000 0000C019
@@ -280,7 +283,7 @@ A2AF1000
 780A0000 00000001
 31000000
 
-[#52c Shinra Shop Override - Materia Set 2]
+[#53c Shinra Shop Override - Materia Set 2]
 580F0000 089D5028
 780F0000 00000004
 400A0000 00000000 0000C029
@@ -289,7 +292,7 @@ A2AF1000
 780A0000 00000001
 31000000
 
-[#52d Shinra Shop Override - Materia Set 3]
+[#53d Shinra Shop Override - Materia Set 3]
 580F0000 089D5028
 780F0000 00000004
 400A0000 00000000 0000C039
@@ -298,7 +301,7 @@ A2AF1000
 780A0000 00000001
 31000000
 
-[#52e Shinra Shop Override - Materia Set 4]
+[#53e Shinra Shop Override - Materia Set 4]
 580F0000 089D5028
 780F0000 00000004
 400A0000 00000000 0000C049
@@ -307,7 +310,7 @@ A2AF1000
 780A0000 00000001
 31000000
 
-[#52f Shinra Shop Override - Materia Set 5]
+[#53f Shinra Shop Override - Materia Set 5]
 580F0000 089D5028
 780F0000 00000004
 400A0000 00000000 0000C059
@@ -316,7 +319,7 @@ A2AF1000
 780A0000 00000001
 31000000
 
-[#52g Shinra Shop Override - Materia Set 6]
+[#53g Shinra Shop Override - Materia Set 6]
 580F0000 089D5028
 780F0000 00000004
 400A0000 00000000 0000C069
@@ -325,7 +328,7 @@ A2AF1000
 780A0000 00000001
 31000000
 
-[#52h Shinra Shop Override - Materia Set 7]
+[#53h Shinra Shop Override - Materia Set 7]
 580F0000 089D5028
 780F0000 00000004
 400A0000 00000000 0000C079
@@ -334,7 +337,7 @@ A2AF1000
 780A0000 00000001
 31000000
 
-[#52i Shinra Shop Override - Materia Set 8]
+[#53i Shinra Shop Override - Materia Set 8]
 580F0000 089D5028
 780F0000 00000004
 400A0000 00000000 0000C089
@@ -343,7 +346,7 @@ A2AF1000
 780A0000 00000001
 31000000
 
-[#52j Shinra Shop Override - Materia Set 9]
+[#53j Shinra Shop Override - Materia Set 9]
 580F0000 089D5028
 780F0000 00000004
 400A0000 00000000 0000C099
@@ -352,68 +355,68 @@ A2AF1000
 780A0000 00000001
 31000000
 
-[#53. Sephiroth Emotion Max]
+[#54. Sephiroth Emotion Max]
 010E0000 089E4890 0000001E
 
-[#54. Angeal Emotion Max]
+[#55. Angeal Emotion Max]
 010E0000 089E4891 0000001E
 
-[#55. Tseng Emotion Max]
+[#56. Tseng Emotion Max]
 010E0000 089E4892 0000001E
 
-[#56. Cloud Emotion Max]
+[#57. Cloud Emotion Max]
 010E0000 089E4893 0000001E
 
-[#57. Aerith Emotion Max]
+[#58. Aerith Emotion Max]
 010E0000 089E4894 0000001E
 
-[#58. Cissnei Emotion Max]
+[#59. Cissnei Emotion Max]
 010E0000 089E4895 0000001E
 
-[#59. Genesis Emotion Max]
+[#60. Genesis Emotion Max]
 010E0000 089E4896 0000001E
 
-[#60. Ifrit Emotion Max]
+[#61. Ifrit Emotion Max]
 010E0000 089E4897 0000001E
 
-[#61. Bahamut Emotion Max]
+[#62. Bahamut Emotion Max]
 010E0000 089E4898 0000001E
 
-[#62. Bahamut Fury Emotion Max]
+[#63. Bahamut Fury Emotion Max]
 010E0000 089E4899 0000001E
 
-[#63. Odin Emotion Max]
+[#64. Odin Emotion Max]
 010E0000 089E489A 0000001E
 
-[#64. Pheonix Emotion Max]
+[#65. Pheonix Emotion Max]
 010E0000 089E489B 0000001E
 
-[#65. Chocobo Emotion Max]
+[#66. Chocobo Emotion Max]
 010E0000 089E489C 0000001E
 
-[#66. Cactus Emotion Max]
+[#67. Cactus Emotion Max]
 010E0000 089E489D 0000001E
 
-[#67. Tonberry Emotion Max]
+[#68. Tonberry Emotion Max]
 010E0000 089E489E 0000001E
 
-[#68. Cait Sith Emotion Max]
+[#69. Cait Sith Emotion Max]
 010E0000 089E489F 0000001E
 
-[#69. Moogle Emotion Max]
+[#70. Moogle Emotion Max]
 010E0000 089E48A0 0000001E
 
-[#70. Magic Pot Emotion Max]
+[#71. Magic Pot Emotion Max]
 010E0000 089E48A1 0000001E
 
-[#71a 60 FPS ★]
+[#72a 60 FPS ★]
 040E0000 03464BA4 52800020
 040E0000 01525D14 52800037
 040E0000 0153174C 1E6E1000
 580F0000 096FDCD0
 680F0000 42700000 42700000
 
-[#71b 30 FPS]
+[#72b 30 FPS]
 040E0000 03464BA4 52800040
 040E0000 01525D14 52800057
 040E0000 0153174C 1E601000

@@ -1,0 +1,2 @@
+[#33. Death Ward (In Battle)]
+010E0000 0899ABD4 000000FF

@@ -1,0 +1,2 @@
+[#62. Bahamut Emotion Max]
+010E0000 089E4898 0000001E

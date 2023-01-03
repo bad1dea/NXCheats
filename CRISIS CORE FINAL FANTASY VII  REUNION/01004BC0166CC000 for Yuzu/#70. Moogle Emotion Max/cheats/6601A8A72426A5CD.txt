@@ -1,0 +1,2 @@
+[#70. Moogle Emotion Max]
+010E0000 089E48A0 0000001E

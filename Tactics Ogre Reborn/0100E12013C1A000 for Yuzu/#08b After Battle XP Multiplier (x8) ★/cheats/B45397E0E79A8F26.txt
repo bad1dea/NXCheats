@@ -1,0 +1,2 @@
+[#08b After Battle XP Multiplier (x8) ★]
+040E0000 00274D68 0B020D08

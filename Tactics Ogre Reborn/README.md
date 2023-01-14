@@ -1,5 +1,5 @@
 # Tactics Ogre Reborn (US)
-0100E12013C1A000 (0CEBE07A207577F9)
+0100E12013C1A000 (F69FDFF8B8802B97)
 
 ## Cheat List
 1. Instant Victory (After Turn) (R3+L3)
@@ -27,8 +27,9 @@
 1. Have All Item(s) Max (Visit Shop)
 1. Max Owned Item(s) (Visit Shop)
 1. Have All Equipment(s) Max (Visit Shop)
-1. Max Owned Equipment(s) (Shop)
+1. Max Owned Equipment(s) (Visit Shop)
 1. No Card(s) Required for Class Change
+1. Recruit 100%. (Any Unit)
 
 ## Changelog
 [View here](./CHANGELOG.md)

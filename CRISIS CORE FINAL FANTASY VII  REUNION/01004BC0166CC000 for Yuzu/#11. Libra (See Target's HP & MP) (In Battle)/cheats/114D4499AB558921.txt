@@ -1,0 +1,2 @@
+[#11. Libra (See Target's HP & MP) (In Battle)]
+040E0000 00964834 52800028

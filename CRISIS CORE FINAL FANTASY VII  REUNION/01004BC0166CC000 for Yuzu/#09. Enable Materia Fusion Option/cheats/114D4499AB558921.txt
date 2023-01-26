@@ -1,0 +1,2 @@
+[#09. Enable Materia Fusion Option]
+040E0000 00BCB0F8 52800028

@@ -1,5 +1,5 @@
 # CRISIS CORE - FINAL FANTASY VII - REUNION (US)
-01004BC0166CC000 (6601A8A72426A5CD)
+01004BC0166CC000 (114D4499AB558921)
 
 ## Cheat List
 1. Max Gil (On Get/Spend)
@@ -12,7 +12,6 @@
 1. Accessories Equip Max Slots
 1. Enable Materia Fusion Option
 1. Enable Mission Menu Anywhere
-1. Instant Escape (In Battle)
 1. Libra (See Target's HP & MP) (In Battle)
 1. D.M.V State Always Heavenly
 1. Barrier (In Battle)

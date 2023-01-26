@@ -1,0 +1,2 @@
+[#34. Silence Ward (In Battle)]
+010E0000 0899AC03 000000FF

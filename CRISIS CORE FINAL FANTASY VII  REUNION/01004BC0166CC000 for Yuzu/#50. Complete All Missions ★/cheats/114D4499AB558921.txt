@@ -1,0 +1,2 @@
+[#50. Complete All Missions ★]
+040E0000 00BCAE0C 52800028

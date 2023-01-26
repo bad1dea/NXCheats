@@ -1,0 +1,2 @@
+[#59. Genesis Emotion Max]
+010E0000 089E4895 0000001E

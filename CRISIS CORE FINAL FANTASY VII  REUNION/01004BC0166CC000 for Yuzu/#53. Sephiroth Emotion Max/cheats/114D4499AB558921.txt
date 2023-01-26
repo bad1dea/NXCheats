@@ -1,0 +1,2 @@
+[#53. Sephiroth Emotion Max]
+010E0000 089E488F 0000001E

@@ -1,0 +1,2 @@
+[#19b Gold Multiplier (4x)]
+040E0000 01A51E88 0B080920

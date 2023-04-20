@@ -1,0 +1,8 @@
+# FINAL FANTASY VI (US)
+0100AA001415E000 (CC2F4D27F0C49FF1)
+
+## Cheat List
+1. Inf. HP & MP
+
+## Changelog
+[View here](./CHANGELOG.md)

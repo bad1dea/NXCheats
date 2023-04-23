@@ -3,7 +3,8 @@
 
 ## Cheat List
 1. Inf. Gil
-1. Inf. HP & MP
+1. Inf. HP
+1. Inf. MP
 
 ## Changelog
 [View here](./CHANGELOG.md)

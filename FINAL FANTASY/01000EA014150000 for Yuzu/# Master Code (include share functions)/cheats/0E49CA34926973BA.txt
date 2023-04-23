@@ -1,0 +1,3 @@
+{# Master Code (include share functions)}
+040E0000 0293CFE4 3F800000
+040E0000 0293CFC8 3F800000

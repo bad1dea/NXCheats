@@ -1,0 +1,2 @@
+[#07. Unlock All Abilities]
+040E0000 019629A8 52800C80

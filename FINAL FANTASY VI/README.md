@@ -7,6 +7,8 @@
 1. 100% Drop Rate
 1. 100% Steal Rate
 1. Always Steal Rare Item (If Enemy Has)
+1. Inf. Item(s) (50 QTY On Use)
+1. Unlock All Abilities
 
 ## Changelog
 [View here](./CHANGELOG.md)

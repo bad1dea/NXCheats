@@ -24,6 +24,11 @@
 1. Item Multiplier (2x)
 1. Item Multiplier (4x)
 1. Item Multiplier (8x)
+1. Faster Walk/Sprint Speed
+1. Normal Walk/Sprint Speed
+1. Faster Jetpack Movement Speed
+1. Fast and Furious Jetpack
+1. Normal Jetpack
 
 ## Changelog
 [View here](./CHANGELOG.md)

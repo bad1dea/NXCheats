@@ -1,2 +1,0 @@
-[#04. Inf. Health Cores]
-040E0000 003EFED8 D503201F

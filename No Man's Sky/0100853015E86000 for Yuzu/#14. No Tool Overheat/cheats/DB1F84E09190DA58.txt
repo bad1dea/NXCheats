@@ -1,2 +1,0 @@
-[#14. No Tool Overheat]
-040E0000 0143C698 140000CD

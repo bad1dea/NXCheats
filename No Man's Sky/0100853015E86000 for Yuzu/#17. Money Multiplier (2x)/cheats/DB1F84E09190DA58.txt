@@ -1,2 +1,0 @@
-[#17. Money Multiplier (2x)]
-040E0000 003CDA40 2B010508

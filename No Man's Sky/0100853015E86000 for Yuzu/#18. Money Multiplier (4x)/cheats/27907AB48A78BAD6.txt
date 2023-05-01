@@ -1,2 +1,0 @@
-[#18. Money Multiplier (4x)]
-040E0000 003CDA60 2B010908

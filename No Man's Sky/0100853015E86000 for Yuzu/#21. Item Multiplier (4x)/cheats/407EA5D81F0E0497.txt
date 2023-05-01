@@ -1,2 +1,0 @@
-[#21. Item Multiplier (4x)]
-040E0000 003ECABC 0B180908

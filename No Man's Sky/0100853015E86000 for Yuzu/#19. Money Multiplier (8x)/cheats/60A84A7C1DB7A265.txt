@@ -1,2 +1,0 @@
-[#19. Money Multiplier (8x)]
-040E0000 003C20C0 2B010D08

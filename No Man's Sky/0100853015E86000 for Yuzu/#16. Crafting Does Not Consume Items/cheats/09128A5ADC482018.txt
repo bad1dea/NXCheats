@@ -1,2 +1,0 @@
-[#16. Crafting Does Not Consume Items]
-040E0000 003F1500 D503201F

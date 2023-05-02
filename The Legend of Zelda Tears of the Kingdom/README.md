@@ -6,6 +6,7 @@
 1. Inf. Stamina
 1. Inf. Durability
 1. Inf. Battery
+1. (X) Jump
 
 ## Changelog
 [View here](./CHANGELOG.md)

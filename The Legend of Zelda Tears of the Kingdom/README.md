@@ -5,6 +5,7 @@
 1. Inf. Health
 1. Inf. Stamina
 1. Inf. Durability
+1. Inf. Battery
 
 ## Changelog
 [View here](./CHANGELOG.md)

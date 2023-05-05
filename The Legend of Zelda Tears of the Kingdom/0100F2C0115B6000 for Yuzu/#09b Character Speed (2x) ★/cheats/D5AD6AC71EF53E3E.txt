@@ -1,0 +1,2 @@
+[#09b Character Speed (2x) ★]
+040E0000 006920EC 1E201000

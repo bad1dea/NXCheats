@@ -19,15 +19,19 @@
 040E0000 00B97364 BD004669
 040E0000 00B973DC BD004669
 
-[#05a Melee Damage Multiplier (2x)]
+[#05a Damage Multiplier (2x)]
 040E0000 00807CA4 1E201008
 040E0000 00807CE0 1E201000
 
-[#05b Melee Damage Multiplier (4x) ★]
+[#05b Damage Multiplier (4x) ★]
 040E0000 00807CA4 1E221008
 040E0000 00807CE0 1E221000
 
-[#05c Melee Damage Multiplier (10x)]
+[#05c Damage Multiplier (10x)]
+040E0000 00807CA4 1E249008
+040E0000 00807CE0 1E249000
+
+[#05d Damage Multiplier (30x)]
 040E0000 00807CA4 1E249008
 040E0000 00807CE0 1E249000
 
@@ -71,7 +75,21 @@
 040E0000 02B1FFAC 18000185
 040E0000 0241C744 141C0E1A
 
-[#08. (X) Jump]
+[#08a Movement Speed (1x)]
+
+[#08b Movement Speed (1.5x)]
+
+[#08c Movement Speed (2x) ★]
+
+[#08d Movement Speed (3x)]
+
+[#09a Character Speed (1x)]
+040E0000 006920EC 1E2E1000
+
+[#09b Character Speed (2x) ★]
+040E0000 006920EC 1E201000
+
+[#10. (X) Jump]
 580F0000 047203D0
 580F1000 000000C8
 580F1000 00000178
@@ -79,4 +97,7 @@
 780F0000 000000FC
 80000004
 640F01D0 00000000 41200000
+20000000
+
+[-NOTE- with research & codes from patjenova, Eiffel2018, a7251835, KaitoB, khuong]
 20000000

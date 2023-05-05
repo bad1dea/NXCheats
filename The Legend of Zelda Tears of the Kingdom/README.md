@@ -6,7 +6,9 @@
 1. Inf. Stamina
 1. Inf. Durability
 1. Inf. Battery
-1. Damage Multiplier (4x)
+1. Melee Damage Multiplier (2x)
+1. Melee Damage Multiplier (4x) ★
+1. Melee Damage Multiplier (10x)
 1. Inf. Item Usage (Eat)
 1. Item Multiplier (2x)
 1. Item Multiplier (5x) ★

@@ -87,10 +87,13 @@
 [#08d Movement Speed (3x)]
 040E0000 0387C7C8 40400000
 
-[#09a Character Speed (1x)]
+[#09a Attack Speed (1x)]
 040E0000 006920EC 1E2E1000
 
-[#09b Character Speed (2x) ★]
+[#09b Attack Speed (1.5x) ★]
+040E0000 006920EC 1E2F1000
+
+[#09c Attack Speed (2x)]
 040E0000 006920EC 1E201000
 
 [#10. (X) Jump]

@@ -18,8 +18,9 @@
 1. Movement Speed (1.5x)
 1. Movement Speed (2x) ★
 1. Movement Speed (3x)
-1. Character Speed (1x)
-1. Character Speed (2x) ★
+1. Attack Speed (1x)
+1. Attack Speed (1.5x) ★
+1. Attack Speed (2x)
 1. (X) Jump
 1. - with research & codes from patjenova, Eiffel2018, a7251835, KaitoB, khuong
 

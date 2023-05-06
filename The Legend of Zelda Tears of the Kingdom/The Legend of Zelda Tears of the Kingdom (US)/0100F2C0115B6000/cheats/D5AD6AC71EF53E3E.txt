@@ -75,8 +75,8 @@
 040E0000 00807CE0 1E249000
 
 [#10d Damage Multiplier (30x)]
-040E0000 00807CA4 1E249008
-040E0000 00807CE0 1E249000
+040E0000 00807CA4 1E27D008
+040E0000 00807CE0 1E27D000
 
 [#11a Item Pickup/Sell/Buy Multiplier (2x)]
 040E0000 02B1FFD8 00000002
@@ -151,7 +151,7 @@
 040E0000 0090EA90 52800035
 040E0000 0090EB38 52800035
 
-[-NOTE- Do Not Mix Handheld and Docked Resolution Hacks at same time.]
+[-NOTE- Do Not Mix Handheld and Docked Resolution Hacks at same time. -NOTE]
 20000000
 
 [#18a Handheld 480p]
@@ -202,13 +202,7 @@
 780F0000 000000F0
 680F01D0 00000438 00000780
 
-[#18i Docked 1080p]
-580F0000 04719670
-580F1000 00000090
-780F0000 000000F0
-680F01D0 00000510 00000900
-
-[-NOTE- with research & codes from patjenova, Eiffel2018, a7251835, KaitoB, khuong]
+[-NOTE- with research & codes from patjenova, Eiffel2018, a7251835, KaitoB, GamerJin, khuong -NOTE]
 20000000
 
 [- khuong ツ -]

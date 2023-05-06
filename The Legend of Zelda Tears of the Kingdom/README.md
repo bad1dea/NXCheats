@@ -18,6 +18,8 @@
 1. Item Pickup/Sell/Buy Multiplier (2x)
 1. Item Pickup/Sell/Buy Multiplier (5x) ★
 1. Item Pickup/Sell/Buy Multiplier (10x)
+1. Climbing Speed (2x)
+1. Swimming Speed (3x)
 1. Movement Speed (1x)
 1. Movement Speed (1.5x)
 1. Movement Speed (2x) ★

@@ -28,6 +28,17 @@
 1. Attack Speed (1.5x) ★
 1. Attack Speed (2x)
 1. (X) Jump
+1. 60 FPS (Disable + Restore Code for 30FPS)
+1. - Do Not Mix Handheld and Docked Resolution Hacks at same time.
+1. Handheld 480p
+1. Handheld 540p
+1. Handheld 612p
+1. Handheld 648p
+1. Default Handheld 720p
+1. Docked 720p
+1. Docked 810p
+1. Default Docked 900p
+1. Docked 1080p
 1. - with research & codes from patjenova, Eiffel2018, a7251835, KaitoB, khuong
 
 ## Changelog

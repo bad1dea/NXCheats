@@ -1,0 +1,2 @@
+[-NOTE- Do Not Mix Handheld and Docked Resolution Hacks at same time.]
+20000000

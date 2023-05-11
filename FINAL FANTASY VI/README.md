@@ -11,10 +11,11 @@
 1. Always Steal Rare Item (If Enemy Has)
 1. No Clip and No Collision (ZL)
 1. Inf. Item(s) (50 QTY On Use)
-1. Shops Sell Every Availbile Shop Items
+1. Shops Sell Every Available Shop Items
 1. Unlock All Abilities
 1. Get All Espers After Battle (Need 100% Drop Rate Enabled)
 1. High Encounter Rate (Encounters Must Be Enabled)
+1. Ultimate Weapon Dropped After Battle (Need 100% Drop Rate Enabled
 
 ## Changelog
 [View here](./CHANGELOG.md)

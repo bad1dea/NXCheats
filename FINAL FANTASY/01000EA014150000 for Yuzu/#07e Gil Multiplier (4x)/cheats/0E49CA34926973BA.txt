@@ -1,0 +1,2 @@
+[#07e Gil Multiplier (4x)]
+040E0000 01EA46CC 1E221000

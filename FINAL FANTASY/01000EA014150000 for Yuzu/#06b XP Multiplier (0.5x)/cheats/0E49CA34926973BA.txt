@@ -1,0 +1,2 @@
+[#06b XP Multiplier (0.5x)]
+040E0000 01EA464C 1E2C1000

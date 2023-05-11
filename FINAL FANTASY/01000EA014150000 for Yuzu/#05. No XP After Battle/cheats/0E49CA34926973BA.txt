@@ -1,2 +1,0 @@
-[#05. No XP After Battle]
-040E0000 01C04714 B9000FFF

@@ -1,0 +1,7 @@
+# FINAL FANTASY IX (US)
+01007EF00B094000 (A49A739C07989244)
+
+## Cheat List
+
+## Changelog
+[View here](./CHANGELOG.md)

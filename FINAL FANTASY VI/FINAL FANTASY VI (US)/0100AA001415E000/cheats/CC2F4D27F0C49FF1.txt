@@ -83,28 +83,28 @@
 [#09h XP Multiplier (30x)]
 040E0000 01EDECD0 1E27D000
 
-[#10a XP Multiplier (0x)]
+[#10a Gil Multiplier (0x)]
 040E0000 01EDED60 1E2703E0
 
-[#10b XP Multiplier (0.5x)]
+[#10b Gil Multiplier (0.5x)]
 040E0000 01EDED60 1E2C1000
 
-[#10c XP Multiplier (1x)]
+[#10c Gil Multiplier (1x)]
 040E0000 01EDED60 1E2E1000
 
-[#10d XP Multiplier (2x)]
+[#10d Gil Multiplier (2x)]
 040E0000 01EDED60 1E201000
 
-[#10e XP Multiplier (4x)]
+[#10e Gil Multiplier (4x)]
 040E0000 01EDED60 1E221000
 
-[#10f XP Multiplier (8x)]
+[#10f Gil Multiplier (8x)]
 040E0000 01EDED60 1E241000
 
-[#10g XP Multiplier (16x)]
+[#10g Gil Multiplier (16x)]
 040E0000 01EDED60 1E261000
 
-[#10h XP Multiplier (30x)]
+[#10h Gil Multiplier (30x)]
 040E0000 01EDED60 1E27D000
 
 [#11a AP Multiplier (0x)]

@@ -1,0 +1,2 @@
+[#10h Auto Battle Speed Multiplier (4x)]
+040E0000 01C85850 1E221000

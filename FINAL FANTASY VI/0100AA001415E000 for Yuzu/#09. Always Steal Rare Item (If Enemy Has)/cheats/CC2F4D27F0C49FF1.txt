@@ -1,0 +1,2 @@
+[#09. Always Steal Rare Item (If Enemy Has)]
+040E0000 01ABFCCC 52800020

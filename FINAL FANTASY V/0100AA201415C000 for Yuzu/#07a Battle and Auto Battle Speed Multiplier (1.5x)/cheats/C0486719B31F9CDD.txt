@@ -1,0 +1,2 @@
+[#07a Battle and Auto Battle Speed Multiplier (1.5x)]
+080E0000 01B68F50 1E2F1000 52800020

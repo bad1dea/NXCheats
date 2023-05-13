@@ -1,0 +1,2 @@
+[#18c AP Multiplier (1x)]
+040E0000 01EDEF10 1E2E1000

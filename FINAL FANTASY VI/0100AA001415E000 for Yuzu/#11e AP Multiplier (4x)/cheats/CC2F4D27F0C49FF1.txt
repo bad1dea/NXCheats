@@ -1,2 +1,0 @@
-[#11e AP Multiplier (4x)]
-040E0000 01EDEF10 1E221000

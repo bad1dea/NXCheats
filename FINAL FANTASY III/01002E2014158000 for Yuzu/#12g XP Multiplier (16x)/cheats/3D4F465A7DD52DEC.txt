@@ -1,0 +1,2 @@
+[#12g XP Multiplier (16x)]
+040E0000 01DB986C 1E261000

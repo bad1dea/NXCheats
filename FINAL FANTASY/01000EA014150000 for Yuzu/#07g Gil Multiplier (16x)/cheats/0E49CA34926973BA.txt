@@ -1,2 +1,0 @@
-[#07g Gil Multiplier (16x)]
-040E0000 01EA46CC 1E261000

@@ -1,2 +1,0 @@
-[#06g XP Multiplier (16x)]
-040E0000 01EA464C 1E261000

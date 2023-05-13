@@ -6,6 +6,7 @@
 1. Inf. HP
 1. Inf. MP
 1. Inf. Item Usage
+1. ATB Bar Always Full
 1. One-Punch Man (OHK)
 1. 100% Drop Rate (Not All Monsters Drop Items)
 1. Battle and Auto Battle Speed Multiplier (1.5x)

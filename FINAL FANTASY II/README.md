@@ -18,8 +18,11 @@
 1. Auto Battle Speed Multiplier (4x)
 1. Auto Battle Speed Multiplier (5x)
 1. Shops Sell Every Available Shop Items
+1. Bypass Equip Check (Allow Any Char to Any Item)
 1. Get All Items After Battle (Need 100% Drop Rate Enabled)
 1. No Clip and No Collision (ZL)
+1. Always Show Hidden Passage(s) (Blinking) ★
+1. Always Show Hidden Passage(s)
 1. Gil Multiplier (0x)
 1. Gil Multiplier (0.5x)
 1. Gil Multiplier (1x)

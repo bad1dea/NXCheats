@@ -54,7 +54,10 @@
 [#08. Shops Sell Every Available Shop Items]
 040E0000 01ABAC14 52800020
 
-[#09. Get All Items After Battle (Need 100% Drop Rate Enabled)]
+[#09. Bypass Equip Check (Allow Any Char to Any Item)]
+080E0000 01D696F0 D65F03C0 52800020
+
+[#10. Get All Items After Battle (Need 100% Drop Rate Enabled)]
 080E0000 0295EFC8 17D3C81B B94012C1
 080E0000 0295EFC0 54FFFE8D 7102F8DF
 080E0000 0295EFB8 110004C6 52800C86
@@ -66,104 +69,119 @@
 040E0000 0295EF8C 52800206
 040E0000 01E51034 142C37D6
 
-[#10. No Clip and No Collision (ZL)]
+[#11. No Clip and No Collision (ZL)]
 040E0000 01E42604 340001A8
 80000100
 040E0000 01E42604 350001A8
 20000000
 
-[#11a Gil Multiplier (0x)]
+[#12a Always Show Hidden Passage(s) (Blinking) ★]
+080E0000 0295EF84 17DE61A9 3940C268
+080E0000 0295EF7C 17DE61AB B9003268
+080E0000 0295EF74 52800028 54000081
+080E0000 0295EF6C 7106411F B9402A68
+040E0000 020F7628 14219E51
+
+[#12b Always Show Hidden Passage(s)]
+080E0000 0295EF64 17DE61B1 3940C268
+080E0000 0295EF5C 17DE61B3 B9003268
+080E0000 0295EF54 52800028 54000081
+080E0000 0295EF4C 7106411F B9402A68
+040E0000 020F7628 14219E49
+040E0000 020F7688 D503201F
+
+[#13a Gil Multiplier (0x)]
 040E0000 01EF00CC 1E2703E0
 
-[#11b Gil Multiplier (0.5x)]
+[#13b Gil Multiplier (0.5x)]
 040E0000 01EF00CC 1E2C1000
 
-[#11c Gil Multiplier (1x)]
+[#13c Gil Multiplier (1x)]
 040E0000 01EF00CC 1E2E1000
 
-[#11d Gil Multiplier (2x)]
+[#13d Gil Multiplier (2x)]
 040E0000 01EF00CC 1E201000
 
-[#11e Gil Multiplier (4x)]
+[#13e Gil Multiplier (4x)]
 040E0000 01EF00CC 1E221000
 
-[#11f Gil Multiplier (8x)]
+[#13f Gil Multiplier (8x)]
 040E0000 01EF00CC 1E241000
 
-[#11g Gil Multiplier (16x)]
+[#13g Gil Multiplier (16x)]
 040E0000 01EF00CC 1E261000
 
-[#11h Gil Multiplier (30x)]
+[#13h Gil Multiplier (30x)]
 040E0000 01EF00CC 1E27D000
 
-[#12a Weapon Skill Level Multiplier (0x)]
+[#14a Weapon Skill Level Multiplier (0x)]
 040E0000 01EF014C 1E2703E0
 
-[#12b Weapon Skill Level Multiplier (0.5x)]
+[#14b Weapon Skill Level Multiplier (0.5x)]
 040E0000 01EF014C 1E2C1000
 
-[#12c Weapon Skill Level Multiplier (1x)]
+[#14c Weapon Skill Level Multiplier (1x)]
 040E0000 01EF014C 1E2E1000
 
-[#12d Weapon Skill Level Multiplier (2x)]
+[#14d Weapon Skill Level Multiplier (2x)]
 040E0000 01EF014C 1E201000
 
-[#12e Weapon Skill Level Multiplier (4x)]
+[#14e Weapon Skill Level Multiplier (4x)]
 040E0000 01EF014C 1E221000
 
-[#12f Weapon Skill Level Multiplier (8x)]
+[#14f Weapon Skill Level Multiplier (8x)]
 040E0000 01EF014C 1E241000
 
-[#12g Weapon Skill Level Multiplier (16x)]
+[#14g Weapon Skill Level Multiplier (16x)]
 040E0000 01EF014C 1E261000
 
-[#12h Weapon Skill Level Multiplier (30x)]
+[#14h Weapon Skill Level Multiplier (30x)]
 040E0000 01EF014C 1E27D000
 
-[#13a Magic Skill Level Multiplier (0x)]
+[#15a Magic Skill Level Multiplier (0x)]
 040E0000 01EF034C 1E2703E0
 
-[#13b Magic Skill Level Multiplier (0.5x)]
+[#15b Magic Skill Level Multiplier (0.5x)]
 040E0000 01EF034C 1E2C1000
 
-[#13c Magic Skill Level Multiplier (1x)]
+[#15c Magic Skill Level Multiplier (1x)]
 040E0000 01EF034C 1E2E1000
 
-[#13d Magic Skill Level Multiplier (2x)]
+[#15d Magic Skill Level Multiplier (2x)]
 040E0000 01EF034C 1E201000
 
-[#13e Magic Skill Level Multiplier (4x)]
+[#15e Magic Skill Level Multiplier (4x)]
 040E0000 01EF034C 1E221000
 
-[#13f Magic Skill Level Multiplier (8x)]
+[#15f Magic Skill Level Multiplier (8x)]
 040E0000 01EF034C 1E241000
 
-[#13g Magic Skill Level Multiplier (16x)]
+[#15g Magic Skill Level Multiplier (16x)]
 040E0000 01EF034C 1E261000
 
-[#13h Magic Skill Level Multiplier (30x)]
+[#15h Magic Skill Level Multiplier (30x)]
 040E0000 01EF034C 1E27D000
 
-[#14a Atribute Multiplier (0x)]
+[#16a Atribute Multiplier (0x)]
 040E0000 01EF02CC 1E2703E0
 
-[#14b Atribute Multiplier (0.5x)]
+[#16b Atribute Multiplier (0.5x)]
 040E0000 01EF02CC 1E2C1000
 
-[#14c Atribute Multiplier (1x)]
+[#16c Atribute Multiplier (1x)]
 040E0000 01EF02CC 1E2E1000
 
-[#14d Atribute Multiplier (2x)]
+[#16d Atribute Multiplier (2x)]
 040E0000 01EF02CC 1E201000
 
-[#14e Atribute Multiplier (4x)]
+[#16e Atribute Multiplier (4x)]
 040E0000 01EF02CC 1E221000
 
-[#14f Atribute Multiplier (8x)]
+[#16f Atribute Multiplier (8x)]
 040E0000 01EF02CC 1E241000
 
-[#14g Atribute Multiplier (16x)]
+[#16g Atribute Multiplier (16x)]
 040E0000 01EF02CC 1E261000
 
-[#14h Atribute Multiplier (30x)]
+[#16h Atribute Multiplier (30x)]
 040E0000 01EF02CC 1E27D000

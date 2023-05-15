@@ -1,0 +1,2 @@
+[#16b Atribute Multiplier (0.5x)]
+040E0000 01EF02CC 1E2C1000

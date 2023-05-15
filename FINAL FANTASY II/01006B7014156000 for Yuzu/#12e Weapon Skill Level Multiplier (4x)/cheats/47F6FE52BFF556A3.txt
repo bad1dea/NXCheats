@@ -1,2 +1,0 @@
-[#12e Weapon Skill Level Multiplier (4x)]
-040E0000 01EF014C 1E221000

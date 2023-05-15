@@ -1,0 +1,2 @@
+[#09. Bypass Equip Check (Allow Any Char to Any Item)]
+080E0000 01D696F0 D65F03C0 52800020

@@ -1,2 +1,0 @@
-[#13g Magic Skill Level Multiplier (16x)]
-040E0000 01EF034C 1E261000

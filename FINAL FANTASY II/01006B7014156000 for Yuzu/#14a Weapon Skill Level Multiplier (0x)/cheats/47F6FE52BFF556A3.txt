@@ -1,0 +1,2 @@
+[#14a Weapon Skill Level Multiplier (0x)]
+040E0000 01EF014C 1E2703E0

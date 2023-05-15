@@ -6,18 +6,15 @@
 1. Inf. Stamina
 1. Inf. Rupees
 1. Inf. Arrow(s)
-1. Inf. Equipment Durability
+1. Inf. Equipment Durability (Fire will still break it.)
 1. Inf. Battery
-1. Perfect Goldilocks Thermometer
+1. Inf. Zonai Device Duration
 1. No Fall Damage
 1. Spider-Man Mode (No Falling While Climbing)
 1. Damage Multiplier (2x)
 1. Damage Multiplier (4x) ★
 1. Damage Multiplier (10x)
 1. Damage Multiplier (30x)
-1. Item Pickup/Sell/Buy Multiplier (2x)
-1. Item Pickup/Sell/Buy Multiplier (5x) ★
-1. Item Pickup/Sell/Buy Multiplier (10x)
 1. Climbing Speed (2x)
 1. Swimming Speed (3x)
 1. Movement Speed (1x)

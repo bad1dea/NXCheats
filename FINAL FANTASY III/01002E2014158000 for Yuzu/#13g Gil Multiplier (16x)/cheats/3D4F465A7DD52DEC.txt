@@ -1,2 +1,0 @@
-[#13g Gil Multiplier (16x)]
-040E0000 01DB98EC 1E261000

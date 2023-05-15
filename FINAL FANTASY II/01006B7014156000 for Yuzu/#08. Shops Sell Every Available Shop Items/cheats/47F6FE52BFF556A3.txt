@@ -1,2 +1,0 @@
-[#08. Shops Sell Every Available Shop Items]
-040E0000 01ABAC14 52800020

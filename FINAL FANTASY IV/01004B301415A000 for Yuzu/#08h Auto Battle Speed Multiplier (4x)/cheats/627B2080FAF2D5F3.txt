@@ -1,2 +1,0 @@
-[#08h Auto Battle Speed Multiplier (4x)]
-040E0000 01A17034 1E221000

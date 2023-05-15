@@ -1,2 +1,0 @@
-[#12g Weapon Skill Level Multiplier (16x)]
-040E0000 01EF014C 1E261000

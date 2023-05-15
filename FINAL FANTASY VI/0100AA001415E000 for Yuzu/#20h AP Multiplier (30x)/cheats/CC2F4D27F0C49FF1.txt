@@ -1,2 +1,0 @@
-[#20h AP Multiplier (30x)]
-040E0000 01EDEF10 1E27D000

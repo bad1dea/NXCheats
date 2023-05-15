@@ -1,2 +1,0 @@
-[#10e Auto Battle Speed Multiplier (2x)]
-040E0000 01C85850 1E201000

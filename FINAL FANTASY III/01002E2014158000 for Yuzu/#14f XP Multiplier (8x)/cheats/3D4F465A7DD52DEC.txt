@@ -1,2 +1,0 @@
-[#14f XP Multiplier (8x)]
-040E0000 01DB986C 1E241000

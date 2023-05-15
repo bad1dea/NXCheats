@@ -1,2 +1,0 @@
-[#14c XP Multiplier (1x)]
-040E0000 01DB986C 1E2E1000

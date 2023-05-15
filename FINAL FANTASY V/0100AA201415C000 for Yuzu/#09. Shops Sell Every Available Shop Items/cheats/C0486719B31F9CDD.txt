@@ -1,0 +1,2 @@
+[#09. Shops Sell Every Available Shop Items]
+040E0000 01BEEC88 52800020

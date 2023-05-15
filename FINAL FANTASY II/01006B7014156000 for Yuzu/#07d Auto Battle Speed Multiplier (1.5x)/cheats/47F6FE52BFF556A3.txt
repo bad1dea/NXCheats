@@ -1,0 +1,2 @@
+[#07d Auto Battle Speed Multiplier (1.5x)]
+040E0000 01A95C64 1E2F1000

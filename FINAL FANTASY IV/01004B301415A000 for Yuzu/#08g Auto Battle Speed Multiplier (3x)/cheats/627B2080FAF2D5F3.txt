@@ -1,0 +1,2 @@
+[#08g Auto Battle Speed Multiplier (3x)]
+040E0000 01A17034 1E211000

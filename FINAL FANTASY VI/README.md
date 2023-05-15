@@ -24,7 +24,10 @@
 1. Unlock All Abilities (View Abilities)
 1. Get All Items After Battle (Need 100% Drop Rate Enabled)
 1. Get All Espers After Battle (Need 100% Drop Rate Enabled)
+1. Bypass Equip Check (Allow Any Char to Any Item)
 1. No Clip and No Collision (ZL)
+1. Always Show Hidden Passage(s) (Blinking) ★
+1. Always Show Hidden Passage(s)
 1. High Encounter Rate (Encounters Must Be Enabled)
 1. XP Multiplier (0x)
 1. XP Multiplier (0.5x)

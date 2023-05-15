@@ -1,2 +1,0 @@
-[#18g AP Multiplier (16x)]
-040E0000 01EDEF10 1E261000

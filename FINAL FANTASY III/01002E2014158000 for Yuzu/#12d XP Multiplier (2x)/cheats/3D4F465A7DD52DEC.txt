@@ -1,2 +1,0 @@
-[#12d XP Multiplier (2x)]
-040E0000 01DB986C 1E201000

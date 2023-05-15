@@ -1,0 +1,2 @@
+[#14d Gil Multiplier (2x)]
+040E0000 01C059A0 1E201000

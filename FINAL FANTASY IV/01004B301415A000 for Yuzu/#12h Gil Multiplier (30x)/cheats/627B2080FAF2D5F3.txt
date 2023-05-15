@@ -1,2 +1,0 @@
-[#12h Gil Multiplier (30x)]
-040E0000 0219809C 1E27D000

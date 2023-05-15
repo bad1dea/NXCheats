@@ -1,2 +1,0 @@
-[#16h XP Multiplier (30x)]
-040E0000 01EDECD0 1E27D000

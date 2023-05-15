@@ -1,2 +1,0 @@
-[#12c Gil Multiplier (1x)]
-040E0000 01EA46CC 1E2E1000

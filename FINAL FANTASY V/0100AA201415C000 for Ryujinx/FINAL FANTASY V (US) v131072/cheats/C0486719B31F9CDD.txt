@@ -143,80 +143,98 @@
 040E0000 02B8FD44 52800046
 040E0000 01FAA92C 142F9506
 
-[#11. No Clip and No Collision (ZL)]
+[#11. Bypass Equip Check (Allow Any Char to Any Item)]
+080E0000 01E56F50 D65F03C0 52800020
+
+[#12. No Clip and No Collision (ZL)]
 040E0000 01F78C30 340001A8
 80000100
 040E0000 01F78C30 350001A8
 20000000
 
-[#12a Gil Multiplier (0x)]
+[#13a Always Show Hidden Passage(s) (Blinking) ★]
+080E0000 02B8FD3C 17DA2DD7 3940C268
+080E0000 02B8FD34 17DA2DD9 B9003268
+080E0000 02B8FD2C 52800028 54000081
+080E0000 02B8FD24 7106411F B9402A68
+040E0000 0221B498 1425D223
+
+[#13b Always Show Hidden Passage(s)]
+080E0000 02B8FD1C 17DA2DDF 3940C268
+080E0000 02B8FD14 17DA2DE1 B9003268
+080E0000 02B8FD0C 52800028 54000081
+080E0000 02B8FD04 7106411F B9402A68
+040E0000 0221B498 1425D21B
+040E0000 0221B508 D503201F
+
+[#14a Gil Multiplier (0x)]
 040E0000 01C059A0 1E2703E0
 
-[#12b Gil Multiplier (0.5x)]
+[#14b Gil Multiplier (0.5x)]
 040E0000 01C059A0 1E2C1000
 
-[#12c Gil Multiplier (1x)]
+[#14c Gil Multiplier (1x)]
 040E0000 01C059A0 1E2E1000
 
-[#12d Gil Multiplier (2x)]
+[#14d Gil Multiplier (2x)]
 040E0000 01C059A0 1E201000
 
-[#12e Gil Multiplier (4x)]
+[#14e Gil Multiplier (4x)]
 040E0000 01C059A0 1E221000
 
-[#12f Gil Multiplier (8x)]
+[#14f Gil Multiplier (8x)]
 040E0000 01C059A0 1E241000
 
-[#12g Gil Multiplier (16x)]
+[#14g Gil Multiplier (16x)]
 040E0000 01C059A0 1E261000
 
-[#12h Gil Multiplier (30x)]
+[#14h Gil Multiplier (30x)]
 040E0000 01C059A0 1E27D000
 
-[#13a XP Multiplier (0x)]
+[#15a XP Multiplier (0x)]
 040E0000 01C05910 1E2703E0
 
-[#13b XP Multiplier (0.5x)]
+[#15b XP Multiplier (0.5x)]
 040E0000 01C05910 1E2C1000
 
-[#13c XP Multiplier (1x)]
+[#15c XP Multiplier (1x)]
 040E0000 01C05910 1E2E1000
 
-[#13d XP Multiplier (2x)]
+[#15d XP Multiplier (2x)]
 040E0000 01C05910 1E201000
 
-[#13e XP Multiplier (4x)]
+[#15e XP Multiplier (4x)]
 040E0000 01C05910 1E221000
 
-[#13f XP Multiplier (8x)]
+[#15f XP Multiplier (8x)]
 040E0000 01C05910 1E241000
 
-[#13g XP Multiplier (16x)]
+[#15g XP Multiplier (16x)]
 040E0000 01C05910 1E261000
 
-[#13h XP Multiplier (30x)]
+[#15h XP Multiplier (30x)]
 040E0000 01C05910 1E27D000
 
-[#14a ABP Multiplier (0x)]
+[#16a ABP Multiplier (0x)]
 040E0000 01C05AC0 1E2703E0
 
-[#14b ABP Multiplier (0.5x)]
+[#16b ABP Multiplier (0.5x)]
 040E0000 01C05AC0 1E2C1000
 
-[#14c ABP Multiplier (1x)]
+[#16c ABP Multiplier (1x)]
 040E0000 01C05AC0 1E2E1000
 
-[#14d ABP Multiplier (2x)]
+[#16d ABP Multiplier (2x)]
 040E0000 01C05AC0 1E201000
 
-[#14e ABP Multiplier (4x)]
+[#16e ABP Multiplier (4x)]
 040E0000 01C05AC0 1E221000
 
-[#14f ABP Multiplier (8x)]
+[#16f ABP Multiplier (8x)]
 040E0000 01C05AC0 1E241000
 
-[#14g ABP Multiplier (16x)]
+[#16g ABP Multiplier (16x)]
 040E0000 01C05AC0 1E261000
 
-[#14h ABP Multiplier (30x)]
+[#16h ABP Multiplier (30x)]
 040E0000 01C05AC0 1E27D000

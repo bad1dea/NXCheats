@@ -1,2 +1,0 @@
-[#17f Gil Multiplier (8x)]
-040E0000 01EDED60 1E241000

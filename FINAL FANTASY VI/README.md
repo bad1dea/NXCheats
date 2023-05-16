@@ -5,7 +5,7 @@
 1. Inf. Gil
 1. Inf. HP
 1. Inf. MP
-1. Inf. Item Usage
+1. Inf. Item(s)
 1. ATB Bar Always Full
 1. 100% Steal Rate
 1. One-Punch Man (OHK)

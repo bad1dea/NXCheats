@@ -9,7 +9,11 @@
 1. Inf. Equipment Durability (Fire will still break it.)
 1. Inf. Battery
 1. Inf. Zonai Device Duration
+1. Perfect Goldilocks Thermometer
 1. No Fall Damage
+1. Ignore Paralysis & Slow
+1. Ignore Cold & Freeze
+1. Ignore Fire & Flame
 1. Spider-Man Mode (No Falling While Climbing)
 1. Damage Multiplier (2x)
 1. Damage Multiplier (4x) ★

@@ -1,0 +1,2 @@
+[#11. Inf. Amiibo Usage]
+040E0000 0195BADC 14000014

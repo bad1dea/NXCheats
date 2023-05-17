@@ -1,2 +1,0 @@
-[#17. Quickfire Bow]
-040E0000 01D3D1BC 291FA268

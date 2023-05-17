@@ -1,2 +1,0 @@
-[-NOTE- with research & codes from patjenova, Eiffel2018, a7251835, KaitoB, GamerJin, khuong -NOTE]
-20000000

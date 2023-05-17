@@ -5,15 +5,21 @@
 1. Invincible
 1. Inf. Health
 1. Inf. Stamina
+1. Inf. Stamina (Enable Only For Master Sword Quest)
 1. Inf. Rupees
 1. Inf. Arrow(s)
 1. Inf. Equipment Durability (Fire will still break it.)
 1. Inf. Battery
-1. Inf. Zonai Device Duration
+1. Inf. Zonai Devices Usage
+1. Inf. Zonai Device Duration (No Blink + Despawn)
 1. Inf. Amiibo Usage
 1. Perfect Goldilocks Thermometer
 1. Instant Companion Skills (No CDs)
+1. Item Pickup Multiplier (2x)
+1. Item Pickup Multiplier (4x)
+1. Item Pickup Multiplier (8x)
 1. No Fall Damage
+1. Ignore Bloom Effects
 1. Ignore Paralysis & Slow Effects
 1. Ignore Cold & Freeze Effects
 1. Ignore Fire & Flame Effects
@@ -36,7 +42,7 @@
 1. Attack Speed (2x)
 1. (X) Jump
 1. 60 FPS (Disable + Restore Code for 30FPS)
-1. - Do Not Mix Handheld and Docked Resolution Hacks at same time. -NOTE
+1. Not Mix Handheld and Docked Resolution Hacks at same time. ツ
 1. Handheld 480p
 1. Handheld 540p
 1. Handheld 612p
@@ -46,7 +52,7 @@
 1. Docked 810p
 1. Default Docked 900p
 1. Fast Power Up
-1. - with research & codes from patjenova, Eiffel2018, a7251835, KaitoB, GamerJin, khuong -NOTE
+1. h research & codes from patjenova, Eiffel2018, a7251835, KaitoB, GamerJin, khuong ツ
 
 ## Changelog
 [View here](./CHANGELOG.md)

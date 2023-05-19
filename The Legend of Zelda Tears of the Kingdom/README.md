@@ -1,5 +1,5 @@
 # The Legend of Zelda Tears of the Kingdom (US)
-0100F2C0115B6000 (D5AD6AC71EF53E3E)
+0100F2C0115B6000 (168DD518D925C7A3)
 
 ## Cheat List
 1. Invincible

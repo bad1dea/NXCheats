@@ -1,2 +1,0 @@
-[#14a Item Pickup Multiplier (2x)]
-040E0000 01638DAC 52800041

@@ -1,2 +1,0 @@
-[#03. Inf. Stamina]
-040E0000 007FBA10 BD405E61

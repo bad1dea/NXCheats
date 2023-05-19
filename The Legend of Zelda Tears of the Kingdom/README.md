@@ -2,6 +2,7 @@
 0100F2C0115B6000 (168DD518D925C7A3)
 
 ## Cheat List
+1. Test
 1. Inf. Health
 1. Inf. Stamina
 1. Inf. Stamina (Enable Only For Master Sword Quest)
@@ -19,9 +20,6 @@
 1. Item Pickup Multiplier (8x)
 1. No Fall Damage
 1. Ignore Bloom Effects
-1. Ignore Paralysis & Slow Effects
-1. Ignore Cold & Freeze Effects
-1. Ignore Fire & Flame Effects
 1. Faster Bow Charge
 1. Quickfire Bow
 1. Spider-Man Mode (No Falling While Climbing)

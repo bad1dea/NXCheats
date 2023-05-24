@@ -7,7 +7,10 @@
 1. Inf. Stamina
 1. Inf. Stamina (Use Only For Master Sword Quest)
 1. Inf. Battery
+1. Inf. Horse Stamina
+1. Stealth Mode
 1. Ignore Fall Damage & Reaction
+1. Perfect Goldilocks Thermometer (No Hot or Cold)
 1. Ignore Gloom Effects
 1. Ignore Paralysis & Slow Effects
 1. Ignore Cold & Freeze Effects
@@ -21,19 +24,30 @@
 1. Damage Multiplier (4x) ★
 1. Damage Multiplier (10x)
 1. Damage Multiplier (30x)
-1. Hold (X) Jump Higher
+1. Spider-Man Mode (No Falling While Climbing)
+1. Hold (X) Moon Jump
+1. Glider Speed (3x) (Hold A)
 1. Climbing Speed (2x)
 1. Swimming Speed (3x)
 1. Movement Speed (1x)
 1. Movement Speed (1.5x)
 1. Movement Speed (2x) ★
 1. Movement Speed (3x)
-1. Attack Speed (1x)
-1. Attack Speed (1.5x) ★
-1. Attack Speed (2x)
+1. Dive Boost
+1. Jump Higher
+1. Default Movement is Running
+1. Default Movement is Walking
+1. Inf. Equipment Durability (Fire will still break it.)
+1. Inf. Arrow(s)
+1. Inf. Zonai Devices
+1. Inf. Food Items
+1. Inf. Food Buff Timer
+1. Inf. Material(s)
 1. Item Pickup Multiplier (2x)
 1. Item Pickup Multiplier (4x)
 1. Item Pickup Multiplier (8x)
+1. Inf. Amiibo Usage
+1. Ignore Material Requirements for Upgrades (Horse and Armor)
 1. Map - Show All Shrine Locations
 
 ## Changelog

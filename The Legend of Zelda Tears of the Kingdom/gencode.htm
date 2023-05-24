@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Accio - wild.chadsoft.co.uk</title>
+		<style>
+._1c1 {
+	float: left;
+
+	width: 100%;
+}
+._1c2 {
+	float: left;
+	width: 50%;
+}
+._1c4 {
+	float: left;
+	width: 25%;
+}
+.clear-before {
+	clear: both;
+}
+.code-box {
+	box-sizing: border-box;
+	width: 100%;
+}
+@media screen and (max-width:786px) {
+	._1c2, ._1c4 {
+		width:100%;
+	}
+}
+		</style>
+		<script type="text/javascript">
+function allow_tab(ele, e) {
+	if (e.keyCode == 9 || e.which == 9) {
+		e.preventDefault();
+		var s = ele.selectionStart;
+		ele.value =
+			ele.value.substring(0, ele.selectionStart) + "\t"
+			+ ele.value.substring(ele.selectionEnd);
+		ele.selectionEnd = s+1;
+	}
+}
+
+function convert_to() {
+	var spawnScriptEle = document.getElementById("spawn-script");
+	var cafeCodeEle = document.getElementById("cafe-code");
+	var consoleEle = document.getElementById("console");
+
+	function hex8(d) {
+		return ("0"+(Number(d).toString(16))).slice(-2).toUpperCase();
+	}
+	function hex24(d) {
+		return ("00000"+(Number(d).toString(16))).slice(-6).toUpperCase();
+	}
+	function hex32(d) {
+		return ("0000000"+(Number(d).toString(16))).slice(-8).toUpperCase();
+	}
+	function float32(v) {
+		var bias = (1 << 7) - 1;
+
+		// Compute sign, exponent, fraction
+		var s, e, f;
+		if (isNaN(v)) {
+			e = (1 << bias) - 1; f = 1; s = 0;
+		} else if (v === Infinity || v === -Infinity) {
+			e = (1 << bias) - 1; f = 0; s = (v < 0) ? 1 : 0;
+		} else if (v === 0) {
+			e = 0; f = 0; s = (1 / v === -Infinity) ? 1 : 0;
+		} else {
+			s = v < 0;
+			v = Math.abs(v);
+		}
+
+		if (v >= Math.pow(2, 1 - bias)) {
+			var ln = Math.min(Math.floor(Math.log(v) / Math.LN2), bias);
+			e = ln + bias;
+			f = v * Math.pow(2, 23 - ln) - Math.pow(2, 23);
+		} else {
+			e = 0;
+			f = v / Math.pow(2, 1 - bias - 23);
+		}
+		s = Math.floor(s);
+		e = Math.floor(e);
+		f = Math.floor(f);
+		var result = s * 0x80000000 + e * 0x00800000 + f;
+		return hex32(result);
+	}
+
+	var spawnScript = spawnScriptEle.value;
+	var lines = spawnScript.split("\n");
+
+	var warnings = [];
+	var errors = [];
+	var indentStack = [0];
+	var loopStack = [];
+	var loopStart = false;
+	var allStrings = {};
+	var stringCode = "";
+	var stringIndex = 4;
+	var allParams = {};
+	var paramIndex = 4;
+	var paramCode = "";
+	var result = "";
+	var asmHeader = "580F0000 0472C1D8580F1000 00000678580F1000 00000CD8580F1000 00000050";
+	var asmFooter = "3C40010F60426AE07C4903A64E800420";
+
+	function getString(s) {
+		if (!(s in allStrings)) {
+			allStrings[s] = stringIndex;
+			stringIndex += s.length + 1;
+			for (var i = 0; i < s.length; i++)
+				stringCode += hex8(s.charCodeAt(i));
+			stringCode += "00";
+		}
+		return allStrings[s];
+	}
+	function getParam(s) {
+		if (!(s in allParams)) {
+			allParams[s] = paramIndex;
+			paramIndex += s.length / 2;
+			paramCode += s;
+		}
+		return allParams[s];
+	}
+
+	for (var i = 0; i < lines.length; i++) {
+		var line = lines[i];
+		var indent = 0;
+		var j;
+		for (j = 0; j < line.length; j++) {
+			if (line[j] == " ")
+				indent++;
+			else
+				break;
+		}
+		var tokens = [];
+		var token = "";
+		var skipLine = false;
+		function endToken() {
+			if (token != "") {
+				if (parseInt(token) == token) {
+					tokens.push({t:"int",v:parseInt(token)});
+				} else if (parseFloat(token) == token) {
+					tokens.push({t:"float",v:parseFloat(token)});
+				} else {
+					tokens.push({t:"key",v:token});
+				}
+			}
+			token = "";
+		}
+		for (; j < line.length; j++) {
+			if (line[j] == "(") {
+				endToken();
+				tokens.push({t:"("});
+			} else if (line[j] == ")") {
+				endToken();
+				tokens.push({t:")"});
+			} else if (line[j] == ",") {
+				endToken();
+				tokens.push({t:","});
+			} else if (line[j] == ":") {
+				endToken();
+				tokens.push({t:":"});
+			} else if (line[j] == " ") {
+				endToken();
+			} else if (line[j] == "\"") {
+				endToken();
+				j++;
+				for (; j < line.length; j++) {
+					if (line[j] == "\\") {
+						j++;
+						if (j == line.length) break;
+						token += line[j];
+					} else if (line[j] == "\"") {
+						tokens.push({t:"string",v:token}); token = "";
+						break;
+					} else {
+						token += line[j];
+					}
+				}
+				if (j == line.length) {
+					errors.push("Line " + (i+1) + ": Unterminated string.");
+					skipLine = true;
+				}
+				token = "";
+			} else if (line[j] == "#")
+				break;
+			else
+				token += line[j];
+			if (skipLine) break;
+		}
+		if (skipLine) continue;
+		endToken();
+
+		if (tokens.length > 0 && loopStart) {
+			if (indent <= indentStack[indentStack.length-1]) {
+				warnings.push("Line " + (i+1) + ": Empty loop.");
+				var args = hex32(loopStack.pop());
+				var args = getParam(args);
+				result += "03" + hex24(args);
+			} else
+				indentStack.push(indent);
+			loopStart = false;
+		}
+		if (tokens.length > 0) {
+			while (indentStack.length > 1 && indentStack[indentStack.length-1] > indent) {
+				var args = hex32(loopStack.pop());
+				var args = getParam(args);
+				result += "03" + hex24(args);
+				indentStack.pop();
+			}
+			if (indentStack[indentStack.length-1] != indent) {
+				warnings.push("Line " + (i+1) + ": Unexpected indentation.");
+			}
+		}
+
+
+		if (tokens.length >= 3
+				&& tokens[0].t == "key" && tokens[0].v == "while"
+				&& tokens[1].t == "int" && tokens[1].v == 1
+				&& tokens[2].t == ":"
+		) {
+			loopStart = true;
+			loopStack.push(result.length / 8);
+			if (tokens.length > 3)
+				warnings.push("Line " + (i+1) + ": Extra stuff on line ignored.");
+		} else if (tokens.length >= 4
+				&& tokens[0].t == "key" && tokens[0].v == "test"
+				&& tokens[1].t == "("
+				&& tokens[2].t == "string"
+				&& tokens[3].t == ")"
+		) {
+		} else if (tokens.length >= 4
+				&& tokens[0].t == "key" && tokens[0].v == "spawn"
+				&& tokens[1].t == "("
+				&& tokens[2].t == "string"
+				&& tokens[3].t == ")"
+		) {
+			var s = getString(tokens[2].v);
+			var args = "01000000" + hex32(s);
+			var args = getParam(args);
+			result += "01" + hex24(args);
+			if (tokens.length > 4)
+				warnings.push("Line " + (i+1) + ": Extra stuff on line ignored.");
+		} else if (tokens.length >= 6
+				&& tokens[0].t == "key" && tokens[0].v == "spawn"
+				&& tokens[1].t == "("
+				&& tokens[2].t == "int"
+				&& tokens[3].t == ","
+				&& tokens[4].t == "string"
+				&& tokens[5].t == ")"
+		) {
+			var s = getString(tokens[4].v);
+			for (var spawned = 0; spawned < tokens[2].v; spawned += 255) {
+				var spawn = tokens[2].v - spawned;
+				if (spawn > 255) spawn = 255;
+				var args = hex8(spawn) + "000000" + hex32(s);
+				var args = getParam(args);
+				result += "01" + hex24(args);
+			}
+			if (tokens.length > 6)
+				warnings.push("Line " + (i+1) + ": Extra stuff on line ignored.");
+	
+		} else if (tokens.length > 0) {
+			errors.push("Line " + (i+1) + ": Unrecognised line.");
+		}
+	}
+	if (loopStart) indentStack.push(1);
+	while (indentStack.length > 1) {
+		var args = hex32(loopStack.pop());
+		var args = getParam(args);
+		result += "03" + hex24(args);
+		indentStack.pop();
+	}
+
+	function makeCRCTable() {
+		var c;
+		var crcTable = [];
+		for(var n =0; n < 256; n++) {
+			c = n;
+			for(var k =0; k < 8; k++) {
+				c = ((c&1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1));
+			}
+			crcTable[n] = c;
+		}
+		return crcTable;
+	}
+
+	function crc32(str) {
+		var crcTable = window.crcTable || (window.crcTable = makeCRCTable());
+		var crc = 0 ^ (-1);
+
+		for (var i = 0; i < str.length; i++ ) {
+			crc = (crc >>> 8) ^ crcTable[(crc ^ str.charCodeAt(i)) & 0xFF];
+		}
+
+		return (crc ^ (-1)) >>> 0;
+	}
+
+
+	var ihtml = "";
+	for (var i = 0; i < errors.length; i++)
+		ihtml += "Error: " + errors[i] + "\n";
+	for (var i = 0; i < warnings.length; i++)
+		ihtml += "Warning: " + warnings[i] + "\n";
+	consoleEle.textContent = ihtml;
+
+	if (errors.length == 0) {
+		while ((result.length / 2 + paramIndex + stringIndex) % 8 != 0) {
+			stringCode += "00";
+			stringIndex++;
+		}
+		stringCode = hex32(stringIndex) + stringCode;
+		paramCode = hex32(paramIndex) + paramCode;
+		//result = hex32(result.length / 2 + 8) + hex32(crc32(result + paramCode + stringCode)) + result;
+		result = asmHeader + result + stringCode + paramCode + asmFooter;
+		result = "C0" + hex24((result.length - 8) / 16) + result;
+		var text = "";
+		for (var i = 0; i < result.length; i += 16) {
+			text += result.substr(i, 8) + " " + result.substr(i+8, 8) + "\n";
+		}
+		cafeCodeEle.value = text;
+	}
+}
+		</script>
+	<link id="nordvpn-contentScript-extension-fonts" rel="stylesheet" href="Accio%20-%20wild.chadsoft.co.uk_files/css.css"></head>
+	<body>
+		<div id="header">
+			<h1>wild.chadsoft.co.uk</h1>
+		</div>
+		<div id="content">
+			<div class="_1c1 clear-before">
+				<h2>Accio code generator</h2>
+				<p>
+					This page generates codes to spawn arbitrary objects in The
+					Legend of Zelda: Breath of the Wild. It uses a simple
+					scripting language with python-like syntax. You can see some
+					example scripts at the bottom of the page.
+				</p>
+				<p>
+					Type in your script and press "Convert to Cafe Code" to
+					generate. You can only run one such code at once. You must
+					also run the Accio Master Code, or nothing will happen.
+				</p>
+			</div>
+			<div class="_1c2 clear-before">
+				<textarea id="spawn-script" class="code-box" onkeydown="allow_tab(this, event)" placeholder="Object spawn script" rows="20">spawn("Npc_Zora015")</textarea>
+				<button type="button" onclick="convert_to()">Convert to Cafe Code</button>
+			</div>
+			<div class="_1c2">
+				<textarea readonly="readonly" id="cafe-code" class="code-box" placeholder="Cafe code" rows="20"></textarea>
+			</div>
+			<div class="_1c1 clear-before">
+				<pre id="console"></pre>
+			</div>
+			<div class="_1c1 clear-before">
+				<h2>Examples</h2>
+				<div class="_1c4">
+					<pre># Spawn Laflat
+spawn("Npc_Zora015")</pre>
+				</div>
+				<div class="_1c4">
+					<pre># Spawn 2 swords
+spawn(2, "Weapon_Sword_030")</pre>
+				</div>
+				<div class="_1c2">
+					<pre># Spawn infinite bokoblins
+while 1:
+        spawn("Enemy_Bokoblin_Junior")
+        wait(600)</pre>
+				</div>
+				<div class="_1c2">
+					<pre># Rain dogs from on high
+while 1:
+        spawnRelative("Animal_Dog_A", 0, 20, -10)
+        spawnRelative("Animal_Dog_B", -7, 20, 7)
+        spawnRelative("Animal_Dog_C", 7, 20, 7)
+        wait(1000)</pre>
+				</div>
+				<div class="_1c2">
+					<pre># Spawn an extra tower on the Great Plateau
+# (just outside the Shrine of Resurrection) 
+spawnAbsolute("FldObj_MapTowerLong_A_01", -1060, 200, 1812)</pre>
+				</div>
+			</div>
+		</div>
+	
+
+<script src="Accio%20-%20wild.chadsoft.co.uk_files/app.js" type="text/javascript"></script></body><nordvpn-contentscript-extension-mount-2.73.8></nordvpn-contentscript-extension-mount-2.73.8></html>

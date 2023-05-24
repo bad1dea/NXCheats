@@ -5,8 +5,11 @@
 1. God Mode
 1. Inf. Health
 1. Inf. Faith (Shields)
-1. Inf. Ammo
+1. Inf. Ammo (Clip - No Reload)
+1. Inf. Ammo (Magazines)
 1. Inf. Grenade(s)
+1. Inf. Jumps
+1. Instant Charge CD
 
 ## Changelog
 [View here](./CHANGELOG.md)

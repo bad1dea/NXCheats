@@ -1,0 +1,2 @@
+[#03. Inf. Faith (Shields)]
+040E0000 0083BC20 1E204020

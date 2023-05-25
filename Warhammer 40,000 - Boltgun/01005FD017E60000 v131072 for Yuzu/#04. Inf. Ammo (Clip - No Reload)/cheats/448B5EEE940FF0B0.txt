@@ -1,0 +1,2 @@
+[#04. Inf. Ammo (Clip - No Reload)]
+040E0000 008B1218 D503201F

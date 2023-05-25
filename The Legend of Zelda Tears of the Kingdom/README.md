@@ -40,6 +40,7 @@
 1. Inf. Equipment Durability (Fire will still break it.)
 1. Inf. Arrow(s)
 1. Inf. Zonai Devices
+1. Inf. Zonai Device Duration (No Blink + Despawn)
 1. Inf. Food Items
 1. Inf. Food Buff Timer
 1. Inf. Material(s)

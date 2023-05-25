@@ -37,6 +37,7 @@
 040E0000 01B7F6BC 1B09A148
 040E0000 015EB168 12800001
 040E0000 01A75934 12800001
+040E0000 011BF078 1E211C41
 040E0000 01A7975C 12800001
 040E0000 01A7986C 54FFFCCC
 040E0000 00B30010 BD415E80
@@ -237,31 +238,34 @@
 [#32. Inf. Zonai Devices]
 040E0000 01A75934 2A1F03E1
 
-[#33. Inf. Food Items]
+[#33. Inf. Zonai Device Duration (No Blink + Despawn)]
+040E0000 011BF078 1E2703E1
+
+[#34. Inf. Food Items]
 040E0000 01A7975C 2A1F03E1
 040E0000 01A7986C 17FFFFE6
 
-[#34. Inf. Food Buff Timer]
+[#35. Inf. Food Buff Timer]
 080E0000 02B28F38 D65F03C0 BD015E80
 040E0000 02B28F34 BD416280
 040E0000 00B30010 947FE3C9
 
-[#35. Inf. Material(s)]
+[#36. Inf. Material(s)]
 040E0000 00C950FC D503201F
 
-[#36a Item Pickup Multiplier (2x)]
+[#37a Item Pickup Multiplier (2x)]
 040E0000 0163D988 52800041
 
-[#36b Item Pickup Multiplier (4x)]
+[#37b Item Pickup Multiplier (4x)]
 040E0000 0163D988 52800081
 
-[#36c Item Pickup Multiplier (8x)]
+[#37c Item Pickup Multiplier (8x)]
 040E0000 0163D988 52800101
 
-[#37. Inf. Amiibo Usage]
+[#38. Inf. Amiibo Usage]
 040E0000 0195A20C 14000014
 
-[#38. Ignore Material Requirements for Upgrades (Horse and Armor)]
+[#39. Ignore Material Requirements for Upgrades (Horse and Armor)]
 040E0000 01B108E4 2A1F03E8
 040E0000 02054DE8 32000281
 040E0000 020595A8 14000014
@@ -276,7 +280,7 @@
 [--SectionStart:Map--]
 00000000 00000000 00000000
 
-[#39. Map - Show All Shrine Locations]
+[#40. Map - Show All Shrine Locations]
 080E0000 00F522F8 D65F03C0 52800020
 
 [--SectionEnd:Map--]

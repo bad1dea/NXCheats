@@ -1,5 +1,5 @@
 # The Legend of Zelda Tears of the Kingdom (US)
-0100F2C0115B6000 (9A10ED9435C06733)
+0100F2C0115B6000 (168DD518D925C7A3)
 
 ## Cheat List
 1. Invincible
@@ -26,9 +26,7 @@
 1. Damage Multiplier (30x)
 1. Spider-Man Mode (No Falling While Climbing)
 1. Hold (X) Moon Jump
-1. Glider Speed (1.5x)
-1. Glider Speed (2x)
-1. Glider Speed (3x)
+1. Glider Speed (3x) (Hold A)
 1. Climbing Speed (2x)
 1. Swimming Speed (3x)
 1. Movement Speed (1x)

@@ -26,7 +26,9 @@
 1. Damage Multiplier (30x)
 1. Spider-Man Mode (No Falling While Climbing)
 1. Hold (X) Moon Jump
-1. Glider Speed (3x) (Hold A)
+1. Glider Speed (1.5x)
+1. Glider Speed (2x)
+1. Glider Speed (3x)
 1. Climbing Speed (2x)
 1. Swimming Speed (3x)
 1. Movement Speed (1x)
@@ -43,7 +45,10 @@
 1. Inf. Zonai Device Duration (No Blink + Despawn)
 1. Inf. Food Items
 1. Inf. Food Buff Timer
-1. Inf. Material(s)
+1. Inf. Material Usage (Eat)
+1. Item Pickup/Sell/Buy Multiplier (2x)
+1. Item Pickup/Sell/Buy Multiplier (5x) ★
+1. Item Pickup/Sell/Buy Multiplier (10x)
 1. Item Pickup Multiplier (2x)
 1. Item Pickup Multiplier (4x)
 1. Item Pickup Multiplier (8x)

@@ -24,6 +24,7 @@
 1. Damage Multiplier (4x) ★
 1. Damage Multiplier (10x)
 1. Damage Multiplier (30x)
+1. Master Sword Beam Upgrade
 1. Spider-Man Mode (No Falling While Climbing)
 1. Hold (X) Moon Jump
 1. Glider Speed (3x) (Hold A)
@@ -53,6 +54,14 @@
 1. Inf. Amiibo Usage
 1. Ignore Material Requirements for Upgrades (Horse and Armor)
 1. Map - Show All Shrine Locations
+1. Handheld 480p
+1. Handheld 540p
+1. Handheld 612p
+1. Handheld 648p
+1. Default Handheld 720p
+1. Docked 720p
+1. Docked 810p
+1. Default Docked 900p
 
 ## Changelog
 [View here](./CHANGELOG.md)

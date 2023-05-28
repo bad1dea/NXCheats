@@ -1,5 +1,5 @@
 # The Legend of Zelda Tears of the Kingdom (US)
-0100F2C0115B6000 (168DD518D925C7A3)
+0100F2C0115B6000 (9A10ED9435C06733)
 
 ## Cheat List
 1. Invincible
@@ -50,7 +50,12 @@
 1. Item Pickup Multiplier (8x)
 1. Inf. Amiibo Usage
 1. Ignore Material Requirements for Upgrades (Horse and Armor)
-1. Map - Show All Shrine Locations
+1. Show All Shrine Locations
+1. Show All Korok Seed Locations (Must Zoom In)
+1. 2x Longer Days
+1. 3x Longer Days
+1. 4x Longer Days
+1. Time - ZL+RS↓ or RS↑ Stop or Resume - ZL+RS← or RS→ RW or FF
 1. Handheld 480p
 1. Handheld 540p
 1. Handheld 612p

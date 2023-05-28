@@ -2,7 +2,7 @@
 0100F2C0115B6000 (9A10ED9435C06733)
 
 ## Cheat List
-1. Invincible
+1. Invincible (Ignore Hits)
 1. Inf. Health
 1. Inf. Stamina
 1. Inf. Stamina (Use Only For Master Sword Quest)

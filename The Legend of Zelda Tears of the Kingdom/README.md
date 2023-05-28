@@ -1,5 +1,5 @@
 # The Legend of Zelda Tears of the Kingdom (US)
-0100F2C0115B6000 (168DD518D925C7A3)
+0100F2C0115B6000 (9A10ED9435C06733)
 
 ## Cheat List
 1. Invincible
@@ -44,10 +44,7 @@
 1. Inf. Zonai Device Duration (No Blink + Despawn)
 1. Inf. Food Items
 1. Inf. Food Buff Timer
-1. Inf. Material Usage (Eat)
-1. Item Pickup - Sell - Buy Multiplier (2x)
-1. Item Pickup - Sell - Buy Multiplier (5x) ★
-1. Item Pickup - Sell - Buy Multiplier (10x)
+1. Highlighted Material(s) & Zonai Device(s) Never Less Than 500 (Inventory Menu)
 1. Item Pickup Multiplier (2x)
 1. Item Pickup Multiplier (4x)
 1. Item Pickup Multiplier (8x)

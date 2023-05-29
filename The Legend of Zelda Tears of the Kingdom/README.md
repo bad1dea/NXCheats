@@ -52,10 +52,14 @@
 1. Ignore Material Requirements for Upgrades (Horse and Armor)
 1. Show All Shrine Locations
 1. Show All Korok Seed Locations (Must Zoom In)
+1. Time Stop (ZL+R3Down)
+1. Time Resume (ZL+R3Up)
+1. Time RW (ZL+R3Left)
+1. Time FF (ZL+R3Left)
 1. 2x Longer Days
 1. 3x Longer Days
 1. 4x Longer Days
-1. Time - ZL+RS↓ or RS↑ Stop or Resume - ZL+RS← or RS→ RW or FF
+1. Add 60 Seconds To Mission Timer (L3+R3)
 1. Handheld 480p
 1. Handheld 540p
 1. Handheld 612p

@@ -1,0 +1,2 @@
+[♯ 5. Unlock All Characters]
+080E0000 06DA4CB8 FFFFFFFF FFFFFFFF

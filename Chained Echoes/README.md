@@ -1,5 +1,5 @@
 # Chained Echoes (US)
-0100C510166F0000 (B8761A008925C2D6)
+0100C510166F0000 (7E348DAF39F059B6)
 
 ## Cheat List
 1. Inf. Health
@@ -30,13 +30,6 @@
 1. Allow Mech Anywhere
 1. Allow Flying Anywhere
 1. Allow Airship Anywhere (Buggy - Press Twice to Enter Airship)
-1. Item Pickup Multiplier (2x)
-1. Item Pickup Multiplier (4x)
-1. Item Pickup Multiplier (10x)
-1. (TEST) Unlock All Party Members (READ NOTES)
-1. - MUST TRANSITION TO TOWN OR WORLD
-1. - CHECK MENU FOR CHARACTERS
-1. - DISABLE AFTERWARDS AND TURN ON RESTORE
 
 ## Changelog
 [View here](./CHANGELOG.md)

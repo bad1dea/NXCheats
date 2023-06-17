@@ -1,2 +1,0 @@
-[#22. Allow Airship Anywhere (Buggy - Press Twice to Enter Airship)]
-040E0000 017A8EB4 52800028

@@ -1,2 +1,0 @@
-[#18b SP Multiplier (4x)]
-040E0000 02FE7F34 0B130900

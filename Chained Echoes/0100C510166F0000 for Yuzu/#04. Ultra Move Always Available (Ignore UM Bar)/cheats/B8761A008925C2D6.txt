@@ -1,2 +1,0 @@
-[#04. Ultra Move Always Available (Ignore UM Bar)]
-040E0000 02FB32F8 D503201F

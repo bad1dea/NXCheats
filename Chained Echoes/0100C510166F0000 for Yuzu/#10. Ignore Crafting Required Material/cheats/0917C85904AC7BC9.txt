@@ -1,2 +1,0 @@
-[#10. Ignore Crafting Required Material]
-040E0000 02780F48 52800C68

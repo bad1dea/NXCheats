@@ -1,2 +1,0 @@
-[#20. Allow Mech Anywhere]
-040E0000 02FB3DB4 52800028

@@ -1,2 +1,0 @@
-[#18c SP Multiplier (8x)]
-040E0000 02FE7F34 0B130D00

@@ -1,2 +1,0 @@
-[#06. Inf. Item Usage]
-040E0000 02FE1000 D65F03C0

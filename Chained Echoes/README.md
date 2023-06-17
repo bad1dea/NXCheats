@@ -24,6 +24,7 @@
 1. SP Multiplier (2x)
 1. SP Multiplier (4x)
 1. SP Multiplier (8x)
+1. SP Multiplier (32x)
 1. Gold Multiplier (2x)
 1. Gold Multiplier (4x)
 1. Gold Multiplier (8x)

@@ -1,2 +1,0 @@
-[#13. Instant Scanner Recharge]
-040E0000 00C2B53C D503201F

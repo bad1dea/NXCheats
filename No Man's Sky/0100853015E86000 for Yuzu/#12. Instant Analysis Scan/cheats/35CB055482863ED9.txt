@@ -1,2 +1,0 @@
-[#12. Instant Analysis Scan]
-080E0000 00BDE4A0 F2800008 D2A7F008

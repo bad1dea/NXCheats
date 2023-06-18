@@ -1,4 +1,4 @@
-[♯19. 6x8 Element Grid Unlock (Level Up Can Reset Grid)]
+[♯20. 6x8 Element Grid Unlock (Level Up Can Reset Grid)]
 12050000 06F20C18 00000096
 580F0000 08684F00
 780F0000 06DA1F10

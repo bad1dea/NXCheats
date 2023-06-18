@@ -11,6 +11,7 @@
 1. Inf. Stamina
 1. Max Element Lvl.
 1. Always 99% Hit %
+1. Always Normal Status
 1. One Punch Man (OHK)
 1. Inf. Element Usage
 1. Change Field Effect Color (X+B)

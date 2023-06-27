@@ -1,0 +1,2 @@
+[♯ 7. Max All Coins]
+040E0000 0170D6FC 1A8AB128

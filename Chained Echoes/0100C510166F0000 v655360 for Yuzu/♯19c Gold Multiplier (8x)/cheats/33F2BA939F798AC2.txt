@@ -1,0 +1,2 @@
+[♯19c Gold Multiplier (8x)]
+040E0000 01A45938 0B080D20

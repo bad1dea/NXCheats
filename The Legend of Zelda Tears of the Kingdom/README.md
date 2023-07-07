@@ -27,6 +27,7 @@
 1. Master Sword Beam Upgrade
 1. Spider-Man Mode (No Falling While Climbing)
 1. Hold (X) Moon Jump
+1. Glider Speed (3x) (Hold A)
 1. Glider Speed (1.5x)
 1. Glider Speed (2.0x)
 1. Glider Speed (3.0x)
@@ -40,6 +41,7 @@
 1. Jump Higher
 1. Default Movement is Running
 1. Default Movement is Walking
+1. Free Shopping
 1. Inf. Equipment Durability (Fire will still break it.)
 1. Inf. Arrow(s)
 1. Inf. Zonai Devices

@@ -1,0 +1,2 @@
+[♯ 8b Battle and Auto Battle Speed Multiplier (2x)]
+080E0000 01B696E0 1E201000 52800020

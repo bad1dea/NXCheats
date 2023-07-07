@@ -1,0 +1,2 @@
+[♯20e AP Multiplier (4x)]
+040E0000 01EE0B50 1E221000

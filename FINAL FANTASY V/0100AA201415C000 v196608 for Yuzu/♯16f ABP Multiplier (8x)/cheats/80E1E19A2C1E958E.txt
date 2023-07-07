@@ -1,0 +1,2 @@
+[♯16f ABP Multiplier (8x)]
+040E0000 01C21AC0 1E241000

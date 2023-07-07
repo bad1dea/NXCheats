@@ -1,0 +1,2 @@
+[♯10c Battle and Auto Battle Speed Multiplier (2.5x)]
+080E0000 01CA2ADC 1E209000 52800020

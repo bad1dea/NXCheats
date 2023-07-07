@@ -1,0 +1,2 @@
+[♯45. Remove 21 Zonai Device Spawn Limit]
+040E0000 007D7EA0 52800028

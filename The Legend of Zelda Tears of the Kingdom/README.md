@@ -1,5 +1,5 @@
 # The Legend of Zelda Tears of the Kingdom (US)
-0100F2C0115B6000 (9A10ED9435C06733)
+0100F2C0115B6000 (6F32C68DD3BC7D77)
 
 ## Cheat List
 1. Invincible (Ignore Hits)
@@ -27,7 +27,9 @@
 1. Master Sword Beam Upgrade
 1. Spider-Man Mode (No Falling While Climbing)
 1. Hold (X) Moon Jump
-1. Glider Speed (3x) (Hold A)
+1. Glider Speed (1.5x)
+1. Glider Speed (2.0x)
+1. Glider Speed (3.0x)
 1. Climbing Speed (2x)
 1. Swimming Speed (3x)
 1. Movement Speed (1x)
@@ -52,6 +54,7 @@
 1. Ignore Material Requirements for Upgrades (Horse and Armor)
 1. Show All Shrine Locations
 1. Show All Korok Seed Locations (Must Zoom In)
+1. Remove 21 Zonai Device Spawn Limit
 1. Time Stop (ZL+R3Down)
 1. Time Resume (ZL+R3Up)
 1. Time RW (ZL+R3Left)

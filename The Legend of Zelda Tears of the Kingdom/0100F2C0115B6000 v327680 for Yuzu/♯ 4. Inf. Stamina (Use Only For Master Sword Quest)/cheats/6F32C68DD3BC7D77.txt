@@ -1,0 +1,3 @@
+[♯ 4. Inf. Stamina (Use Only For Master Sword Quest)]
+080E0000 00A7031C F290000F D2A8B76F
+040E0000 00A70324 B900026F

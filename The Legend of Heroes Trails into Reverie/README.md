@@ -12,6 +12,10 @@
 1. Inf. BP
 1. Inf. Brave Order Buff(s) Turns
 1. Inf. Item(s) Usage
+1. Orbment & Character XP Multiplier (5x)
+1. Orbment & Character XP Multiplier (10x)
+1. Orbment & Character XP Multiplier (15x)
+1. Orbment & Character XP Multiplier (30x)
 
 ## Changelog
 [View here](./CHANGELOG.md)

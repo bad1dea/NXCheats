@@ -6,6 +6,7 @@
 1. Max Mira
 1. Max Sepith(s)
 1. Max U-Materials (Open Menu)
+1. Max Link Lvl (View In Menu + Fight 1 Battle)
 1. Max AP
 1. Inf. HP
 1. Inf. HP + OHK

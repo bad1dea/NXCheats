@@ -6,7 +6,6 @@
 1. Max Mira
 1. Max Sepith(s)
 1. Max U-Materials (Open Menu)
-1. Max Link Lvl (View In Menu + Fight 1 Battle)
 1. Max AP
 1. Inf. HP
 1. Inf. HP + OHK
@@ -19,6 +18,10 @@
 1. Orbment & Character XP Multiplier (10x)
 1. Orbment & Character XP Multiplier (15x)
 1. Orbment & Character XP Multiplier (30x)
+1. Link-Lv XP Multiplier (10x)
+1. Link-Lv XP Multiplier (20x)
+1. Link-Lv XP Multiplier (30x)
+1. Link-Lv XP Multiplier (50x)
 
 ## Changelog
 [View here](./CHANGELOG.md)

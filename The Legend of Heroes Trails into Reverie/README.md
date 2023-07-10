@@ -6,12 +6,12 @@
 1. Max Mira
 1. Max Sepith(s)
 1. Max U-Materials (Open Menu)
-1. Max AP
+1. Max AP (All Routes)
 1. Inf. HP
 1. Inf. HP + OHK
 1. Inf. EP
 1. Inf. CP
-1. Inf. BP
+1. Inf. BP (All Routes)
 1. Inf. Brave Order Buff(s) Turns
 1. Inf. Item(s) Usage
 1. Orbment & Character XP Multiplier (5x)

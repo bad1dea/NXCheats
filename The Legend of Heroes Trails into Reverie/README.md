@@ -3,10 +3,11 @@
 
 ## Cheat List
 1. Inf. Item Usage
-1. Max Mira
-1. Max Sepith(s)
+1. Always Max Mira
+1. Always Max Sepith(s)
 1. Max U-Materials (Open Menu)
-1. Max AP (All Routes)
+1. Max Phantasmal Shards (Open Menu)
+1. Always Max AP Charge (All Routes)
 1. Easy Fishing (Press A During Tension)
 1. Inf. HP
 1. Inf. HP + OHK

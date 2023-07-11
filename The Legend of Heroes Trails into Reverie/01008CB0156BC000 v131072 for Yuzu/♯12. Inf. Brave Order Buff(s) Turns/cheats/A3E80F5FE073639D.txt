@@ -1,2 +1,0 @@
-[♯12. Inf. Brave Order Buff(s) Turns]
-040E0000 0018FD50 D503201F

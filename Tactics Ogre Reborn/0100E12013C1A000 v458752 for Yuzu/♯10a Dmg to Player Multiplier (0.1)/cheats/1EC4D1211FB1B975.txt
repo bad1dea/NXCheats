@@ -1,0 +1,2 @@
+[♯10a Dmg to Player Multiplier (0.1)]
+040E0000 006EBFF8 3DCCCCCD

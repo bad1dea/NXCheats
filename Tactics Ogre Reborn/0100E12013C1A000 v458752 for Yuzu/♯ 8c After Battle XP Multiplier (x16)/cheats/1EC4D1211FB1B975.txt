@@ -1,0 +1,2 @@
+[♯ 8c After Battle XP Multiplier (x16)]
+040E0000 00275454 0B021108

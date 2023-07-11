@@ -1,0 +1,3 @@
+[♯15. No Card(s) Required for Class Change]
+040E0000 00255128 52807CE8
+040E0000 00270808 52807CE8

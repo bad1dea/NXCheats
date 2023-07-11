@@ -1,5 +1,5 @@
 # Tactics Ogre Reborn (US)
-0100E12013C1A000 (F69FDFF8B8802B97)
+0100E12013C1A000 (1EC4D1211FB1B975)
 
 ## Cheat List
 1. Instant Victory (After Turn) (R3+L3)

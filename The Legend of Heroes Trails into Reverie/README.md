@@ -8,7 +8,8 @@
 1. Max U-Materials (Open Menu)
 1. Max Phantasmal Shards (Open Menu)
 1. Always Max AP Charge (All Routes)
-1. Easy Fishing (Press A During Tension)
+1. Fishing - Freeze Timer
+1. Fishing - Instant Catch (Press A During Tension)
 1. Always Show Treasure Chests On Map
 1. Inf. HP
 1. Inf. HP + OHK

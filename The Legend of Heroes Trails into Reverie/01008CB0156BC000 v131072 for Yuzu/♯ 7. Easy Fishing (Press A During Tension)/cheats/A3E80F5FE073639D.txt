@@ -1,3 +1,0 @@
-[♯ 7. Easy Fishing (Press A During Tension)]
-040E0000 00505710 1E2E1000
-040E0000 0050600C 1E2E1000

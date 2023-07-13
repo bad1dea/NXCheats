@@ -1,0 +1,2 @@
+[♯13. AP Multiplier (8x)]
+040E0000 003D22A0 0B160FE0

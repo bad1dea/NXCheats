@@ -1,5 +1,5 @@
 # The DioField Chronicle (US)
-010032B015D66000 (4C75F07FD20DF357)
+010032B015D66000 (742C48981DBC4F2C)
 
 ## Cheat List
 1. Inf. HP
@@ -22,15 +22,6 @@
 1. No Skill Cooldowns
 1. Fast Attack Speed
 1. Movement Speed (3x)
-1. Ignore TP Requirement
-1. Inf. Crafting Materials
-1. Max Mercenary Rank
-1. Give 50x All Weapons (- and DpadL)
-1. Give 50x All Accessories (- and DpadU)
-1. Give 50x All Accessories (- and DpadU)
-1. Give 50x All Items (- and DpadR)
-1. Unlock ALL Characters (- and DpadD)
-1. Most of the cheats were originally made by KaitoB
 
 ## Changelog
 [View here](./CHANGELOG.md)

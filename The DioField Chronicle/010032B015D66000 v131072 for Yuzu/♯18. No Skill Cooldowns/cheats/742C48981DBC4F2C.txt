@@ -1,0 +1,2 @@
+[♯18. No Skill Cooldowns]
+080E0000 00565978 B901A67F B901A27F

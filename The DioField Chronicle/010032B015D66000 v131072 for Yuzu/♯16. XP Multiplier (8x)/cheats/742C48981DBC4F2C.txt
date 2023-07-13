@@ -1,0 +1,2 @@
+[♯16. XP Multiplier (8x)]
+040E0000 0062F03C 0B130FE0

@@ -1,0 +1,8 @@
+[♯ 1. Unl. Money]
+040E0000 0198A7B8 3B9AC9FF
+
+[♯ 2. Unl. Knowledge]
+020E0000 0198A7BC 0000270F
+
+[♯ 3. Unl. Reputation]
+020E0000 0198A7BE 000003E7

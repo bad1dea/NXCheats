@@ -7,6 +7,7 @@
 1. Always Max Sepith(s)
 1. Max U-Materials (Open Menu)
 1. Max Phantasmal Shards (Open Menu)
+1. Max Sealing Stones and Shards
 1. Always Max AP Charge (All Routes)
 1. Fishing - Freeze Timer
 1. Fishing - Instant Catch (Press A During Tension)

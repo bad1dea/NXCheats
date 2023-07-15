@@ -5,6 +5,12 @@
 1. Unl. Money
 1. Unl. Knowledge
 1. Unl. Reputation
+1. Inf. HP
+1. Inf. MP
+1. One Punch Man (OHK)
+1. Damage Multiplier (2x)
+1. Damage Multiplier (4x)
+1. Damage Multiplier (5x)
 
 ## Changelog
 [View here](./CHANGELOG.md)

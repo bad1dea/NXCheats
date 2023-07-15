@@ -1,0 +1,3 @@
+[♯ 8a XP Multiplier (After Battle & Synthesis) (4x)]
+040E0000 00714AF8 0B080948
+040E0000 00320678 0B040516

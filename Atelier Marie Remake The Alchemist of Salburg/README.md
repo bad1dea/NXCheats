@@ -11,6 +11,9 @@
 1. Damage Multiplier (2x)
 1. Damage Multiplier (4x)
 1. Damage Multiplier (5x)
+1. XP Multiplier (After Battle & Synthesis) (2x)
+1. XP Multiplier (After Battle & Synthesis) (4x)
+1. XP Multiplier (After Battle & Synthesis) (8x)
 
 ## Changelog
 [View here](./CHANGELOG.md)

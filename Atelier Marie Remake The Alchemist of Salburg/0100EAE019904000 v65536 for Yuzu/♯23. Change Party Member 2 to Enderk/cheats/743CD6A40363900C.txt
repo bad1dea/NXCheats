@@ -1,0 +1,2 @@
+[♯23. Change Party Member 2 to Enderk]
+020E0000 0198A7E4 00000002

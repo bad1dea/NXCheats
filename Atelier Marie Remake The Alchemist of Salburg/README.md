@@ -14,6 +14,28 @@
 1. XP Multiplier (After Battle & Synthesis) (2x)
 1. XP Multiplier (After Battle & Synthesis) (4x)
 1. XP Multiplier (After Battle & Synthesis) (8x)
+1. Change Party Member 1 to No One
+1. Change Party Member 1 to Schea
+1. Change Party Member 1 to Enderk
+1. Change Party Member 1 to Kirie
+1. Change Party Member 1 to Kreis
+1. Change Party Member 1 to Ruven
+1. Change Party Member 1 to Hallesch
+1. Change Party Member 1 to Kugel
+1. Change Party Member 1 to Schwalbe
+1. Change Party Member 1 to Natalie
+1. Change Party Member 1 to Mu
+1. Change Party Member 2 to No One
+1. Change Party Member 2 to Schea
+1. Change Party Member 2 to Enderk
+1. Change Party Member 2 to Kirie
+1. Change Party Member 2 to Kreis
+1. Change Party Member 2 to Ruven
+1. Change Party Member 2 to Hallesch
+1. Change Party Member 2 to Kugel
+1. Change Party Member 2 to Schwalbe
+1. Change Party Member 2 to Natalie
+1. Change Party Member 2 to Mu
 
 ## Changelog
 [View here](./CHANGELOG.md)

@@ -1,0 +1,2 @@
+[♯21. Change Party Member 2 to No One]
+020E0000 0198A7E4 FFFFFFFF

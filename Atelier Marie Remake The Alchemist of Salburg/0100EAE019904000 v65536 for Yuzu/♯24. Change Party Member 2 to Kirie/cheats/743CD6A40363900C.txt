@@ -1,0 +1,2 @@
+[♯24. Change Party Member 2 to Kirie]
+020E0000 0198A7E4 00000003

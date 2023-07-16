@@ -1,0 +1,2 @@
+[♯16. Change Party Member 1 to Hallesch]
+020E0000 0198A7E2 00000006

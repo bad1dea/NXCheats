@@ -1,0 +1,3 @@
+[♯ 9. Fishing - Instant Catch (Press A During Tension)]
+040E0000 00506660 1E2E1000
+040E0000 00506F5C 1E2E1000

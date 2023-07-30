@@ -1,0 +1,2 @@
+[♯18a Orbment & Character XP Multiplier (5x)]
+040E0000 001B006C 1E229000

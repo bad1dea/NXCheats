@@ -1,0 +1,2 @@
+[♯18d Orbment & Character XP Multiplier (30x)]
+040E0000 001B006C 1E27D000

@@ -1,0 +1,2 @@
+[♯10. Always Show Treasure Chests On Map]
+040E0000 0061E7E4 14000008

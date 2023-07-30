@@ -1,0 +1,2 @@
+[♯17. Money Multiplier (2x)]
+040E0000 002BCA8C 2B010508

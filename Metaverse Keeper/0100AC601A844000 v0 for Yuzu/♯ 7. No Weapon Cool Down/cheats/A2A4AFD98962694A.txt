@@ -1,0 +1,2 @@
+[♯ 7. No Weapon Cool Down]
+040E0000 01A03FE0 D65F03C0

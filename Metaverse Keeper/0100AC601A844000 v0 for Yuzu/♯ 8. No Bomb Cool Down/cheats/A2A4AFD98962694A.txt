@@ -1,0 +1,2 @@
+[♯ 8. No Bomb Cool Down]
+040E0000 018BDC10 D65F03C0

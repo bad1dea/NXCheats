@@ -1,0 +1,2 @@
+[♯24. Normal Walk/Sprint Speed]
+040E0000 00D8A1B4 1E2E1001

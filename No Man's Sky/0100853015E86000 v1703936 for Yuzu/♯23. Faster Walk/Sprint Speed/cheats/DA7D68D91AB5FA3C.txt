@@ -1,0 +1,2 @@
+[♯23. Faster Walk/Sprint Speed]
+040E0000 00D8A1B4 1E201001

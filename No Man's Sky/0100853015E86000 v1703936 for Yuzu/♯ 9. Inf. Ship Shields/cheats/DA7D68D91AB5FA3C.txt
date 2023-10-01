@@ -1,0 +1,2 @@
+[♯ 9. Inf. Ship Shields]
+040E0000 00D8DA80 B9001B00

@@ -9,6 +9,7 @@
 1. Inf. Ammo
 1. No Reload
 1. Inf. Suppressor
+1. Unlock All Camos
 1. Survival Knife
 1. Fork
 1. Cigar Gas-Spray

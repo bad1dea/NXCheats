@@ -2,7 +2,6 @@
 010047F01AA10001 (17F0744313E5B0FB)
 
 ## Cheat List
-1. Test2
 1. 100% Stealth
 1. Inf. Health
 1. Inf. Stamina

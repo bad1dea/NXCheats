@@ -5,18 +5,21 @@
 1. God Mode
 1. Unl. Health
 1. Unl. Oxygen
+1. Crawl, Run & Snow Steps Are Silent
 1. No Reload
 1. Radar Not Jammed When Spotted
+1. Ghost Mode
 1. First Person Mode (Press Triangle)
 1. Have SOCOM Pistol
 1. Have FAMAS Rifle
+1. Have Grenades
 1. Have Nikita
-1. Have PSG1 Rifle
+1. Have Stinger
 1. Have Claymore Mines
 1. Have C4
-1. Have Grenades
 1. Have Stun Grenades
 1. Have Chaff Grenades
+1. Have PSG1 Rifle
 1. Have Cigarettes
 1. Have Scope
 1. Have Cardboard Box A
@@ -34,13 +37,14 @@
 1. Have Medicine
 1. Have Diazepam
 1. Have PAL Key
-1. Have Level 100 Key Card
+1. Have Lv. 100 Key Card
 1. Have Never Have Time Bomb
 1. Have Mine Detector
 1. Have MO Disc
 1. Have Rope
 1. Have Hankerchief
 1. Have Suppressor Active
+1. nks to GamerJin for the help with this one. ツ
 
 ## Changelog
 [View here](./CHANGELOG.md)

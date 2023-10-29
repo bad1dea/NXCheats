@@ -2,7 +2,7 @@
 0100C1301A9C2000 (C6F3280D8983A1BB)
 
 ## Cheat List
-1. God Mode
+1. 16:9 Stretch
 1. Unl. Health
 1. Unl. Oxygen
 1. Crawl, Run & Snow Steps Are Silent

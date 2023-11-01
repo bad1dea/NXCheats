@@ -1,0 +1,2 @@
+[♯ 2c Move Speed Multiplier (4.5x)]
+040E0000 0216B570 1E27D000

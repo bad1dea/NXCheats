@@ -1,0 +1,2 @@
+[♯14b FOL Multiplier (4x)]
+040E0000 022AD238 0B080AE8

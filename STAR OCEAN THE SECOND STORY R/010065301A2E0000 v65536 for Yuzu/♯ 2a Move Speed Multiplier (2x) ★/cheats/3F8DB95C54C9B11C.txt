@@ -1,0 +1,2 @@
+[♯ 2a Move Speed Multiplier (2x) ★]
+040E0000 0216B570 1E255000

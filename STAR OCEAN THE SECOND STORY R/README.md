@@ -1,8 +1,7 @@
-# STAR OCEAN THE SECOND STORY R - DEMO (US)
-0100BD801BA68000 (64378752A2529C00)
+# STAR OCEAN THE SECOND STORY R (US)
+010065301A2E0000 (3F8DB95C54C9B11C)
 
 ## Cheat List
-1. Set Playtime to 00:00:00
 1. Can Reopen Treasure Chests (Reload Area)
 1. Move Speed Multiplier (2x) ★
 1. Move Speed Multiplier (3x)

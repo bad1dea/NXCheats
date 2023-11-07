@@ -96,48 +96,57 @@
 040E0000 01EEA374 1E2703E0
 
 [♯12. Sphere Bonus Always Max]
-040E0000 021BF860 5284E1E0
+040E0000 021B8BE8 1A88B108
 
-[♯13a XP Multiplier (2x) ★]
+[♯13. Assist Points Always Max]
+040E0000 01DEFA0C 1E214C20
+
+[♯14. No Item Use Cooldown]
+040E0000 01F01298 1E2703E8
+
+[♯15. No Break For Missing Precision Dodge]
+040E0000 0265084C D503201F
+
+[♯16a XP Multiplier (2x) ★]
 040E0000 022AD1FC 0B0906E9
 
-[♯13b XP Multiplier (4x)]
+[♯16b XP Multiplier (4x)]
 040E0000 022AD1FC 0B090AE9
 
-[♯13c XP Multiplier (8x)]
+[♯16c XP Multiplier (8x)]
 040E0000 022AD1FC 0B090EE9
 
-[♯13d XP Multiplier (1024x)]
+[♯16d XP Multiplier (1024x)]
 040E0000 022AD1FC 0B092AE9
 
-[♯14a FOL Multiplier (2x) ★]
+[♯17a FOL Multiplier (2x) ★]
 040E0000 022AD238 0B0806E8
 
-[♯14b FOL Multiplier (4x)]
+[♯17b FOL Multiplier (4x)]
 040E0000 022AD238 0B080AE8
 
-[♯14c FOL Multiplier (8x)]
+[♯17c FOL Multiplier (8x)]
 040E0000 022AD238 0B080EE8
 
-[♯15a SP Multiplier (2x) ★]
+[♯18a SP Multiplier (2x) ★]
 040E0000 022ADB34 0B08056A
 
-[♯15b SP Multiplier (4x)]
+[♯18b SP Multiplier (4x)]
 040E0000 022ADB34 0B08096A
 
-[♯15c SP Multiplier (8x)]
+[♯18c SP Multiplier (8x)]
 040E0000 022ADB34 0B080D6A
 
-[♯16a BP Multiplier (2x) ★]
+[♯19a BP Multiplier (2x) ★]
 040E0000 022AE7F4 0B080548
 
-[♯16b BP Multiplier (4x)]
+[♯19b BP Multiplier (4x)]
 040E0000 022AE7F4 0B080948
 
-[♯16c BP Multiplier (8x)]
+[♯19c BP Multiplier (8x)]
 040E0000 022AE7F4 0B080D48
 
-[♯17. Item Drop Rate 100%]
+[♯20. Item Drop Rate 100%]
 040E0000 022ACE88 14000056
 
 [--SectionEnd:Battle--]
@@ -146,11 +155,12 @@
 [--SectionStart:Improve--]
 00000000 00000000 00000000
 
-[♯18. Ignore Combat Skill Cost(s)]
+[♯21. Unl. BP]
+040E0000 025DE25C D503201F
 040E0000 025E24A0 2A1F03E0
 
-[♯19. Ignore Special Arts & Spells Cost(s)]
-080E0000 025DE220 D65F03C0 52800000
+[♯22. Unl. SP]
+040E0000 025E1E80 2A1F03E0
 
 [--SectionEnd:Improve--]
 00000000 00000000 00000000
@@ -158,13 +168,22 @@
 [--SectionStart:Inventory & Item Creation Specialty Related--]
 00000000 00000000 00000000
 
-[♯20. No Item Loss]
+[♯23. No Item Loss]
 040E0000 023F2700 D65F03C0
 040E0000 023F32F0 D65F03C0
 040E0000 023F3020 D65F03C0
 
-[♯21. Always 100% Success Rate]
+[♯24. Always 100% Success Rate]
 040E0000 020CA2D8 14000005
 
 [--SectionEnd:Inventory Related--]
+00000000 00000000 00000000
+
+[--SectionStart:Misc--]
+00000000 00000000 00000000
+
+[♯25. Can FF Through Regular NPC Conversations]
+040E0000 02732F48 D503201F
+
+[--SectionEnd:Misc--]
 00000000 00000000 00000000

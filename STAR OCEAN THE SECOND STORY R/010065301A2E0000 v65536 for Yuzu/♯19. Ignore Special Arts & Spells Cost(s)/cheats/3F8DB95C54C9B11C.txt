@@ -1,2 +1,0 @@
-[♯19. Ignore Special Arts & Spells Cost(s)]
-080E0000 025DE220 D65F03C0 52800000

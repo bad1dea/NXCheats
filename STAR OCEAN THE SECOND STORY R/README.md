@@ -1,43 +1,49 @@
-# STAR OCEAN THE SECOND STORY R (US)
-010065301A2E0000 (3F8DB95C54C9B11C)
-
-## Cheat List
-1. Can Reopen Treasure Chests (Reload Area)
-1. Move Speed Multiplier (2x) ★
-1. Move Speed Multiplier (3x)
-1. Move Speed Multiplier (4.5x)
-1. No Enemy Wandering
-1. No Enemy Chasing
-1. Ignore Encounter Trigger
-1. No Clip
-1. Always Back Attack
-1. Party Damage Multiplier (3x) ★
-1. Party Damage Multiplier (5x)
-1. Party Damage Multiplier (10x)
-1. Enemy Damage Multiplier (0x) ★
-1. Enemy Damage Multiplier (1x)
-1. Enemy Damage Multiplier (2x)
-1. Ignore MP Costs
-1. One Hit Break
-1. Sphere Bonus Always Max
-1. XP Multiplier (2x) ★
-1. XP Multiplier (4x)
-1. XP Multiplier (8x)
-1. XP Multiplier (1024x)
-1. FOL Multiplier (2x) ★
-1. FOL Multiplier (4x)
-1. FOL Multiplier (8x)
-1. SP Multiplier (2x) ★
-1. SP Multiplier (4x)
-1. SP Multiplier (8x)
-1. BP Multiplier (2x) ★
-1. BP Multiplier (4x)
-1. BP Multiplier (8x)
-1. Item Drop Rate 100%
-1. Ignore Combat Skill Cost(s)
-1. Ignore Special Arts & Spells Cost(s)
-1. No Item Loss
-1. Always 100% Success Rate
-
-## Changelog
-[View here](./CHANGELOG.md)
+```graphql
+# STAR OCEAN THE SECOND STORY R (US) (v65536)
+./khuong/010065301A2E0000/3F8DB95C54C9B11C/*
+  ├─ Field/*
+  │  ├─ Can Reopen Treasure Chests (Reload Area)
+  │  ├─ Move Speed Multiplier (2x) ★
+  │  ├─ Move Speed Multiplier (3x)
+  │  ├─ Move Speed Multiplier (4.5x)
+  │  ├─ No Enemy Wandering
+  │  ├─ No Enemy Chasing
+  │  ├─ Ignore Encounter Trigger
+  │  └─ No Clip
+  ├─ Battle/*
+  │  ├─ Always Back Attack
+  │  ├─ Party Damage Multiplier (3x) ★
+  │  ├─ Party Damage Multiplier (5x)
+  │  ├─ Party Damage Multiplier (10x)
+  │  ├─ Enemy Damage Multiplier (0x) ★
+  │  ├─ Enemy Damage Multiplier (1x)
+  │  ├─ Enemy Damage Multiplier (2x)
+  │  ├─ Ignore MP Costs
+  │  ├─ One Hit Break
+  │  ├─ Sphere Bonus Always Max
+  │  ├─ Assist Points Always Max
+  │  ├─ No Item Use Cooldown
+  │  ├─ No Break For Missing Precision Dodge
+  │  ├─ XP Multiplier (2x) ★
+  │  ├─ XP Multiplier (4x)
+  │  ├─ XP Multiplier (8x)
+  │  ├─ XP Multiplier (1024x)
+  │  ├─ FOL Multiplier (2x) ★
+  │  ├─ FOL Multiplier (4x)
+  │  ├─ FOL Multiplier (8x)
+  │  ├─ SP Multiplier (2x) ★
+  │  ├─ SP Multiplier (4x)
+  │  ├─ SP Multiplier (8x)
+  │  ├─ BP Multiplier (2x) ★
+  │  ├─ BP Multiplier (4x)
+  │  ├─ BP Multiplier (8x)
+  │  └─ Item Drop Rate 100%
+  ├─ Improve/*
+  │  ├─ Unl. BP
+  │  └─ Unl. SP
+  ├─ Inventory & Item Creation Specialty Related/*
+  │  ├─ No Item Loss
+  │  └─ Always 100% Success Rate
+  ├─ Misc/*
+  │  └─ Can FF Through Regular NPC Conversations
+  └─ khuong (ツ)```

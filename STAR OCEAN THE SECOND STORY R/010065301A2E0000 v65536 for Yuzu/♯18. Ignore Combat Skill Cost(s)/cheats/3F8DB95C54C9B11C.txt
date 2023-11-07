@@ -1,2 +1,0 @@
-[♯18. Ignore Combat Skill Cost(s)]
-040E0000 025E24A0 2A1F03E0

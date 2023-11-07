@@ -9,7 +9,8 @@
   │  ├─ No Enemy Wandering
   │  ├─ No Enemy Chasing
   │  ├─ Ignore Encounter Trigger
-  │  └─ No Clip
+  │  ├─ No Clip (On)
+  │  └─ No Clip (Off)
   ├─ Battle/*
   │  ├─ Always Back Attack
   │  ├─ Party Damage Multiplier (3x) ★

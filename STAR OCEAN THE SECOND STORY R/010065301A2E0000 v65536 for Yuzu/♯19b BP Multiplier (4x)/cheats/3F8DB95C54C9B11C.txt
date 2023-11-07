@@ -1,2 +1,0 @@
-[♯19b BP Multiplier (4x)]
-040E0000 022AE7F4 0B080948

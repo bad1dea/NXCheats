@@ -54,7 +54,8 @@
   ├─ Misc/*
   │  └─ Can FF Through Regular NPC Conversations
   ├─ Party Manager (Use One At A Time)/*
-  │  │  ** This May Break Game Progression **   │  ├─ Add Rena to Party
+  │  │  ** This May Break Game Progression ** 
+  │  ├─ Add Rena to Party
   │  ├─ Add Celine to Party
   │  ├─ Add Bowman to Party
   │  ├─ Add Dias to Party

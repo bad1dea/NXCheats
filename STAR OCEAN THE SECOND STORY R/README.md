@@ -55,16 +55,16 @@
   │  └─ Can FF Through Regular NPC Conversations
   ├─ Party Manager (Use One At A Time)/*
   │  │  ** This May Break Game Progression ** 
-  │  ├─ Add Rena to Party
-  │  ├─ Add Celine to Party
-  │  ├─ Add Bowman to Party
-  │  ├─ Add Dias to Party
-  │  ├─ Add Precis to Party
-  │  ├─ Add Ashton to Party
-  │  ├─ Add Leon to Party
-  │  ├─ Add Opera to Party
-  │  ├─ Add Ernest to Party
-  │  ├─ Add Noel to Party
-  │  ├─ Add Chisato to Party
-  │  └─ Add Welch to Party
+  │  ├─ Add Rena to Party (L3+R3)
+  │  ├─ Add Celine to Party (L3+R3)
+  │  ├─ Add Bowman to Party (L3+R3)
+  │  ├─ Add Dias to Party (L3+R3)
+  │  ├─ Add Precis to Party (L3+R3)
+  │  ├─ Add Ashton to Party (L3+R3)
+  │  ├─ Add Leon to Party (L3+R3)
+  │  ├─ Add Opera to Party (L3+R3)
+  │  ├─ Add Ernest to Party (L3+R3)
+  │  ├─ Add Noel to Party (L3+R3)
+  │  ├─ Add Chisato to Party (L3+R3)
+  │  └─ Add Welch to Party (L3+R3)
   └─ khuong (ツ)```

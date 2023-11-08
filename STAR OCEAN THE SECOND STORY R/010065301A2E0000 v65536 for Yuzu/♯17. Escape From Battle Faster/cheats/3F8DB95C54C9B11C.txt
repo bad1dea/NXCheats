@@ -1,0 +1,2 @@
+[♯17. Escape From Battle Faster]
+040E0000 01EF69F8 1E213820

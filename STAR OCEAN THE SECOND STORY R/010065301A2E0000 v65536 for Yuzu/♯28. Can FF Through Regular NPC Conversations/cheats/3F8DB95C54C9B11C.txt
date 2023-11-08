@@ -1,2 +1,0 @@
-[♯28. Can FF Through Regular NPC Conversations]
-040E0000 02732F48 D503201F

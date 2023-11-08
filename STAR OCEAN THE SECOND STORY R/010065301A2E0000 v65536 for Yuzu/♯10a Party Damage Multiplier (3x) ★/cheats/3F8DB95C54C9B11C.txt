@@ -1,2 +1,0 @@
-[♯10a Party Damage Multiplier (3x) ★]
-040E0000 02C19FFC 00000003

@@ -1,2 +1,0 @@
-[♯17d XP Multiplier (1024x)]
-040E0000 022AD1FC 0B092AE9

@@ -1,2 +1,0 @@
-[♯19b SP Multiplier (4x)]
-040E0000 022ADB34 0B08096A

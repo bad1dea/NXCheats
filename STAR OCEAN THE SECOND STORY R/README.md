@@ -13,6 +13,7 @@
   │  └─ No Clip (Off)
   ├─ Battle/*
   │  ├─ Always Back Attack
+  │  ├─ Auto Perfect Dodge
   │  ├─ Party Damage Multiplier (3x) ★
   │  ├─ Party Damage Multiplier (5x)
   │  ├─ Party Damage Multiplier (10x)
@@ -40,9 +41,10 @@
   │  ├─ BP Multiplier (8x)
   │  └─ Item Drop Rate 100%
   ├─ Improve/*
+  │  ├─ Akways Discovering Talent
   │  ├─ Unl. BP
   │  └─ Unl. SP
-  ├─ Inventory & Item Creation Specialty Related/*
+  ├─ Inventory & IC - Specialty Related/*
   │  ├─ No Item Loss
   │  └─ Always 100% Success Rate
   ├─ Misc/*

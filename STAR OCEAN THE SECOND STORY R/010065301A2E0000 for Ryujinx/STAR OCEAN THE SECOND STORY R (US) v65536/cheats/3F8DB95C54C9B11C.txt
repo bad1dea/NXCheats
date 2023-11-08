@@ -1,6 +1,22 @@
 {# Master Code (include share functions)}
 040E0000 02C19FFC 00000001
 040E0000 02C19FF8 00000001
+58010000 041835C0
+58011000 00000020
+58011000 000000C0
+58011000 00000000
+58011000 000000B8
+58011000 00000000
+58011000 00000030
+58011000 00000010
+78010000 00000020
+400C0000 00000000 00000000
+300E0000 00000004
+980D10C0
+580D1000 00000000
+A8DC0500 05C90A00
+780C0000 00000008
+310E0000
 080E0000 02C19FF0 17E6FAA5 1A880137
 080E0000 02C19FE8 14000002 1B087F37
 080E0000 02C19FE0 54000060 180000D9
@@ -74,82 +90,95 @@
 [♯ 8. Always Back Attack]
 040E0000 01D38734 17FFFFC0
 
-[♯ 9a Party Damage Multiplier (3x) ★]
+[♯ 9. Auto Perfect Dodge]
+080E0000 02C19F7C 17C94D86 F940A908
+080E0000 02C19F74 B9003016 52800136
+080E0000 02C19F6C F940AD00 14000004
+080E0000 02C19F64 54000040 EB00011F
+080E0000 02C19F5C F9450EC0 540000A0
+080E0000 02C19F54 EB00011F F9450AC0
+080E0000 02C19F4C 54000100 EB00011F
+080E0000 02C19F44 F94506C0 54000160
+080E0000 02C19F3C EB00011F F94502C0
+040E0000 02C19F38 F00183B6
+040E0000 01E6D594 1436B269
+
+[♯10a Party Damage Multiplier (3x) ★]
 040E0000 02C19FFC 00000003
 
-[♯ 9b Party Damage Multiplier (5x)]
+[♯10b Party Damage Multiplier (5x)]
 040E0000 02C19FFC 00000005
 
-[♯ 9c Party Damage Multiplier (10x)]
+[♯10c Party Damage Multiplier (10x)]
 040E0000 02C19FFC 0000000A
 
-[♯10a Enemy Damage Multiplier (0x) ★]
+[♯11a Enemy Damage Multiplier (0x) ★]
 040E0000 02C19FF8 00000000
 
-[♯10b Enemy Damage Multiplier (1x)]
+[♯11b Enemy Damage Multiplier (1x)]
 040E0000 02C19FF8 00000005
 
-[♯10c Enemy Damage Multiplier (2x)]
+[♯11c Enemy Damage Multiplier (2x)]
 040E0000 02C19FF8 0000000A
 
-[♯11. Ignore MP Costs]
+[♯12. Ignore MP Costs]
 040E0000 025D40F0 52800008
 
-[♯12. One Hit Break]
+[♯13. One Hit Break]
 040E0000 01EEA374 1E2703E0
 
-[♯13. Sphere Bonus Always Max]
+[♯14. Sphere Bonus Always Max]
 040E0000 021B8BE8 1A88B108
 
-[♯14. Assist Points Always Max]
+[♯15. Assist Points Always Max]
 040E0000 01DEFA0C 1E214C20
 
-[♯15. No Item Use Cooldown]
+[♯16. No Item Use Cooldown]
 040E0000 01F01298 1E2703E8
 
-[♯16. No Break For Missing Precision Dodge]
+[♯17. No Break For Missing Precision Dodge]
 040E0000 0265084C D503201F
 
-[♯17a XP Multiplier (2x) ★]
+[♯18a XP Multiplier (2x) ★]
 040E0000 022AD1FC 0B0906E9
 
-[♯17b XP Multiplier (4x)]
+[♯18b XP Multiplier (4x)]
 040E0000 022AD1FC 0B090AE9
 
-[♯17c XP Multiplier (8x)]
+[♯18c XP Multiplier (8x)]
 040E0000 022AD1FC 0B090EE9
 
-[♯17d XP Multiplier (1024x)]
+[♯18d XP Multiplier (1024x)]
 040E0000 022AD1FC 0B092AE9
 
-[♯18a FOL Multiplier (2x) ★]
+[♯19a FOL Multiplier (2x) ★]
 040E0000 022AD238 0B0806E8
 
-[♯18b FOL Multiplier (4x)]
+[♯19b FOL Multiplier (4x)]
 040E0000 022AD238 0B080AE8
 
-[♯18c FOL Multiplier (8x)]
+[♯19c FOL Multiplier (8x)]
 040E0000 022AD238 0B080EE8
 
-[♯19a SP Multiplier (2x) ★]
+[♯20a SP Multiplier (2x) ★]
 040E0000 022ADB34 0B08056A
 
-[♯19b SP Multiplier (4x)]
+[♯20b SP Multiplier (4x)]
 040E0000 022ADB34 0B08096A
 
-[♯19c SP Multiplier (8x)]
+[♯20c SP Multiplier (8x)]
 040E0000 022ADB34 0B080D6A
 
-[♯20a BP Multiplier (2x) ★]
+[♯21a BP Multiplier (2x) ★]
 040E0000 022AE7F4 0B080548
 
-[♯20b BP Multiplier (4x)]
+[♯21b BP Multiplier (4x)]
 040E0000 022AE7F4 0B080948
 
-[♯20c BP Multiplier (8x)]
+[♯21c BP Multiplier (8x)]
 040E0000 022AE7F4 0B080D48
 
-[♯21. Item Drop Rate 100%]
+[♯22. Item Drop Rate 100%]
 040E0000 022ACE88 14000056
 
 [--SectionEnd:Battle--]
@@ -158,26 +187,28 @@
 [--SectionStart:Improve--]
 00000000 00000000 00000000
 
-[♯22. Unl. BP]
+[♯23. Akways Discovering Talent]
+040E0000 025DDC34 1400004F
+
+[♯24. Unl. BP]
 040E0000 025DE25C D503201F
 040E0000 025E24A0 2A1F03E0
 
-[♯23. Unl. SP]
+[♯25. Unl. SP]
 040E0000 025E1E80 2A1F03E0
 
 [--SectionEnd:Improve--]
 00000000 00000000 00000000
 
-[--SectionStart:Inventory & Item Creation Specialty Related--]
+[--SectionStart:Inventory & IC - Specialty Related--]
 00000000 00000000 00000000
 
-[♯24. No Item Loss]
+[♯26. No Item Loss]
 040E0000 023F2700 D65F03C0
 040E0000 023F32F0 D65F03C0
 040E0000 023F3020 D65F03C0
 
-[♯25. Always 100% Success Rate]
-040E0000 020CA2D8 14000005
+[♯27. Always 100% Success Rate]
 
 [--SectionEnd:Inventory Related--]
 00000000 00000000 00000000
@@ -185,7 +216,7 @@
 [--SectionStart:Misc--]
 00000000 00000000 00000000
 
-[♯26. Can FF Through Regular NPC Conversations]
+[♯28. Can FF Through Regular NPC Conversations]
 040E0000 02732F48 D503201F
 
 [--SectionEnd:Misc--]

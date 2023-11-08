@@ -41,7 +41,7 @@
   │  ├─ BP Multiplier (8x)
   │  └─ Item Drop Rate 100%
   ├─ Improve/*
-  │  ├─ Akways Discovering Talent
+  │  ├─ Always Discovering Talent
   │  ├─ Unl. BP
   │  └─ Unl. SP
   ├─ Inventory & IC - Specialty Related/*

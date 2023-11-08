@@ -217,7 +217,7 @@ A8DC0500 05C90A00
 [--SectionStart:Improve--]
 00000000 00000000 00000000
 
-[♯23. Akways Discovering Talent]
+[♯23. Always Discovering Talent]
 040E0000 025DDC34 1400004F
 
 [♯24. Unl. BP]

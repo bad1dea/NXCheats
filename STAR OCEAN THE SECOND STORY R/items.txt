@@ -1,0 +1,1222 @@
+1:Magic Canvas
+2:Primavera
+3:The Scream
+4:Starry Night
+5:Death of Socrates
+6:Portrait A
+7:Portrait B
+8:Portrait C
+9:Portrait G
+10:Portrait I
+11:Portrait D
+12:Portrait F
+13:Portrait J
+14:Portrait H
+15:Portrait E
+16:Portrait L
+17:Portrait K
+18:Doodles
+19:Victory Card
+20:Critical Card
+21:Revival Card
+22:Wealth Card
+23:Treasure Card
+24:Experience Card
+25:Faerie Card
+26:Benefaction Card
+27:Silence Card
+28:Hexagram Card
+30:Weird Shape
+34:Angel Statuette
+35:Faerie Statuette
+36:Goddess Statuette
+37:Illusion Doll
+38:Warrior Idol
+39:Veda Idol
+40:Goodie Box
+41:Jack-in-the-Box
+42:Mirror of Knowledge
+43:Magic Clay
+44:Feather Pen
+45:Piano
+46:Cembalo
+47:Mystical Shamisen
+48:Silver Trumpet
+49:Harmonica
+50:Lyre
+51:Violin
+52:Pipe Organ
+53:Conductor Baton
+54:Spectacles
+55:Magic Gumdrop
+56:Moonlight
+57:Silver Idol
+58:Gold Idol
+59:Lavish Idol
+60:Weird Doll
+61:Sacrificial Doll
+62:Silver Pendant
+63:Storm Ring
+64:Green Bracelet
+65:Froghead
+66:Glass Slippers
+67:Regeneration Ring
+68:Ugly Accessory
+69:Lunar Charm
+70:Amulet of Antivenin
+71:Amulet of Freedom
+72:Amulet of Flexibility
+73:Purple Amulet
+74:Mystic Amulet
+75:Necklace
+76:Chain of Might
+77:Intimidation Pendant
+78:Leaf Pendant
+79:Ruby Pendant
+80:Star Necklace
+81:Faerie Tear
+82:Velvet Tear
+83:Silver Amulet
+84:Blue Talisman
+85:Talisman
+86:Lunar Talisman
+87:Gold Ring
+88:Princess Ring
+89:Ring of Healing
+90:Ring of Mental Power
+91:Ring of Wisdom
+92:Heavy Ring
+93:Weighty Ring
+94:Hefty Ring
+95:Ring of Might
+97:Ring of Insanity
+98:Ring of Infinity
+99:Ring of the Accursed
+100:Ring of Avoidance
+101:Ring of Fusion
+102:Ring of Absorption
+103:Ring of Happiness
+104:Ring of Sadness
+105:Ring of Trust
+106:Stardust Ring
+107:Hammer Charm
+108:Mallet Charm
+109:Ring of Lightspeed
+110:Meteor Ring
+111:Ring of Lunacy
+112:Berserker Ring
+113:Shield Ring
+114:Ring of Resistance
+115:Aqua Ring
+116:Flare Ring
+117:Ring of the General
+118:Prism Ring
+119:Holy Ring
+120:Emerald Ring
+121:Water Ring
+122:Fire Ring
+123:Thunder Ring
+124:Faerie Ring
+125:Onyx Earring
+126:Gold Earring
+127:Ruby Earring
+128:Blood Earring
+129:Shield Earring
+130:Breeze Earring
+131:Earring of the Winds
+132:Lame Earring
+133:Gale Earring
+134:Hefty Earring
+135:Emerald Earring
+136:Star Earring
+137:Earring of Magnetism
+138:Earring of Readiness
+139:Earring of Frenzy
+140:Silver Cross
+141:Gold Cross
+142:Magic Cross
+143:Silver Ring
+144:Light Cross
+145:Shadow Cross
+146:Silver Barrette
+147:Angelic Headband
+148:Gold Bracelet
+149:Anklet
+150:Bracelet of Gambling
+151:Ricochet Bracelet
+152:Dream Bracelet
+153:Gold Crown
+154:Glittering Earring
+155:Moon Earring
+156:Mind Ring
+157:Foot Insignia
+158:Silver Earring
+159:Mist Insignia
+160:Crown
+161:Dream Crown
+162:Moon Tiara
+163:Paper Scrap
+164:Fountain Pen
+165:Beret
+166:Drawing Poses
+167:Dish of the Day
+168:Musicology
+169:Operation Manual
+170:Engineer's Handbook
+171:Choosing Ingredients
+172:Food for the Soul
+173:The Bestiary
+174:Walls of the Soul
+175:Life in Nature
+176:Secrets of the Earth
+177:Pocket Encyclopedia
+178:Metallurgy
+179:The World's a Stage
+180:The Perfect Rhythm
+182:Hermetic Philosophy
+183:Friends of the Woods
+184:All About Herbs
+186:Scroll of Power
+187:Death of Originality
+188:Fanfic!?
+189:Fanfic?
+190:Fanfic
+191:Fanfic!
+192:Fanfic!!!
+193:Fanfic ;)
+194:Fanfic ;O
+195:Fanfic X
+196:Planet of the Wind
+197:Eyes Only for You
+198:The World Is Mine
+199:Advanced Symbology
+200:The Blood-Paved Road
+201:Alien Cultures
+202:S.O. Confidential
+203:Men Who Can Say No
+204:Buy This Book!
+205:The Animal Touch
+206:All the Mayor's Men
+207:Countdown
+208:The Great Star Ocean
+209:Romantic Love
+210:You Go, Girl!
+211:Expert Symbology
+212:To Live
+213:Our Wise Forefathers
+214:The Violet Dahlia
+215:I Won't Look Back
+216:A Girl's Secrets
+217:Nature's Will
+218:Assassin's Handbook
+219:The Lost Tabernacle
+220:Mandrake
+221:Rose Hip
+222:Artemis Leaf
+223:Wolfsbane
+224:Lavender
+225:Athelas
+226:Compress of Veda
+227:Strength Bottle
+228:Potion of Reversal
+229:Potion of the Winds
+230:Smelling Salts
+231:Shock Oil
+232:Smoke Oil
+233:Potion of Trust
+234:Herbal Potion
+235:Bubble Lotion
+236:Oil of Paralysis
+237:Bitter Lotion
+238:Faerie Elixir
+239:Faerie Cologne
+240:Potion of Merlin
+241:Medical Rinse
+242:Melt Potion
+243:Resurrection Mist
+244:Risky Resurrection
+245:Potion of Lilith
+246:Hazardous Heal
+247:Potion of Nightmares
+248:Potion of Epiphany
+250:Mental Potion
+251:Sour Syrup
+252:Sweet Syrup
+253:Maple Syrup
+254:Fruit Syrup
+255:Refreshing Syrup
+256:Hot Syrup
+257:Mixed Syrup
+258:Antidote
+259:Paralysis Cure
+260:Wonder Drug
+261:Temper Tablet
+262:Sacrifice Pill
+263:Immunity Pill
+264:Violent Pill
+265:Marionette Pill
+266:Ointment of Veda
+267:Stink Gel
+268:Succubus Perfume
+269:Aphrodisiac
+270:Pixie Perfume
+271:Smoke Mist
+272:Paralysis Mist
+273:Faerie Mist
+275:Holy Mist
+276:Mist of Madness
+277:Resurrection Elixir
+278:Medicine Bottle
+279:Seafood
+280:Fruit
+281:Grains
+282:Meat
+283:Vegetables
+284:Eggs and Dairy
+285:Sashimi
+286:?MACHINE
+287:Sole in Wine Sauce
+288:?MACHINE
+289:Flawed Orb
+290:Shark Fin Dumplings
+291:Shark Fin Soup
+292:Swallow's Nest Soup
+293:Light Soup
+294:Mushroom Soup
+295:Chawanmushi
+296:?MACHINE
+297:Orange Soda
+298:Pear Compote
+299:Strawberry Rice Cake
+300:?MACHINE
+301:?MACHINE
+302:Muscat Jelly
+303:Konjac Jelly
+304:?MACHINE
+305:?MACHINE
+306:Coconut Milk
+307:Swallowblade
+308:Fruit Sandwich
+309:Sole in Orange Sauce
+310:Bean Cake
+311:Egg Fried Rice
+312:Fried Rice with Meat
+313:Kasuzuke
+314:?JEWELRY
+315:Sweet Toast
+316:Tear of Israfel
+317:Orb of Fire
+318:Shrimp Dumplings
+319:Hamburg Steak
+320:Filet Mignon
+321:tri-Emblum
+322:Peking Duck
+323:Cream Stew
+324:Lezard's Flask
+326:Valkyrie's Garb
+329:Vegetable Stir-Fry
+332:Yogurt Salad
+335:Plain Omelet
+337:Tuna Sashimi
+339:Seaweed Miso Soup
+340:Shumai Dumplings
+341:Amoeba Soup
+342:Godslayer
+343:Knuckles of Hope
+344:Shrimp Gratin
+345:Fine Tuna Sashimi
+346:Salmon Omelet
+347:Shrimp Pilaf
+348:Combo Link
+349:Cola
+350:Sunset Island
+351:Crazy Cow
+352:Bloody Driver
+353:Fire in the Sky
+354:Mango Lassi
+355:Banana Frappe
+356:Bean Paste Bun
+357:Demon Sword Levantine
+358:Radish Miso Soup
+359:Gruel
+360:Rice Cake
+361:Hotcake
+362:Holy Sword Farewell
+363:Ooze Cocktail
+364:Seraphic Garb
+365:Shrimp Doria
+366:Rice Omelet
+367:Mindhealer
+368:Flat Soda
+369:Luxury Grape Juice
+370:Orange Sherbet
+371:Banana Crepe
+372:Lime Cooler
+373:Pickled Plum
+374:Strawberry Bavarois
+375:Apple Crepe
+376:White Peach Sherbet
+377:Rose de Mai
+378:Orange Gratin
+379:Bitter Juice
+380:Steamed Bun
+381:Gyoza Dumplings
+382:Beef Croquette
+383:Chicken Shish Kebab
+384:Jambalaya
+385:Archangel's Bracelet
+386:Chicken Doria
+387:Steak
+388:Rabbit Risotto
+389:Lamb Burger Steak
+390:Gelatin Steak
+391:Tasteless Stew
+392:Phantom Slayer
+393:Bunny Shoes
+394:Pumpkin Croquette
+395:Cream of Corn Soup
+396:Scumbag Slayer
+397:Spring Roll
+398:Carrot Juice
+399:Cabbage Roll
+400:Pumpkin Spring Roll
+401:Vegetable Juice
+402:Green Cream Soup
+403:Wilted Salad
+404:Fried Egg
+405:Slimy Gelatin
+406:Fruit Milk
+407:Yogurt
+408:Egg Sandwich
+409:Chocolate Crepe
+410:Egg on Bacon
+411:Vanilla Ice Cream
+412:Shortcake
+413:Flan
+414:Macaroni Gratin
+415:Bitter Cake
+416:Old Milk
+417:Nectar
+418:Pet Food
+419:Iron
+420:Gold
+421:Silver
+422:Moonstone
+423:Orichalcum
+424:Meteorite
+425:Mithril
+426:Damascus
+427:Rune Metal
+428:Pebbles
+429:Green Beryl
+430:Sapphire
+431:Ruby
+432:Star Ruby
+433:Crystal
+434:Philosopher's Stone
+435:Diamond
+436:Rainbow Diamond
+437:Thief's Glove
+438:Blurry Photo
+439:Magic Camera
+440:Magic Film
+441:Music Box
+442:Element Analyzer
+443:Graphic Tool
+444:Magician's Glove
+445:RIRICA
+446:Deadly Poison Bomb
+447:Daze Bomb
+448:Mind Bomb
+449:Flare Bomb
+450:4-way Bomb
+451:Assault Bomb
+452:Defense Bomb
+453:Megabomb
+455:Nuclear Bomb
+456:Mechanic's Toolbox
+457:Music Editor
+458:Triangle Flask
+459:Magical Rasp
+460:Soldering Iron
+461:Survival Kit
+462:Word Processor
+463:Sterile Glove
+465:Plasma Generator
+466:Megalauncher
+467:White Upgrade
+468:Black Upgrade
+469:Green Upgrade
+470:Smith's Hammer
+471:Strange Medicine
+472:Ladyfingers
+473:Premium Paper
+474:Bounced Check
+475:Item Order
+476:Forged Bill
+477:Forged Check
+478:Forged Document
+479:Secret Account
+480:Stock Certificate
+481:Counterfeit Medal
+482:Seizure Warrant
+483:Contract
+485:Dull Blade
+486:Stringy Sword
+487:Golden Fang
+488:Silver Fang
+489:Broadsword
+490:Longsword
+491:Sinclair
+492:Flame Sword
+493:Walloon Sword
+494:Guthgwine
+495:Farcutter
+496:Deadly Edge
+497:Veil Piercer
+498:Metalcrusher
+499:Searing Sword
+500:Soulbreaker
+501:Sword of Marvels
+502:Blade of Minos
+503:Saad Blade
+504:Force Sword
+505:Famed Sword Veinslay
+506:Silvance
+507:Aeterna
+508:Aurora Blade
+509:Keen Kitchen Knife
+510:Bastard Sword
+511:Baselard
+512:Oriental Blade
+513:Murasame
+514:Soul Slayer
+515:Whirlwind
+516:Hope of the Breeze
+517:Deadly Cleaver
+518:Blade of Ruin
+519:Bouro
+520:Crimson Devil
+521:Chrome Nightmare
+522:Wimpy Swords
+523:Twin Swords
+524:Swords of Deflection
+525:Twin Fury
+526:Venomous Stingers
+527:Twin Splicers
+528:Maiden's Aria
+529:Shield Swords
+530:Twin Needles
+531:Luminous Slicers
+532:Devil's Horns
+533:Double Smashers
+534:Lotus Eaters
+535:Gemini
+536:Holy Cross
+537:Mephistofar
+538:Rickety Knuckles
+539:Brass Knuckles
+540:Hard Knuckles
+541:Cestus
+542:Fellpool Nails
+543:Metal Fang
+544:Magic Knuckles
+545:Blazing Knuckles
+546:Cestus of Poison
+547:Dragon Claw
+548:Knuckles of the Moon
+549:Sorcerer's Knuckles
+550:Kaiser Knuckles
+551:Emprezia
+552:Taloned Knuckles
+553:Fists of the Giant
+554:Hecaton's Punch
+555:Fists of the Asura
+556:Fists of the Titan
+557:Burst of Fire
+558:Fists of the Moon
+559:Cat Fang
+560:Eagle's Claw
+561:Serpent's Tooth
+562:Death Fang
+563:Grizzly Clasp
+564:Tiger Fang
+565:Platinum Nail
+566:Creaky Rod
+567:Silver Rod
+568:Rod
+569:Ruby Wand
+570:Mindsoother
+571:Crested Rod
+572:Holy Rod
+573:Silver Moon
+574:Rod of Jabbering
+575:Rod of Jewels
+576:Rod of Snakes
+577:Dragonstaff
+578:Ruby Rod
+579:Thunderclap Rod
+580:Scrap Iron
+581:Booster Clip
+582:Wave Clip
+583:Black Clip
+584:White Clip
+585:Seventh Ray
+586:X Clip
+587:Magic Clip
+588:Alpha Clip
+589:Burst Clip
+590:Energy Clip
+591:Beta Clip
+592:Gamma Clip
+593:Pulse Clip
+594:Robot Puncher
+595:Steel Puncher
+596:One-Two Puncher
+597:Drill Puncher
+598:Fire Puncher
+599:Ice Puncher
+600:Thunder Puncher
+601:Super Puncher
+602:Majestic Puncher
+603:Megawatt Puncher
+604:Burning Puncher
+605:Atomic Puncher
+606:Spark Puncher
+607:SD Puncher
+608:UGA Puncher
+609:SDUGA Puncher
+610:Limp Whip
+611:Leather Whip
+612:Splinter
+613:Heavy Whip
+614:Twin Tails
+615:Rose Whip
+616:Flare Whip
+617:Light Whip
+618:Cat o' Nine Tails
+619:Freeze Whip
+620:Spark Whip
+621:Hi-Tech Whip
+622:Dark Whip
+623:Invisible Whip
+624:Thick Book
+625:Reference Book
+626:How the Brain Works
+627:Picture Encyclopedia
+628:Academic Book
+629:Shake Up Your Brain!
+630:Theory of Symbology
+631:Dictionary
+632:All About ESP
+633:Symbology Dictionary
+634:Sacred Tome
+635:Tome of Wisdom
+636:Encyclopedia
+637:Book of the Ancients
+638:Book of Shadows
+639:Book of Confusion
+640:10V Stun Gun
+641:Stun Gun
+642:Spark Stunner
+643:Shock Gun
+644:Electric Stunner
+645:Freeze Gun
+646:Megawatt Stunner
+647:Flame Gun
+648:Lightning Gun
+649:Metallic Launcher
+650:Air Gun
+651:Gigawatt Stunner
+653:Electron Gun
+654:Psychic Gun
+655:Leather Helmet
+656:Weird Helmet
+657:Weird Cap
+658:Padded Helmet
+659:Magical Cap
+660:Open Helmet
+661:Iron Helmet
+662:Rune Cap
+663:Plate Helmet
+664:Tiara of Isis
+665:Steel Helmet
+666:Tiara of the Arc
+667:Wizard's Cap
+668:Mithril Helmet
+669:Sylvan Helmet
+670:Dueling Helmet
+671:Hermit's Cap
+672:Helmet of Odin
+673:Bloody Helmet
+674:Dragon's Ribbon
+675:Wyrm King's Ribbon
+676:Holey Armor
+677:Leather Armor
+678:Weird Armor
+679:Padded Armor
+680:Weird Clothing
+681:Robe
+682:Ring Mail
+683:Silk Robe
+684:Brigandine
+685:Amber Robe
+686:Evening Gown
+687:Plate Armor
+688:Silver Robe
+689:Eagle's Shawl
+690:Robe of Deception
+691:Mithril Coat
+692:Holy Cloak
+693:Mithril Dress
+694:Cloak of the Stars
+695:Armor of the Arc
+696:Steel Armor
+697:Battle Suit
+698:Wizard's Armor
+699:Robe of Ishtar
+700:Blessed Plate Armor
+701:Mithril Mesh
+702:Magic Armor
+703:Sylvan Mail
+704:Valiant Mail
+705:Dueling Suit
+706:Reflecting Plate
+707:Chaos Mail
+708:Bloody Armor
+709:Wooden Shield
+710:Round Shield
+711:Knight's Shield
+712:Weird Shield
+713:Weird Gauntlet
+714:Buckler
+715:Fine Shield
+716:Rune Buckler
+717:Crested Shield
+718:Hand of Kali
+719:Star Guard
+720:Gauntlet of Air
+721:Shield of the Arc
+722:Shield of Algol
+723:Mithril Shield
+724:Valiant Shield
+725:Valkyrie's Bracelet
+726:Barrier Shield
+727:Shield of Athena
+728:Sandals
+729:Leather Greaves
+730:Boots
+731:Boots of Happiness
+732:Suede Boots
+733:Iron Greaves
+734:Weird Boots
+735:Leather Boots
+736:Plate Greaves
+737:High Heels
+738:Laced Boots
+739:Silver Greaves
+740:Weird Shoes
+741:Pin Heels
+742:Santa's Boots
+743:Mud Shoes
+744:Valkyrie's Boots
+745:Safety Shoes
+746:Rune Shoes
+747:Mithril Greaves
+748:Witch's Boots
+749:Valiant Boots
+750:Sylvan Boots
+751:Neo Greaves
+752:Star Greaves
+754:Cinderella Glass
+755:Aquaberries
+756:Blackberries
+757:Blueberries
+758:Strawberry Jam
+759:Raspberry Jam
+760:Apple Jam
+761:Aloe Jam
+763:tri-Emblem
+764:Rice Croquette
+765:Soy Milk
+766:Stinky Bean Cake
+767:Pickled Vegetables
+768:Rice-Bran Pickles
+769:Carrot Ice Cream
+770:Stone Cure
+771:Sprite's Bracelet
+772:Pixie's Bracelet
+773:Fortune's Bracelet
+774:Rotting Sashimi
+775:Jewel of the Frog
+776:?HERB
+777:?HERB
+778:?HERB
+779:?HERB
+780:?HERB
+781:?HERB
+782:Organic Vegetables
+783:Sirloin
+784:Top-Quality Tuna
+785:Marenne Oysters
+786:Magic Rice
+787:Creamy Cheese
+788:Sweet Fruit
+789:Gelatinous Slime
+790:Wobbly Slime
+791:Milky Potage
+792:Special Stir-Fry
+793:Magical Salad
+794:Golden Stew
+795:Chicken Filet
+796:Amazing Tenderloin
+797:Ultimate Sirloin
+798:Mouthwatering Filet
+799:Grilled Tuna Belly
+800:Luxury Tuna Steak
+801:Hearty Casserole
+802:Legendary Otoro
+803:Rich Seafood Soup
+804:Supreme Seafood Soup
+805:Lord's Ozoni
+806:Soulful Rice Bowl
+807:Deluxe Doria
+808:Miracle Stir-Fry
+809:Tearful Risotto
+810:Heavenly Doria
+811:Luscious Gratin
+812:Scrumptious Pizza
+813:Delectable Cheese
+814:Treasured Gorgonzola
+815:Gateau Marjolaine
+816:Custard of Life
+817:Beautiful Ice Cream
+818:Nectar of Ambrosia
+819:Soup of the Demons
+820:Steak of the Demons
+821:Juice of the Demons
+822:Ingredients of Yarma
+824:?MINERAL
+825:?MINERAL
+826:?MINERAL
+827:?MINERAL
+828:?MINERAL
+829:?MINERAL
+830:?MINERAL
+831:?MINERAL
+832:?MINERAL
+833:?MINERAL
+834:?WEAPON
+835:?WEAPON
+836:?WEAPON
+837:?WEAPON
+838:?WEAPON
+839:?WEAPON
+840:?WEAPON
+841:?WEAPON
+842:?WEAPON
+843:?WEAPON
+844:?WEAPON
+845:?WEAPON
+846:?WEAPON
+847:?WEAPON
+848:?WEAPON
+849:?WEAPON
+850:?WEAPON
+851:?WEAPON
+852:?WEAPON
+853:?WEAPON
+854:?WEAPON
+855:?WEAPON
+856:?WEAPON
+857:?WEAPON
+858:?WEAPON
+859:?WEAPON
+860:?WEAPON
+861:?WEAPON
+862:?WEAPON
+863:?WEAPON
+864:?WEAPON
+865:?WEAPON
+866:?WEAPON
+867:?WEAPON
+868:?WEAPON
+869:?WEAPON
+870:?WEAPON
+871:?WEAPON
+872:?WEAPON
+873:?WEAPON
+874:?WEAPON
+875:?WEAPON
+876:?WEAPON
+877:?ARMOR
+878:?ARMOR
+879:?ARMOR
+880:?ARMOR
+881:?ARMOR
+882:?ARMOR
+883:?ARMOR
+884:?ARMOR
+885:?ARMOR
+886:?ARMOR
+887:?ARMOR
+888:?ARMOR
+889:?ARMOR
+890:?ARMOR
+891:?ARMOR
+892:?ARMOR
+893:?ARMOR
+894:?ARMOR
+895:?ARMOR
+896:?ARMOR
+897:?ARMOR
+898:?ARMOR
+899:?ARMOR
+900:?ARMOR
+901:?ARMOR
+902:?ARMOR
+903:?ARMOR
+904:?ARMOR
+905:?ARMOR
+906:?ARMOR
+907:?ARMOR
+908:?JEWELRY
+909:?JEWELRY
+910:?JEWELRY
+911:?JEWELRY
+912:?JEWELRY
+913:?JEWELRY
+914:?JEWELRY
+915:?JEWELRY
+916:?JEWELRY
+917:?JEWELRY
+918:?JEWELRY
+919:?JEWELRY
+920:?JEWELRY
+921:?JEWELRY
+922:?JEWELRY
+923:?JEWELRY
+924:?JEWELRY
+925:?JEWELRY
+926:?JEWELRY
+927:?JEWELRY
+928:?JEWELRY
+929:?JEWELRY
+930:?JEWELRY
+931:?JEWELRY
+932:?JEWELRY
+933:?JEWELRY
+934:?JEWELRY
+935:?JEWELRY
+936:?JEWELRY
+937:?JEWELRY
+938:?JEWELRY
+939:?JEWELRY
+940:?JEWELRY
+941:?JEWELRY
+942:?JEWELRY
+943:?JEWELRY
+944:?JEWELRY
+945:?JEWELRY
+946:?JEWELRY
+947:?JEWELRY
+948:?JEWELRY
+949:?JEWELRY
+950:?JEWELRY
+951:?ITEM
+952:?ITEM
+953:?ITEM
+954:?ITEM
+955:?ITEM
+956:?BOOK
+957:?BOOK
+958:?BOOK
+959:?BOOK
+960:?BOOK
+961:?BOOK
+962:?FOOD
+963:?FOOD
+964:?FOOD
+965:?FOOD
+966:?FOOD
+967:?FOOD
+968:?FOOD
+969:?FOOD
+970:?FOOD
+971:?FOOD
+972:?FOOD
+973:?FOOD
+974:?FOOD
+975:?FOOD
+976:?FOOD
+977:?FOOD
+978:?FOOD
+979:?FOOD
+980:?FOOD
+981:?FOOD
+982:?FOOD
+983:?FOOD
+984:?FOOD
+985:?FOOD
+986:?FOOD
+987:?FOOD
+988:?FOOD
+989:?FOOD
+990:?FOOD
+991:?FOOD
+992:?FOOD
+993:?FOOD
+994:?FOOD
+995:?FOOD
+996:?FOOD
+997:?FOOD
+998:?FOOD
+999:?FOOD
+1000:?FOOD
+1001:?FOOD
+1002:?FOOD
+1003:?FOOD
+1004:?FOOD
+1005:?FOOD
+1006:?FOOD
+1007:?FOOD
+1008:?FOOD
+1009:?FOOD
+1010:?FOOD
+1011:?FOOD
+1012:?FOOD
+1013:?FOOD
+1014:?FOOD
+1015:?FOOD
+1016:?FOOD
+1017:?FOOD
+1018:?FOOD
+1019:?FOOD
+1020:?MACHINE
+1021:?MACHINE
+1022:?MACHINE
+1023:?MACHINE
+1094:Handy Stick
+1095:Fuzzy Handy Stick
+1096:Playful Handy Stick
+1097:Tedious Handy Stick
+1098:Tense Handy Stick
+1099:Worrying Handy Stick
+1100:Annoying Handy Stick
+1101:Furious Handy Stick
+1102:Stern Handy Stick
+1103:Final Handy Stick
+1104:Violent Handy Stick
+1128:Golden Brooch
+1129:Silver Charm
+1135:Witch Powder
+1136:Elven Powder
+1139:Potion of Might
+1140:Sweet Potion
+1141:Malodorous Potion
+1187:Umai-bo Snack 1
+1188:Umai-bo Snack 2
+1189:Umai-bo Snack 3
+1190:Umai-bo Snack 4
+1191:Umai-bo Snack 5
+1192:Umai-bo Snack 6
+1193:Umai-bo Snack 7
+1194:Umai-bo Snack 8
+1195:Umai-bo Snack 9
+1196:Umai-bo Snack 10
+1197:Umai-bo Snack 11
+1198:Umai-bo Snack 12
+1199:Umai-bo Snack 13
+1200:Umai-bo Snack 14
+1210:Chocolate Banana
+1223:Awful Cider
+1336:Creating a Coup
+1337:Uninstall
+1353:Smooth Crystal
+1366:Symbol of the Gods
+1367:Portrait M
+1560:Communicator
+1561:<CN=CHARA_RENA>'s Pendant
+1562:<CN=CHARA_RENA>'s Hairpin
+1563:Treasure Map
+1564:Ancient Text
+1565:Travel Permit
+1566:House Key
+1567:King's Tears
+1568:Silver Chalice
+1569:Metorx
+1570:Armory Contest Badge
+1571:Clarisage
+1572:Dillwhip
+1573:Energy Stone
+1574:ID Card
+1575:Key Card
+1576:<CN=CHARA_CHISATO>'s Card
+1577:Rune Code
+1578:Orb of Wisdom
+1579:Orb of Might
+1580:Orb of Courage
+1581:Orb of Love
+1582:Idol of the Warrior
+1583:Pandora's Box
+1584:Minae Cave Key Card
+1585:LEA Metal
+1586:N.P.I.D.
+1587:Void Matter
+1590:Re-Creation Gem
+1591:Masterwork Rod
+1592:Pangalactic Federation Longsword
+1593:Bunny Race VIP Membership
+1594:Treasure Detector
+1595:Formation Manual "Defense"
+1596:Formation Manual "Training"
+1597:Formation Manual "Aid"
+1598:Formation Manual "Support"
+1599:Formation Manual "Alert"
+1600:Formation Manual "Offense"
+1601:Formation Manual "Flee"
+1602:Green Upgrade Kit
+1603:Megalauncher Kit
+1604:Berserker Ring Kit
+1605:Amulet of Flexibility Kit
+1606:Silver Earring Kit
+1607:Blue Talisman Kit
+1608:Sacrificial Doll Kit
+1609:Storm Ring Kit
+1610:Emerald Ring Kit
+1611:Moonlight Kit
+1612:Mallet Charm Kit
+1613:Star Guard Kit
+1614:Shield of Athena Kit
+1615:Dueling Suit Kit
+1616:Magic Armor Kit
+1617:Witch's Boots Kit
+1624:X Clip Kit
+1625:Forest Knuckles
+1626:Veda Idol Kit
+1627:Angel Statuette Kit
+1628:Experience Card Kit
+1629:Starry Night Kit
+1635:Shrimp
+1636:Castle Gate Carp
+1637:Krosse Carp
+1638:Otiph Carp
+1639:Swift Trout
+1640:Traveling Salmon
+1641:Harbor Amago
+1642:Wandering Salmon
+1643:Clear Sky Trout
+1644:Mountain Amago
+1645:Divine Char
+1646:Angel Trout
+1647:Whelp Mouth Bass
+1648:Ogre Mouth Bass
+1649:Blue Ghoul
+1650:Rabbit Sunfish
+1651:Star Ruby Eye
+1652:Amber Perch
+1653:Glass Lotus
+1654:Black Lotus
+1655:White Lotus
+1656:Sapphire Lotus
+1657:Pearl Shark
+1658:Dragonfish
+1659:Pixie Mackerel
+1660:Imp Mackerel
+1661:Elurian Urchin
+1662:North Nedian Urchin
+1663:Two-Star Sardine
+1664:Seven-Star Sardine
+1665:Hoffman Sardine
+1666:Crest Shrimp
+1667:Coach Shrimp
+1668:Black Carla
+1669:White Knight Yellowtail
+1670:Lord Amberjack
+1671:Paladin Seriola
+1672:Mercenary Saba
+1673:Magician Saba
+1674:Puny Goby
+1675:Bunny Goby
+1676:Rabbit Goby
+1677:Quiver Amago
+1678:Krosse Eel
+1679:White Sands Viper
+1680:Gross Eel
+1681:Desert Dab
+1682:Black Knight Dab
+1683:King Dab
+1684:Jotnar Fin
+1685:Witch Saba
+1686:Jailor Mackerel
+1687:Spring Child
+1688:Picnic Bream
+1689:Banquet Bream
+1690:Lacuer Marlin
+1691:Harley Marlin
+1692:Hilton Marlin
+1693:Junior Tuna
+1694:Color Tuna
+1695:Silverpatch Tuna
+1696:Hoffman Shark
+1697:Snow Gator
+1698:Giant Black Tuna
+1699:Pick Again
+1700:Fishy Fragrance
+1704:Chameleon Rod
+1705:Miracle Puncher
+1706:Soul Helmet
+1707:Soul Jacket
+1708:Soul Shield
+1709:Colorless Scarf
+1710:Symbol of Antiquity
+1711:Ring of the Deep King
+1712:Winged Bracelet
+1713:Symbol of Divinity
+1714:Phase Unit
+1715:Scarlet Medal
+1716:Counterfeit Seal Case
+1717:Angler's Plaque - Red
+1718:Angler's Plaque - Blue
+1719:AA Device
+1720:Relax Perfume
+1721:Planeteer
+1722:Love Force
+1723:Volticry
+1724:Souen & Guren
+1725:Heart of Hearts
+1726:Roaring Burst Puncher
+1727:Fourth Book of Occult Philosophy
+1728:Hachimentei
+1729:AAM Clip
+1730:Glorious Thorn
+1731:Natural Vice
+1732:Variable Volt
+1733:Gutsy Handy Stick
+1734:Roddick Jewel
+1735:Fayt Jewel
+1736:Edge Jewel
+1737:Fidel Jewel
+1738:Raymond Jewel
+1739:Laeticia Jewel
+1741:Formation Manual "Wealth"
+1742:Formation Manual "Wisdom"
+1743:Formation Manual "Healing"
+1744:Formation Manual "Rage"
+1745:Formation Manual "Unyielding"
+1746:Factor Energy
+1747:Angler's Plaque - White
+1748:Tokuirokkaku
+1749:Father of the Deep Sea
+1750:Secret Manual "Change"
+1751:Secret Manual "Break"
+1752:Secret Manual "Weight"
+1753:Secret Manual "Preserve"
+1754:Secret Manual "Pierce"
+1755:Secret Manual "Augment"
+1756:Locket
+1757:Errand Gold
+1758:Break Booster
+1759:Mixed Berries
+1760:Resurrection Potion
+1761:Sunrise Ring

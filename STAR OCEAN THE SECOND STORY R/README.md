@@ -30,6 +30,9 @@
   │  └─ Enemy Damage Multiplier (2x)
   ├─ After Battle Screen (Rewards)/*
   │  ├─ Item Drop Rate 100%
+  │  ├─ Force Item Drop (MUST CHANGE VALUE BEFORE USE)
+  │  │  ** For list of ID's please go to the link below. ** 
+  │  │  ** https://docs.google.com/spreadsheets/d/e/2PACX-1vR6nJwa3c8gu5rorxjlSVBkiRTtgdJMxpH81DvTMxbN5_hTNt1sk4A5PWoqRaKomCZvTlKQc3S_JlYe/pubhtml# ** 
   │  ├─ FOL Multiplier (2x) ★
   │  ├─ FOL Multiplier (4x)
   │  ├─ FOL Multiplier (8x)

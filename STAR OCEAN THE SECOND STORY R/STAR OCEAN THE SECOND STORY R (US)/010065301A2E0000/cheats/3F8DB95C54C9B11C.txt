@@ -224,7 +224,7 @@ A8DB1500 05C90A00
 [♯24c BP Multiplier (8x)]
 040E0000 022AE7F4 0B080D48
 
-[--SectionStart:After Battle Screen (Rewards)--]
+[--SectionEnd:After Battle Screen (Rewards)--]
 00000000 00000000 00000000
 
 [--SectionStart:Improve--]

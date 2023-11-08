@@ -42,9 +42,8 @@
   │  ├─ SP Multiplier (8x)
   │  ├─ BP Multiplier (2x) ★
   │  ├─ BP Multiplier (4x)
-  │  ├─ BP Multiplier (8x)
-  │  ├─ After Battle Screen (Rewards)/*
-  │  ├─ Improve/*
+  │  └─ BP Multiplier (8x)
+  ├─ Improve/*
   │  ├─ Unl. BP
   │  └─ Unl. SP
   ├─ Inventory & IC - Specialty Related/*

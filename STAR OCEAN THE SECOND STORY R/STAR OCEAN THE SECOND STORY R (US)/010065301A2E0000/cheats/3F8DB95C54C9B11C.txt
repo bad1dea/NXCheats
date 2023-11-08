@@ -265,7 +265,7 @@ A8DB1500 05C90A00
 [--SectionEnd:Misc--]
 00000000 00000000 00000000
 
-[--SectionStart:Party Manager--]
+[--SectionStart:Party Manager (Use One At A Time)--]
 00000000 00000000 00000000
 
 [ツ This May Break Game Progression ツ]
@@ -390,7 +390,7 @@ A8DB1500 05C90A00
 040E0000 01C9A3C0 143DFED8
 20000000
 
-[--SectionEnd:Party Manager--]
+[--SectionEnd:Party Manager (Use One At A Time)--]
 00000000 00000000 00000000
 
 [- khuong ツ -]

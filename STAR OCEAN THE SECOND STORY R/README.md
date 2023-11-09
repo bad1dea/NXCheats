@@ -50,11 +50,14 @@
   │  ├─ Unl. BP
   │  └─ Unl. SP
   ├─ Inventory & IC - Specialty Related/*
+  │  ├─ No Item Loss (On)
+  │  ├─ No Item Loss (Off)
   │  ├─ Always Discovering Talent
-  │  ├─ No Item Loss
-  │  └─ Always 100% Success Rate
-  ├─ Misc/*
-  │  └─ Can FF Through Regular NPC Conversations
+  │  ├─ Always 100% Success Rate
+  │  ├─ Easier Fishing ()
+  │  ├─ Inf. Fish Hooked Timer (Won't Swim Away)
+  │  ├─ Always King Sized Fish!
+  │  └─ Always Produce Rare Factor
   ├─ Party Manager (Use One At A Time)/*
   │  │  ** This May Break Game Progression ** 
   │  ├─ Add Rena to Party (L3+R3)
@@ -69,4 +72,7 @@
   │  ├─ Add Noel to Party (L3+R3)
   │  ├─ Add Chisato to Party (L3+R3)
   │  └─ Add Welch to Party (L3+R3)
+  ├─ Misc/*
+  │  ├─ Save Game Anywhere
+  │  └─ Can FF Through Regular NPC Conversations
   └─ khuong (ツ)```

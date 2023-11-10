@@ -1,0 +1,2 @@
+[♯10i Auto Battle Speed Multiplier (5x)]
+040E0000 01CAB660 1E229000

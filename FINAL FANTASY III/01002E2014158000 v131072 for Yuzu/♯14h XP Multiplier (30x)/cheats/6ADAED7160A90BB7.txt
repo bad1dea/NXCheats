@@ -1,0 +1,2 @@
+[♯14h XP Multiplier (30x)]
+040E0000 01DA46FC 1E27D000

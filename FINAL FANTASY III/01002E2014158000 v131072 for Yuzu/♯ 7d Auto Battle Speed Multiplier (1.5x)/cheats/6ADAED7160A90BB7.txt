@@ -1,0 +1,2 @@
+[♯ 7d Auto Battle Speed Multiplier (1.5x)]
+040E0000 01B6F1A4 1E2F1000

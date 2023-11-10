@@ -1,0 +1,2 @@
+[♯19f Gil Multiplier (8x)]
+040E0000 01F1BC80 1E241000

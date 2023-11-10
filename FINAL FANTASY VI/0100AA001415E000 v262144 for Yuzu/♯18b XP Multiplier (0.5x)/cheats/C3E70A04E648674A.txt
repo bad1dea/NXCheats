@@ -1,0 +1,2 @@
+[♯18b XP Multiplier (0.5x)]
+040E0000 01F1BBF0 1E2C1000

@@ -1,0 +1,2 @@
+[♯ 8i Auto Battle Speed Multiplier (5x)]
+040E0000 01A1E944 1E229000

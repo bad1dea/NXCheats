@@ -1,0 +1,2 @@
+[♯15f Magic Skill Level Multiplier (8x)]
+040E0000 01EED36C 1E241000

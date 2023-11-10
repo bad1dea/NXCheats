@@ -1,0 +1,2 @@
+[♯12. Unlock All Abilities (View Abilities)]
+040E0000 01964D28 52800C80

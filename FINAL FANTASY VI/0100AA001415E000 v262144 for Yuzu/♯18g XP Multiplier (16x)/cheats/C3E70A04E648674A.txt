@@ -1,0 +1,2 @@
+[♯18g XP Multiplier (16x)]
+040E0000 01F1BBF0 1E261000

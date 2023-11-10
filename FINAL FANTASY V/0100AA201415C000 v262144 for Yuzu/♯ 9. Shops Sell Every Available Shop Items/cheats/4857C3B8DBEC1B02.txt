@@ -1,0 +1,2 @@
+[♯ 9. Shops Sell Every Available Shop Items]
+040E0000 01C16CF8 52800020

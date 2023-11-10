@@ -1,0 +1,2 @@
+[♯16h Atribute Multiplier (30x)]
+040E0000 01EED2EC 1E27D000

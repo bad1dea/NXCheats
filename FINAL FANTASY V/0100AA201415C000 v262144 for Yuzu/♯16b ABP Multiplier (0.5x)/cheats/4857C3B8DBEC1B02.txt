@@ -1,0 +1,2 @@
+[♯16b ABP Multiplier (0.5x)]
+040E0000 01BF94F0 1E2C1000

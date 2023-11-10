@@ -1,0 +1,2 @@
+[♯14f Weapon Skill Level Multiplier (8x)]
+040E0000 01EED16C 1E241000

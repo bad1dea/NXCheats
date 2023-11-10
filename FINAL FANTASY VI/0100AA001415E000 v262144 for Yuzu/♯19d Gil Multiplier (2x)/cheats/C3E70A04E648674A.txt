@@ -1,0 +1,2 @@
+[♯19d Gil Multiplier (2x)]
+040E0000 01F1BC80 1E201000

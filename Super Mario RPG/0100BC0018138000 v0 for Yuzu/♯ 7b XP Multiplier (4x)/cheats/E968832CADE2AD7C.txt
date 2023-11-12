@@ -1,0 +1,2 @@
+[♯ 7b XP Multiplier (4x)]
+040E0000 01C19A1C 0B010908

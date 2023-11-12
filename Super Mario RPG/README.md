@@ -4,6 +4,9 @@
   ├─ Inf. HP
   ├─ Inf. MP (Flower Power)
   ├─ Inf. Item Usage
+  ├─ Always Succeed At Running Away
+  ├─ 100% Item Drop Rate
+  ├─ Bonus Flower Always Drops
   ├─ XP Multiplier (2x) ★
   ├─ XP Multiplier (4x)
   ├─ XP Multiplier (8x)
@@ -11,7 +14,11 @@
   ├─ Coin Multiplier (4x)
   ├─ Coin Multiplier (8x)
   ├─ Frog Coin Multiplier (2x) ★
-  ├─ FrogCoin Multiplier (4x)
+  ├─ Frog Coin Multiplier (4x)
   ├─ Frog Coin Multiplier (8x)
   ├─ Free Purchases (Coins & Frog Coins)
-  └─ khuong (ツ)```
+  ├─ Movement Speed Multiplier
+  ├─ Jump Height Multiplier
+  ├─ Midas River - No Fish Hit(s)
+  └─ khuong (ツ)
+```

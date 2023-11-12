@@ -19,6 +19,8 @@
   ├─ Free Purchases (Coins & Frog Coins)
   ├─ Movement Speed Multiplier
   ├─ Jump Height Multiplier
+  ├─ Ignore Encounter Trigger (On)
+  ├─ Ignore Encounter Trigger (Off)
   ├─ Midas River - No Fish Hit(s)
   └─ khuong (ツ)
 ```

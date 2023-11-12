@@ -75,5 +75,4 @@
   ├─ Misc/*
   │  ├─ Save Game Anywhere
   │  └─ Can FF Through Regular NPC Conversations
-  ├─ Block Test
   └─ khuong (ツ)```

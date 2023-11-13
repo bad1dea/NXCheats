@@ -1,2 +1,0 @@
-[♯ 8b Coin Multiplier (4x)]
-040E0000 0188AF3C 0B010929

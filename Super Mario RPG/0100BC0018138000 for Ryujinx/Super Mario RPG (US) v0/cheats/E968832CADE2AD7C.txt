@@ -9,66 +9,75 @@
 [♯ 3. Inf. Item Usage]
 040E0000 01A0F408 4B1F0129
 
-[♯ 4. Always Succeed At Running Away]
+[♯ 4. 999 Chain (After Successful Chain)]
+040E0000 018877DC 1A88C028
+
+[♯ 5. Action Guage Always Full]
+040E0000 01887848 1A8AB149
+
+[♯ 6. Always Succeed At Running Away]
 040E0000 02200194 1A881108
 
-[♯ 5. 100% Item Drop Rate]
+[♯ 7. 100% Item Drop Rate]
 080E0000 02323FF8 17FA688C 52800C68
 080E0000 02323FF0 34000057 14000003
 080E0000 02323FE8 52800B48 34000076
 080E0000 02323FE0 294C5EB6 B9401FA8
 040E0000 021BE228 1405976E
 
-[♯ 6. Bonus Flower Always Drops]
+[♯ 8. Bonus Flower Always Drops]
 040E0000 021BEAB4 D503201F
 
-[♯ 7a XP Multiplier (2x) ★]
+[♯ 9a XP Multiplier (2x) ★]
 040E0000 01C19A1C 0B010508
 
-[♯ 7b XP Multiplier (4x)]
+[♯ 9b XP Multiplier (4x)]
 040E0000 01C19A1C 0B010908
 
-[♯ 7c XP Multiplier (8x)]
+[♯ 9c XP Multiplier (8x)]
 040E0000 01C19A1C 0B010D08
 
-[♯ 8a Coin Multiplier (2x) ★]
+[♯10a Coin Multiplier (1x) ★]
 040E0000 0188AF3C 0B010529
+040E0000 01E21E88 0B1607E2
 
-[♯ 8b Coin Multiplier (4x)]
+[♯10b Coin Multiplier (2x)]
 040E0000 0188AF3C 0B010929
+040E0000 01E21E88 0B160BE2
 
-[♯ 8c Coin Multiplier (8x)]
+[♯10c Coin Multiplier (8x)]
 040E0000 0188AF3C 0B010D29
+040E0000 01E21E88 0B160FE2
 
-[♯ 9a Frog Coin Multiplier (2x) ★]
+[♯11a Frog Coin Multiplier (%dx) ★]
 040E0000 0188B13C 0B010529
 
-[♯ 9b Frog Coin Multiplier (4x)]
+[♯11b Frog Coin Multiplier (%dx)]
 040E0000 0188B13C 0B010929
 
-[♯ 9c Frog Coin Multiplier (8x)]
+[♯11c Frog Coin Multiplier (%dx)]
 040E0000 0188B13C 0B010D29
 
-[♯10. Free Purchases (Coins & Frog Coins)]
+[♯12. Free Purchases (Coins & Frog Coins)]
 040E0000 0188AEEC 4B1F012A
 040E0000 02103B6C 4B1F03E1
 
-[♯11. Movement Speed Multiplier]
+[♯13. Movement Speed Multiplier]
 080E0000 02323FD8 17F9C74D 1E2109AD
 080E0000 02323FD0 1E21098C 1E2F9001
 040E0000 02323FCC B900EE7F
 040E0000 02195D0C 140638B0
 
-[♯12. Jump Height Multiplier]
+[♯14. Jump Height Multiplier]
 080E0000 02323FC4 17F9C750 1E2109EF
 080E0000 02323FBC 1E201001 1E2E090F
 040E0000 02195D04 140638AE
 
-[♯13. Ignore Encounter Trigger (On)]
+[♯15. Ignore Encounter Trigger (On)]
 040E0000 01B29BB0 D503201F
 
-[♯14. Ignore Encounter Trigger (Off)]
+[♯16. Ignore Encounter Trigger (Off)]
 040E0000 01B29BB0 36000194
 
-[♯15. Midas River - No Fish Hit(s)]
+[♯17. Midas River - No Fish Hit(s)]
 040E0000 01F6F21C D503201F

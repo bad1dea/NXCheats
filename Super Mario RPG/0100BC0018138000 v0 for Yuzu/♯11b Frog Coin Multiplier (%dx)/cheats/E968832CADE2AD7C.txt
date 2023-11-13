@@ -1,0 +1,2 @@
+[♯11b Frog Coin Multiplier (%dx)]
+040E0000 0188B13C 0B010929

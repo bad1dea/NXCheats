@@ -3,6 +3,7 @@
 ./khuong/0100F7E00C70E000/550F2E8B387B4520/*
   │  ** All ASM Code Caves May Be Buggy - Save Often ** 
   ├─ Inf. Health (No Incoming Damage)
+  ├─ Inf. Ancient Magic
   ├─ No Fall Damage
   ├─ Movement Speed (x2)
   ├─ Player Speed (x1.5)

@@ -13,6 +13,7 @@
   ├─ Stealth Mode (L3 = On | R3 = Off)
   ├─ Instant Grow Plants (Use Before Planting)
   ├─ Instant Brew Potions
+  ├─ Inf. Talent Points
   ├─ Free Shopping
   ├─ Slow AI (Half Speed)
   ├─ Damage Multiplier (x1.5)

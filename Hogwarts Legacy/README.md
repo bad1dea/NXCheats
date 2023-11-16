@@ -4,6 +4,7 @@
   │  ** All ASM Code Caves May Be Buggy - Save Often ** 
   ├─ Inf. Health (No Incoming Damage)
   ├─ Inf. Ancient Magic
+  ├─ No Spell Cooldown
   ├─ No Fall Damage
   ├─ Movement Speed (x2)
   ├─ Player Speed (x1.5)
@@ -12,6 +13,7 @@
   ├─ Stealth Mode (L3 = On | R3 = Off)
   ├─ Instant Grow Plants (Use Before Planting)
   ├─ Instant Brew Potions
+  ├─ Free Shopping
   ├─ Slow AI (Half Speed)
   ├─ Damage Multiplier (x1.5)
   ├─ Damage Multiplier (x2)

@@ -4,20 +4,23 @@
   ├─ Inf. HP
   ├─ Inf. MP (Flower Power)
   ├─ Inf. Item Usage
-  ├─ 999 Chain (After Successful Chain)
+  ├─ 100% Hit Chance
+  ├─ Attack Action Commands Always Proc (Lucky Star)
   ├─ Action Guage Always Full
+  ├─ 999 Chain (After Successful Chain)
   ├─ Always Succeed At Running Away
   ├─ 100% Item Drop Rate
+  ├─ Jump Counter Multiplier (x8)
   ├─ Bonus Flower Always Drops
   ├─ XP Multiplier (2x) ★
   ├─ XP Multiplier (4x)
   ├─ XP Multiplier (8x)
-  ├─ Coin Multiplier (1x) ★
-  ├─ Coin Multiplier (2x)
+  ├─ Coin Multiplier (2x) ★
+  ├─ Coin Multiplier (4x)
   ├─ Coin Multiplier (8x)
-  ├─ Frog Coin Multiplier (%dx) ★
-  ├─ Frog Coin Multiplier (%dx)
-  ├─ Frog Coin Multiplier (%dx)
+  ├─ Frog Coin Multiplier (2x) ★
+  ├─ Frog Coin Multiplier (4x)
+  ├─ Frog Coin Multiplier (8x)
   ├─ Free Purchases (Coins & Frog Coins)
   ├─ Movement Speed Multiplier
   ├─ Jump Height Multiplier

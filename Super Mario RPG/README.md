@@ -10,7 +10,7 @@
   ├─ 999 Chain (After Successful Chain)
   ├─ Always Succeed At Running Away
   ├─ 100% Item Drop Rate
-  ├─ All Items (Check Storage Box)
+  ├─ All Normal Items (Check Storage Box)
   ├─ Jump Counter Multiplier (x8)
   ├─ Bonus Flower Always Drops
   ├─ XP Multiplier (2x) ★

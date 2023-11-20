@@ -9,7 +9,8 @@
   ├─ Action Guage Always Full
   ├─ 999 Chain (After Successful Chain)
   ├─ Always Succeed At Running Away
-  ├─ 100% Item Drop Rate
+  ├─ 100% Item Drop Rate (Normal Drop Only)
+  ├─ 100% Item Drop Rate (Prefer Rare Item Drop)
   ├─ All Normal Items (Check Storage Box)
   ├─ Jump Counter Multiplier (x8)
   ├─ Bonus Flower Always Drops
@@ -27,6 +28,9 @@
   ├─ Jump Height Multiplier
   ├─ Ignore Encounter Trigger (On)
   ├─ Ignore Encounter Trigger (Off)
+  ├─ 2x Reward for Egg Shuffle Game
   ├─ Midas River - No Fish Hit(s)
+  ├─ Auto Yoshi Race
+  ├─ Goomba Thumping High Score
   └─ khuong (ツ)
 ```

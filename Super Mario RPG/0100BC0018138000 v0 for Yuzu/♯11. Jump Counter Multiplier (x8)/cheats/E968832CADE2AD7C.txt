@@ -1,2 +1,0 @@
-[♯11. Jump Counter Multiplier (x8)]
-040E0000 021F4A94 0B140D08

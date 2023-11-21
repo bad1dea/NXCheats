@@ -32,9 +32,10 @@
   ├─ Midas River - No Fish Hit(s)
   ├─ Auto Yoshi Race
   ├─ Goomba Thumping High Score
-  ├─ Force Item Drop (Edit Value - Currently Set to Flower Box)
+  ├─ Force Item Drop (EDIT THIS - Must use with 100% Drop Rate)
   │  ** Please go to the link below for the values to use ** 
   │  ** https://docs.google.com/spreadsheets/d/e/2PACX-1vRbw5pNbLt_aTgJGIZ8Ti1TAnw8aBIa1teZPr8sSyfu_oLQcvluR8R28Cko8R0pcvkMEZWzY-BHpQQV/pubhtml ** 
   ├─ Force Item Drop (OFF)
+  ├─ Set All Owned Items Qty. to 10 (Use or Buy-Sell Item to Refresh Items After)
   └─ khuong (ツ)
 ```

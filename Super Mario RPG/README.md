@@ -36,6 +36,6 @@
   │  ** Please go to the link below for the values to use ** 
   │  ** https://docs.google.com/spreadsheets/d/e/2PACX-1vRbw5pNbLt_aTgJGIZ8Ti1TAnw8aBIa1teZPr8sSyfu_oLQcvluR8R28Cko8R0pcvkMEZWzY-BHpQQV/pubhtml ** 
   ├─ Force Item Drop (OFF)
-  ├─ Set All Owned Items Qty. to 10 (Use or Buy-Sell Item to Refresh Items After)
+  ├─ Add 1 of Every Single Item (After Buying Anything)
   └─ khuong (ツ)
 ```

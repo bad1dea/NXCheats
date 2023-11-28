@@ -1,0 +1,2 @@
+[♯15a XP Multiplier (2x) ★]
+040E0000 01E21E80 0B1507E1

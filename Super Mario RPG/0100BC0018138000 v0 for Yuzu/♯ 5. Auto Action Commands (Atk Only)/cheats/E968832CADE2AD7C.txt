@@ -1,0 +1,2 @@
+[♯ 5. Auto Action Commands (Atk Only)]
+040E0000 01887620 52800028

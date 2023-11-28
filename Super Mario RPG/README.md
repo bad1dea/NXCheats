@@ -1,28 +1,37 @@
-```graphql
+
+<p align="center">
+  <img src="_assets/banner.jpg" width="900" alt="logo"  style="border-radius:50%"/>
+</p>
+    ```graphql
 # Super Mario RPG (US) (v0)
 ./khuong/0100BC0018138000/E968832CADE2AD7C/*
   ├─ Inf. HP
   ├─ Inf. MP (Flower Power)
   ├─ Inf. Item Usage
   ├─ 100% Hit Chance
-  ├─ Attack Action Commands Always Proc (Lucky Star)
+  ├─ Auto Action Commands (Atk Only)
+  ├─ Auto Action Commands (Atk and Def)
   ├─ Action Guage Always Full
   ├─ 999 Chain (After Successful Chain)
   ├─ Always Succeed At Running Away
   ├─ 100% Item Drop Rate (Normal Drop Only)
   ├─ 100% Item Drop Rate (Prefer Rare Item Drop)
-  ├─ All Normal Items (Check Storage Box)
-  ├─ Jump Counter Multiplier (x8)
+  ├─ Always Perfect Super & Ultra Jumps (Hold ZR to Stop Jumping)
   ├─ Bonus Flower Always Drops
+  ├─ Always Special Enem(y-ies)
   ├─ XP Multiplier (2x) ★
   ├─ XP Multiplier (4x)
   ├─ XP Multiplier (8x)
+  ├─ XP Multiplier (9x)
   ├─ Coin Multiplier (2x) ★
   ├─ Coin Multiplier (4x)
   ├─ Coin Multiplier (8x)
+  ├─ Coin Multiplier (9x)
   ├─ Frog Coin Multiplier (2x) ★
   ├─ Frog Coin Multiplier (4x)
   ├─ Frog Coin Multiplier (8x)
+  ├─ Frog Coin Multiplier (9x)
+  ├─ All Items Cost 0 Coins
   ├─ Free Purchases (Coins & Frog Coins)
   ├─ Movement Speed Multiplier
   ├─ Jump Height Multiplier
@@ -32,10 +41,13 @@
   ├─ Midas River - No Fish Hit(s)
   ├─ Auto Yoshi Race
   ├─ Goomba Thumping High Score
+  ├─ Add 1 of Every Single Item (After Buying Anything)
+  │  ** This also includes key items, which may or may not cause issues with game progression. ** 
+  ├─ All Consumable Items (Check Storage Box)
   ├─ Force Item Drop (EDIT THIS - Must use with 100% Drop Rate)
   │  ** Please go to the link below for the values to use ** 
   │  ** https://docs.google.com/spreadsheets/d/e/2PACX-1vRbw5pNbLt_aTgJGIZ8Ti1TAnw8aBIa1teZPr8sSyfu_oLQcvluR8R28Cko8R0pcvkMEZWzY-BHpQQV/pubhtml ** 
   ├─ Force Item Drop (OFF)
-  ├─ Add 1 of Every Single Item (After Buying Anything)
+  ├─ Have (5) of All Shared Gear (Use Any Item After)
   └─ khuong (ツ)
 ```

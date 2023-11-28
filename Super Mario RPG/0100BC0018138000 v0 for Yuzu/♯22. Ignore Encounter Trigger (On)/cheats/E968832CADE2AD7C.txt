@@ -1,0 +1,2 @@
+[♯22. Ignore Encounter Trigger (On)]
+040E0000 01B29BB0 D503201F

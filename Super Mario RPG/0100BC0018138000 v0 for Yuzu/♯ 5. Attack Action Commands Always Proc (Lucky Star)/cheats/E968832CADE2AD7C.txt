@@ -1,2 +1,0 @@
-[♯ 5. Attack Action Commands Always Proc (Lucky Star)]
-040E0000 01887620 52800028

@@ -1,0 +1,2 @@
+[♯15c XP Multiplier (8x)]
+040E0000 01E21E80 0B150FE1

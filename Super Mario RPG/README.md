@@ -1,6 +1,9 @@
-
+  &nbsp;<br/>
+  &nbsp;<br/>
 <p align="center">
-  <img src="_assets/banner.jpg" width="900" alt="logo"  style="border-radius:50%"/>
+
+  
+  <img src="_assets/banner.jpg" width="300" alt="logo" align="left"/>
 </p>
 
 ```graphql

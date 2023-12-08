@@ -1,34 +1,37 @@
-# No Man's Sky (US)
-0100853015E86000 (DA7D68D91AB5FA3C)
 
-## Cheat List
-1. OHK
-1. Tons of Units, Nanites, Quicksilver
-1. Inf. Shields
-1. Inf. Health Cores
-1. Inf. Jetpack
-1. Inf. Hazard Protection
-1. Inf. Life Support
-1. Inf. Stamina
-1. Inf. Ship Shields
-1. Inf. Ship Life
-1. No Ship Weapon Overheat
-1. Instant Analysis Scan
-1. Instant Scanner Recharge
-1. No Tool Overheat
-1. Inf. Items (Max All Stacks + Recharge All Equipment)
-1. Crafting Does Not Consume Items
-1. Money Multiplier (2x)
-1. Money Multiplier (4x)
-1. Money Multiplier (8x)
-1. Item Multiplier (2x)
-1. Item Multiplier (4x)
-1. Item Multiplier (8x)
-1. Faster Walk/Sprint Speed
-1. Normal Walk/Sprint Speed
-1. Faster Jetpack Movement Speed
-1. Fast and Furious Jetpack
-1. Normal Jetpack
+<p align="center">
+  <img src="_assets/banner.jpg" width="900" alt="logo"  style="border-radius:50%"/>
+</p>
 
-## Changelog
-[View here](./CHANGELOG.md)
+```graphql
+# No Man's Sky (US) (v1835008)
+./khuong/0100853015E86000/DC7FB7F73A2B5F0F/*
+  ├─ OHK
+  ├─ Tons of Units, Nanites, Quicksilver
+  ├─ Inf. Shields
+  ├─ Inf. Health Cores
+  ├─ Inf. Jetpack
+  ├─ Inf. Hazard Protection
+  ├─ Inf. Life Support
+  ├─ Inf. Stamina
+  ├─ Inf. Ship Shields
+  ├─ Inf. Ship Life
+  ├─ No Ship Weapon Overheat
+  ├─ Instant Analysis Scan
+  ├─ Instant Scanner Recharge
+  ├─ No Tool Overheat
+  ├─ Inf. Items (Max All Stacks + Recharge All Equipment)
+  ├─ Crafting Does Not Consume Items
+  ├─ Money Multiplier (2x)
+  ├─ Money Multiplier (4x)
+  ├─ Money Multiplier (8x)
+  ├─ Item Multiplier (2x)
+  ├─ Item Multiplier (4x)
+  ├─ Item Multiplier (8x)
+  ├─ Faster Walk/Sprint Speed
+  ├─ Normal Walk/Sprint Speed
+  ├─ Faster Jetpack Movement Speed
+  ├─ Fast and Furious Jetpack
+  ├─ Normal Jetpack
+  └─ khuong (ツ)
+```

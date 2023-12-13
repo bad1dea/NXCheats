@@ -1,0 +1,2 @@
+[♯27. Goomba Thumping High Score]
+040E0000 020B2664 52800033

@@ -1,14 +1,11 @@
-  &nbsp;<br/>
-  &nbsp;<br/>
-<p align="center">
 
-  
-  <img src="_assets/banner.jpg" width="300" alt="logo" align="left"/>
+<p align="center">
+  <img src="_assets/banner.jpg" width="900" alt="logo"  style="border-radius:50%"/>
 </p>
 
 ```graphql
-# Super Mario RPG (US) (v0)
-./khuong/0100BC0018138000/E968832CADE2AD7C/*
+# Super Mario RPG (US) (v65536)
+./khuong/0100BC0018138000/97F9664CFB272154/*
   ├─ Inf. HP
   ├─ Inf. MP (Flower Power)
   ├─ Inf. Item Usage

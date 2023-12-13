@@ -1,6 +1,11 @@
+
+<p align="center">
+  <img src="_assets/banner.jpg" width="900" alt="logo"  style="border-radius:50%"/>
+</p>
+
 ```graphql
-# Hogwarts Legacy (US) (v65536)
-./khuong/0100F7E00C70E000/550F2E8B387B4520/*
+# Hogwarts Legacy (US) (v131072)
+./khuong/0100F7E00C70E000/F1AE192C465BD920/*
   │  ** All ASM Code Caves May Be Buggy - Save Often ** 
   ├─ Inf. Health (No Incoming Damage)
   ├─ Inf. Ancient Magic

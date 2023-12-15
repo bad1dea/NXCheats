@@ -1,0 +1,2 @@
+[♯16. Assault Points Always Max]
+040E0000 01DF010C 1E214C20

@@ -1,6 +1,11 @@
+
+<p align="center">
+  <img src="_assets/banner.jpg" width="900" alt="logo"  style="border-radius:50%"/>
+</p>
+
 ```graphql
-# STAR OCEAN THE SECOND STORY R (US) (v65536)
-./khuong/010065301A2E0000/3F8DB95C54C9B11C/*
+# STAR OCEAN THE SECOND STORY R (US) (v131072)
+./khuong/010065301A2E0000/7266AEB08847B0FA/*
   ├─ Field/*
   │  ├─ Can Reopen Treasure Chests (Reload Area)
   │  ├─ Move Speed Multiplier (2x) ★
@@ -75,4 +80,6 @@
   ├─ Misc/*
   │  ├─ Save Game Anywhere
   │  └─ Can FF Through Regular NPC Conversations
-  └─ khuong (ツ)```
+  ├─ Block Test
+  └─ khuong (ツ)
+```

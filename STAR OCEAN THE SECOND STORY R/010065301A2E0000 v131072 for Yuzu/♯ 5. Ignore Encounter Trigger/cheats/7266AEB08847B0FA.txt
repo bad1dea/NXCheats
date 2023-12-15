@@ -1,0 +1,2 @@
+[♯ 5. Ignore Encounter Trigger]
+080E0000 01D383A0 D65F03C0 52800000

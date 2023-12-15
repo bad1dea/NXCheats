@@ -1,0 +1,2 @@
+[♯18c Party Damage Multiplier (10x)]
+040E0000 02C1AFFC 0000000A

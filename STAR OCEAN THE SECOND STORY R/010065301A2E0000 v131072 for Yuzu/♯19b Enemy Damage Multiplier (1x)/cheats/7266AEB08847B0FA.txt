@@ -1,0 +1,2 @@
+[♯19b Enemy Damage Multiplier (1x)]
+040E0000 02C1AFF8 00000005

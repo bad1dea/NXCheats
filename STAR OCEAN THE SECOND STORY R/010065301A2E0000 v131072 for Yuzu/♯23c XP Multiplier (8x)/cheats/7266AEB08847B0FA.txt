@@ -1,0 +1,2 @@
+[♯23c XP Multiplier (8x)]
+040E0000 022ADD5C 0B090EE9

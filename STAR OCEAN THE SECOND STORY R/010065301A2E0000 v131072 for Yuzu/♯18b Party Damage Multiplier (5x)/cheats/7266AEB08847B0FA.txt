@@ -1,0 +1,2 @@
+[♯18b Party Damage Multiplier (5x)]
+040E0000 02C1AFFC 00000005

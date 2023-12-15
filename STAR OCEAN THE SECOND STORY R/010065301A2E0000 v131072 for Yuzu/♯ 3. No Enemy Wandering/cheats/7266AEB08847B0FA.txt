@@ -1,0 +1,2 @@
+[♯ 3. No Enemy Wandering]
+040E0000 01D22CDC 1E2703E8

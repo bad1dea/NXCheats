@@ -1,0 +1,2 @@
+[♯11. No Item Use Cooldown]
+040E0000 01F01988 1E2703E8

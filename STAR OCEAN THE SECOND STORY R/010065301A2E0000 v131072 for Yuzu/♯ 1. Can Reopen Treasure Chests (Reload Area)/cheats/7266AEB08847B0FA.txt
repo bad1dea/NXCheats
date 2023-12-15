@@ -1,0 +1,2 @@
+[♯ 1. Can Reopen Treasure Chests (Reload Area)]
+080E0000 0219F350 D65F03C0 52800000

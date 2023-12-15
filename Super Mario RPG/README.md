@@ -8,6 +8,21 @@
 ./khuong/0100BC0018138000/97F9664CFB272154/*
   ├─ Inf. HP
   ├─ Inf. MP (Flower Power)
+  ├─ Player Dmg Multiplier (0.5x)
+  ├─ Player Dmg Multiplier (1x)
+  ├─ Player Dmg Multiplier (1.5x) ★
+  ├─ Player Dmg Multiplier (2.0x)
+  ├─ Player Dmg Multiplier (3.0x)
+  ├─ Player Dmg Multiplier (4.0x)
+  ├─ Player Dmg Multiplier (5.0x)
+  ├─ Enemy Dmg Multiplier (0x)
+  ├─ Enemy Dmg Multiplier (0.5x)
+  ├─ Enemy Dmg Multiplier (1x) ★
+  ├─ Enemy Dmg Multiplier (2.0x)
+  ├─ Enemy Dmg Multiplier (3.0x)
+  ├─ Enemy Dmg Multiplier (4.0x)
+  ├─ Enemy Dmg Multiplier (5.0x)
+  ├─ Enemy Dmg Multiplier (10.0x)
   ├─ Inf. Item Usage
   ├─ 100% Hit Chance
   ├─ Auto Action Commands (Atk Only)

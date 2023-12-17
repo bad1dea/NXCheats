@@ -8,6 +8,9 @@
 ./khuong/0100BC0018138000/97F9664CFB272154/*
   ├─ Inf. HP
   ├─ Inf. MP (Flower Power)
+  ├─ Enemies Are 0% to 50% Stronger (Per Enemy)
+  ├─ Enemies Are 50% to 100% Stronger (Per Enemy)
+  ├─ Enemies Are 100% to 200% Stronger (Per Enemy)
   ├─ Player Dmg Multiplier (0.5x)
   ├─ Player Dmg Multiplier (1x)
   ├─ Player Dmg Multiplier (1.5x) ★

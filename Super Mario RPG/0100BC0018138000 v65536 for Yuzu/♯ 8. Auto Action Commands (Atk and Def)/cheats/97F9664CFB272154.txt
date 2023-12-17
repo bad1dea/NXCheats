@@ -1,2 +1,0 @@
-[♯ 8. Auto Action Commands (Atk and Def)]
-080E0000 01CE1BC0 D65F03C0 52800020

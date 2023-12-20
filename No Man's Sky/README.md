@@ -4,8 +4,8 @@
 </p>
 
 ```graphql
-# No Man's Sky (US) (v1835008)
-./khuong/0100853015E86000/DC7FB7F73A2B5F0F/*
+# No Man's Sky (US) (v1900544)
+./khuong/0100853015E86000/A0C0DD9E26541179/*
   ├─ OHK
   ├─ Tons of Units, Nanites, Quicksilver
   ├─ Inf. Shields

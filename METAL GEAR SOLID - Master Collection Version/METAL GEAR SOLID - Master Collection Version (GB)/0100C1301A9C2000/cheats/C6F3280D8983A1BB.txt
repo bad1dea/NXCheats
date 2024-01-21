@@ -1,4 +1,4 @@
-[METAL GEAR SOLID - Master Collection Version (US) v196608 TID=0100C1301A9C2000 BID=C6F3280D8983A1BB]
+[METAL GEAR SOLID - Master Collection Version (GB) v196608 TID=0100C1301A9C2000 BID=C6F3280D8983A1BB]
 
 {Master Code (includes share functions)}
 080E0000 0062DFF8 17E91C5F 78285922
@@ -412,7 +412,6 @@ C045C400 00000000
 620A01B0 00000000 00000000
 
 [ツ Thanks to GamerJin for the help with this one. ツ]
-20000000
 
 [- khuong ツ -]
 20000000

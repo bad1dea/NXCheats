@@ -30,12 +30,14 @@ Kalanoro is an action-adventure mixing platforming, combat and light management!
 14. Gravity (Low)
 15. Gravity (Moon)
 16. High Jump
-17. Full Air Control
-18. Inf. Elemental Charges
-19. Inf. Lightning Charge
-20. Inf. Weapon Durability
-21. Weapon Damage (99)
-22. Weapon Damage (999)
+17. Moon Jump (hold R3)
+18. Inf. Jumps
+19. Full Air Control
+20. Inf. Elemental Charges
+21. Inf. Lightning Charge
+22. Inf. Weapon Durability
+23. Weapon Damage (99)
+24. Weapon Damage (999)
 
 ## Installing
 

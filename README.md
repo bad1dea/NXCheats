@@ -15,4 +15,4 @@ Older sets, in the previous per-emulator layout, are under
 
 | Game | Title id | Cheats |
 |---|---|---:|
-| [Kalanoro](./0100EB60202C8000%20Kalanoro) | `0100EB60202C8000` | 22 |
+| [Kalanoro](./0100EB60202C8000%20Kalanoro) | `0100EB60202C8000` | 24 |

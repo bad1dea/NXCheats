@@ -20,4 +20,5 @@ Older sets, in the previous per-emulator layout, are under
 | Game | Title id | Cheats |
 |---|---|---:|
 | [Garfield - Escape From Monday](./01000EB0276F2000%20Garfield%20-%20Escape%20From%20Monday) | `01000EB0276F2000` | 22 |
+| [No Man's Sky](./0100853015E86000%20No%20Man's%20Sky) | `0100853015E86000` | 36 |
 | [Kalanoro](./0100EB60202C8000%20Kalanoro) | `0100EB60202C8000` | 24 |

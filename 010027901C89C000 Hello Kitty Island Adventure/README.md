@@ -6,17 +6,17 @@
 # Hello Kitty Island Adventure (GLOBAL) (v1376256)
 ./khuong/010027901C89C000/5134D58C555B8E71/*
   ├─ Free crafting
-  ├─ Infinite stamina
-  ├─ Use any tool
-  ├─ Show unreleased items
-  ├─ Skip celebrations
-  ├─ Skip station animations
-  ├─ NPCs always teleport
-  ├─ Hide dialogue
+  ├─ Furniture recipes need no ingredients
+  ├─ Crafting screen never refuses
   ├─ Free shopping
   ├─ Shop items always affordable
-  ├─ Furniture recipes need no ingredients
-  └─ Crafting screen never refuses
+  ├─ Infinite stamina
+  ├─ Use any tool
+  ├─ Skip celebrations
+  ├─ Skip station animations
+  ├─ Hide dialogue
+  ├─ NPCs always teleport
+  └─ Show unreleased items
 ```
 
 ## Changelog

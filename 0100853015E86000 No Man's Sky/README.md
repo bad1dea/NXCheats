@@ -45,3 +45,8 @@
 
 ## Changelog
 [View here](./CHANGELOG.md)
+
+## Support
+
+Everything here is free and stays free. If you want to leave a tip anyway:
+[ko-fi.com/bad1dea](https://ko-fi.com/bad1dea).

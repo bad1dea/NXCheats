@@ -23,6 +23,7 @@ Older sets, in the previous per-emulator layout, are under
 | [Hello Kitty Island Adventure](./010027901C89C000%20Hello%20Kitty%20Island%20Adventure) | `010027901C89C000` | 12 |
 | [No Man's Sky](./0100853015E86000%20No%20Man's%20Sky) | `0100853015E86000` | 36 |
 | [Kalanoro](./0100EB60202C8000%20Kalanoro) | `0100EB60202C8000` | 24 |
+| [Hogwarts Legacy](./0100F7E00C70E000%20Hogwarts%20Legacy) | `0100F7E00C70E000` | 65 |
 
 ## Support
 

@@ -25,6 +25,8 @@ Older sets, in the previous per-emulator layout, are under
 | [Kalanoro](./0100EB60202C8000%20Kalanoro) | `0100EB60202C8000` | 24 |
 | [Hogwarts Legacy](./0100F7E00C70E000%20Hogwarts%20Legacy) | `0100F7E00C70E000` | 65 |
 
+**5 titles, 159 cheats.**
+
 ## Support
 
 Everything here is free and stays free. If you want to leave a tip anyway:

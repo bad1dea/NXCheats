@@ -22,10 +22,11 @@ Older sets, in the previous per-emulator layout, are under
 | [Garfield - Escape From Monday](./01000EB0276F2000%20Garfield%20-%20Escape%20From%20Monday) | `01000EB0276F2000` | 22 |
 | [Hello Kitty Island Adventure](./010027901C89C000%20Hello%20Kitty%20Island%20Adventure) | `010027901C89C000` | 12 |
 | [No Man's Sky](./0100853015E86000%20No%20Man's%20Sky) | `0100853015E86000` | 36 |
+| [Splatoon™ 3](./0100C2500FC20000%20Splatoon™%203) | `0100C2500FC20000` | 28 |
 | [Kalanoro](./0100EB60202C8000%20Kalanoro) | `0100EB60202C8000` | 24 |
 | [Hogwarts Legacy](./0100F7E00C70E000%20Hogwarts%20Legacy) | `0100F7E00C70E000` | 65 |
 
-**5 titles, 159 cheats.**
+**6 titles, 187 cheats.**
 
 ## Support
 

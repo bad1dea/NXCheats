@@ -2,10 +2,8 @@
   <img src="_assets/banner.jpg" width="900" alt="logo" style="border-radius:50%"/>
 </p>
 
-**This set holds the game offline.** An always-on block makes the game's
-own network check return false, so it behaves as it does with the wifi off.
-Every cheat here is single player. None of them can reach anybody else's game,
-and none of them are meant to.
+**This set keeps the game offline.** Every cheat is meant for single
+player. Don't be lame and ruin other people's fun.
 
 ```graphql
 # Splatoon™ 3 (GLOBAL) (v2752512)

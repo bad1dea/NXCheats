@@ -3,8 +3,8 @@
 </p>
 
 ```graphql
-# No Man's Sky (GLOBAL) (v5111808)
-./khuong/0100853015E86000/27749F7144B46203/*
+# No Man's Sky (GLOBAL) (v5177344)
+./khuong/0100853015E86000/97C71E2471E850BD/*
   ├─ Inf. Shields
   ├─ Inf. Health
   ├─ Inf. Stamina

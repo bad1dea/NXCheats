@@ -11,7 +11,7 @@ The Master Code enables offline play. Restart the game after installing this set
 ./khuong/0100A7C01B792000/9E9D887D59F7F7DB/*
   ├─ God Mode
   ├─ Infinite Emeralds
-  ├─ Infinite Gold
+  ├─ Infinite Echo Shards
   ├─ Infinite Enchantment Points
   ├─ Infinite Arrows
   ├─ Infinite Roll

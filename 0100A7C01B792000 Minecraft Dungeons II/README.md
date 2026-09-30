@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="_assets/banner.jpg" width="900" alt="logo" style="border-radius:50%"/>
+</p>
+
 The Master Code enables offline play. Restart the game after installing this set.
 
 ```graphql

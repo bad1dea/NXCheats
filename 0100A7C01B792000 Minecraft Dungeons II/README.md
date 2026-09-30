@@ -2,6 +2,8 @@
   <img src="_assets/banner.jpg" width="900" alt="logo" style="border-radius:50%"/>
 </p>
 
+Drop the pickaxe, grab a sword, and charge into a thrilling new adventure. Journey through unexplored lands in a quest to stop a new evil from causing chaos in not one, but two worlds.
+
 The Master Code enables offline play. Restart the game after installing this set.
 
 ```graphql

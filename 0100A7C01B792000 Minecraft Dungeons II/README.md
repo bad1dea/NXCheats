@@ -17,12 +17,16 @@ The Master Code enables offline play. Restart the game after installing this set
   ├─ Infinite Roll
   ├─ Infinite Souls
   ├─ Infinite Throwables
+  ├─ Infinite Potions
+  ├─ Free Merchant Refresh
   ├─ No Artifact Cooldown
   ├─ No Potion Cooldown
   ├─ Damage x10
   ├─ One Hit Kill
   ├─ Always Critical Hit
   ├─ Max Drop Chance
+  ├─ Better Item Quality
+  ├─ Double Drops
   ├─ XP x5
   ├─ Move Speed x2
   └─ Super Jump

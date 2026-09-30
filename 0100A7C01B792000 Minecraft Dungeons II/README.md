@@ -2,7 +2,7 @@
   <img src="_assets/banner.jpg" width="900" alt="logo" style="border-radius:50%"/>
 </p>
 
-Drop the pickaxe, grab a sword, and charge into a thrilling new adventure. Journey through unexplored lands in a quest to stop a new evil from causing chaos in not one, but two worlds.
+Minecraft Dungeons II is here with more action, more loot, and more adventure. Step through the rift and fight where no hero has been before: the Sift, an uncharted dimension teeming with threats, mysteries, and breathtaking beauty.
 
 The Master Code enables offline play. Restart the game after installing this set.
 

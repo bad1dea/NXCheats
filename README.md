@@ -23,12 +23,12 @@ Older sets, in the previous per-emulator layout, are under
 | [Hello Kitty Island Adventure](./010027901C89C000%20Hello%20Kitty%20Island%20Adventure) | `010027901C89C000` | 12 |
 | [Diablo® II: Resurrected™](./0100726014352000%20Diablo®%20II:%20Resurrected™) | `0100726014352000` | 91 |
 | [No Man's Sky](./0100853015E86000%20No%20Man's%20Sky) | `0100853015E86000` | 36 |
-| [Minecraft Dungeons II](./0100A7C01B792000%20Minecraft%20Dungeons%20II) | `0100A7C01B792000` | 21 |
+| [Minecraft Dungeons II](./0100A7C01B792000%20Minecraft%20Dungeons%20II) | `0100A7C01B792000` | 94 |
 | [Splatoon™ 3](./0100C2500FC20000%20Splatoon™%203) | `0100C2500FC20000` | 28 |
 | [Kalanoro](./0100EB60202C8000%20Kalanoro) | `0100EB60202C8000` | 24 |
 | [Hogwarts Legacy](./0100F7E00C70E000%20Hogwarts%20Legacy) | `0100F7E00C70E000` | 65 |
 
-**8 titles, 299 cheats.**
+**8 titles, 372 cheats.**
 
 ## Support
 

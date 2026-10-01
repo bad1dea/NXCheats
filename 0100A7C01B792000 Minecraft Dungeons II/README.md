@@ -51,7 +51,7 @@ The console cheats (equip gear, levels, revive and so on) run one at a time: tic
   │  ├─ Thorns
   │  ├─ Guarding Strike Always
   │  └─ Soul Gathering x5
-  └─ Console commands, one shot each/*
+  └─ Console commands/*
      ├─ Unlock All Minecart Stations
      ├─ Give 100000 XP
      ├─ Level to 50

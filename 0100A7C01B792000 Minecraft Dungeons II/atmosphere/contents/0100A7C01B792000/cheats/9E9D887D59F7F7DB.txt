@@ -539,7 +539,7 @@ A4100200 000000D0
 A4100200 000000D4
 20000000
 
-[ツ -- Console commands, one shot each -- ツ]
+[ツ -- Console commands -- ツ]
 
 [♯40. Unlock All Minecart Stations]
 14050000 0AFB0A00 00000000

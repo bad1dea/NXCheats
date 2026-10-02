@@ -2,7 +2,9 @@
   <img src="_assets/banner.jpg" width="900" alt="logo" style="border-radius:50%"/>
 </p>
 
-Every cheat starts off. Turn on only what you need, a few at a time. Restart the game after installing.
+Start from Zero in a Tale of Restoration and Retribution
+
+All cheats start off. Restart the game after installing. Untick a cheat to turn it off, no restore code needed. Game Speed and Move Speed stay at the last speed until you pick x1.
 
 ```graphql
 # OCTOPATH TRAVELER 0 (GLOBAL) (v327680)

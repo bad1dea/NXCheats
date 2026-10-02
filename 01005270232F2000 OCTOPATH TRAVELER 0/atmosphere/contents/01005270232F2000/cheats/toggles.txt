@@ -1,0 +1,118 @@
+[OCTOPATH TRAVELER 0 (GLOBAL) v327680 TID=01005270232F2000 BID=9FE60A212CFF9B9A]
+false
+[♯ 1. Infinite HP]
+false
+[♯ 2. Infinite SP]
+false
+[♯ 3. Max BP]
+false
+[♯ 4. Full Ultimate Gauge]
+false
+[♯ 5a Party Stats x2]
+false
+[♯ 5b Party Stats x3]
+false
+[♯ 5c Party Stats x5]
+false
+[♯ 5d Party Stats x10]
+false
+[♯ 6. Break Damage Limit]
+false
+[♯ 7a Damage x2]
+false
+[♯ 7b Damage x5]
+false
+[♯ 7c Damage x10]
+false
+[♯ 7d Damage x50]
+false
+[♯ 8a Damage Taken Half]
+false
+[♯ 8b Damage Taken Tenth]
+false
+[♯ 9. One Hit Kill]
+false
+[♯10. Instant Break]
+false
+[♯11. Always Critical]
+false
+[♯12. Always Vulnerable]
+false
+[♯13. Show Enemy Weaknesses]
+false
+[♯14. Always First Strike]
+false
+[♯15. Always Escape]
+false
+[♯16. No Random Encounters]
+false
+[♯17a Encounter Rate x0.5]
+false
+[♯17b Encounter Rate x2]
+false
+[♯17c Encounter Rate x4]
+false
+[♯18a Battle EXP x2]
+false
+[♯18b Battle EXP x5]
+false
+[♯18c Battle EXP x10]
+false
+[♯18d Battle EXP x100]
+false
+[♯19a Battle JP x2]
+false
+[♯19b Battle JP x5]
+false
+[♯19c Battle JP x10]
+false
+[♯19d Battle JP x100]
+false
+[♯20a Battle Money x2]
+false
+[♯20b Battle Money x5]
+false
+[♯20c Battle Money x10]
+false
+[♯20d Battle Money x100]
+false
+[♯21a Always Drop Items]
+false
+[♯21b Always Drop Rarest Item]
+false
+[♯22. Max Drop Quantity]
+false
+[♯23. Max Money]
+false
+[♯24. Max JP]
+false
+[♯25. Held Items x99]
+false
+[♯26. Free Shops]
+false
+[♯27a Move Speed x1]
+false
+[♯27b Move Speed x1.5]
+false
+[♯27c Move Speed x2]
+false
+[♯27d Move Speed x3]
+false
+[♯28a Game Speed x1]
+false
+[♯28b Game Speed x0.5]
+false
+[♯28c Game Speed x2]
+false
+[♯28d Game Speed x3]
+false
+[♯28e Game Speed x4]
+false
+[♯29. Field Commands Always Succeed]
+false
+[♯30. Refill All Chests (take a step)]
+false
+[♯31. Respawn Field Enemies (take a step)]
+false
+[- khuong ツ -]
+false

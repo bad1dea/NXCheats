@@ -34,12 +34,14 @@
   ├─ Nanites 999,292,928
   ├─ Quicksilver 999,292,928
   ├─ Currencies Never Decrease
-  ├─ Money Multiplier (2x)
-  ├─ Money Multiplier (4x)
-  ├─ Money Multiplier (8x)
-  ├─ Item Multiplier (2x)
-  ├─ Item Multiplier (4x)
-  ├─ Item Multiplier (8x)
+  ├─ Money Multiplier/*
+  │  ├─ Money Multiplier (2x)
+  │  ├─ Money Multiplier (4x)
+  │  └─ Money Multiplier (8x)
+  ├─ Item Multiplier/*
+  │  ├─ Item Multiplier (2x)
+  │  ├─ Item Multiplier (4x)
+  │  └─ Item Multiplier (8x)
   └─ Corvette Part Limit 999
 ```
 

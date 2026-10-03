@@ -14,7 +14,7 @@ Embark on an adventure all your own.
   ├─ Party Max Stats
   ├─ No Damage Taken
   ├─ Party Cannot Be KOd
-  ├─ One Hit Kill
+  ├─ One-Punch Man (OHK)
   ├─ Easy Break
   ├─ Always Hit
   ├─ Always Critical

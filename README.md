@@ -27,12 +27,13 @@ Older sets, in the previous per-emulator layout, are under
 | [No Man's Sky](./0100853015E86000%20No%20Man's%20Sky) | `0100853015E86000` | 36 |
 | [OCTOPATH TRAVELER II](./0100A3501946E000%20OCTOPATH%20TRAVELER%20II) | `0100A3501946E000` | 35 |
 | [Minecraft Dungeons II](./0100A7C01B792000%20Minecraft%20Dungeons%20II) | `0100A7C01B792000` | 94 |
+| [High On Life](./0100C1101EE5A000%20High%20On%20Life) | `0100C1101EE5A000` | 27 |
 | [Splatoon™ 3](./0100C2500FC20000%20Splatoon™%203) | `0100C2500FC20000` | 28 |
 | [Castlevania Belmont's Curse Demo](./0100D1D027E96000%20Castlevania%20Belmont's%20Curse%20Demo) | `0100D1D027E96000` | 20 |
 | [Kalanoro](./0100EB60202C8000%20Kalanoro) | `0100EB60202C8000` | 24 |
 | [Hogwarts Legacy](./0100F7E00C70E000%20Hogwarts%20Legacy) | `0100F7E00C70E000` | 65 |
 
-**12 titles, 499 cheats.**
+**13 titles, 526 cheats.**
 
 ## Support
 

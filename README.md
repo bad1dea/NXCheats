@@ -31,10 +31,10 @@ Older sets, in the previous per-emulator layout, are under
 | [Octopath Traveler™](./010057D006492000%20Octopath%20Traveler™) | `010057D006492000` | 15 |
 | [OCTOPATH TRAVELER 0](./01005270232F2000%20OCTOPATH%20TRAVELER%200) | `01005270232F2000` | 57 |
 | [OCTOPATH TRAVELER II](./0100A3501946E000%20OCTOPATH%20TRAVELER%20II) | `0100A3501946E000` | 35 |
-| [The Outer Worlds](./0100626011656000%20The%20Outer%20Worlds) | `0100626011656000` | 31 |
+| [The Outer Worlds](./0100626011656000%20The%20Outer%20Worlds) | `0100626011656000` | 33 |
 | [Splatoon™ 3](./0100C2500FC20000%20Splatoon™%203) | `0100C2500FC20000` | 28 |
 
-**14 titles, 557 cheats.**
+**14 titles, 559 cheats.**
 
 ## Support
 

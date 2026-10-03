@@ -22,6 +22,8 @@ The Outer Worlds is a new single-player sci-fi RPG from Obsidian Entertainment a
   │  ├─ Jump Height x1.5
   │  ├─ Jump Height x2
   │  └─ Jump Height x3
+  ├─ No Spread
+  ├─ No Recoil
   ├─ One Hit Kill
   ├─ Damage/*
   │  ├─ Damage x2

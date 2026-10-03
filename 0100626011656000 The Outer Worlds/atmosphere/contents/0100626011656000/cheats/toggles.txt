@@ -1,7 +1,5 @@
 [The Outer Worlds (GLOBAL) v1.0.5 TID=0100626011656000 BID=761CD556AB357C87]
 false
-[Restore Code (Use after unchecking any cheats below)]
-false
 [♯ 1. Infinite Health]
 false
 [♯ 2. Companions Infinite Health]
@@ -28,41 +26,45 @@ false
 false
 [♯ 9c Jump Height x3]
 false
-[♯10. One Hit Kill]
+[♯10. No Spread]
 false
-[♯11a Damage x2]
+[♯11. No Recoil]
 false
-[♯11b Damage x5]
+[♯12. One Hit Kill]
 false
-[♯11c Damage x10]
+[♯13a Damage x2]
 false
-[♯12. Stealth Mode]
+[♯13b Damage x5]
 false
-[♯13a Exp x2]
+[♯13c Damage x10]
 false
-[♯13b Exp x5]
+[♯14. Stealth Mode]
 false
-[♯13c Exp x10]
+[♯15a Exp x2]
 false
-[♯14a Bits Gain x2]
+[♯15b Exp x5]
 false
-[♯14b Bits Gain x5]
+[♯15c Exp x10]
 false
-[♯14c Bits Gain x10]
+[♯16a Bits Gain x2]
 false
-[♯15. Skill Points 99]
+[♯16b Bits Gain x5]
 false
-[♯16. Perk Points 9]
+[♯16c Bits Gain x10]
 false
-[♯17. Unlock All Locked Containers]
+[♯17. Skill Points 99]
 false
-[♯18. Supernova No Hunger]
+[♯18. Perk Points 9]
 false
-[♯19. Supernova No Thirst]
+[♯19. Unlock All Locked Containers]
 false
-[♯20. Supernova No Sleep Deprivation]
+[♯20. Supernova No Hunger]
 false
-[♯21. Supernova Save Anywhere]
+[♯21. Supernova No Thirst]
+false
+[♯22. Supernova No Sleep Deprivation]
+false
+[♯23. Supernova Save Anywhere]
 false
 [- khuong ツ -]
 false

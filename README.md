@@ -22,6 +22,7 @@ Older sets, in the previous per-emulator layout, are under
 | [Garfield - Escape From Monday](./01000EB0276F2000%20Garfield%20-%20Escape%20From%20Monday) | `01000EB0276F2000` | 22 |
 | [Hello Kitty Island Adventure](./010027901C89C000%20Hello%20Kitty%20Island%20Adventure) | `010027901C89C000` | 12 |
 | [OCTOPATH TRAVELER 0](./01005270232F2000%20OCTOPATH%20TRAVELER%200) | `01005270232F2000` | 57 |
+| [Octopath Traveler™](./010057D006492000%20Octopath%20Traveler™) | `010057D006492000` | 15 |
 | [Diablo® II: Resurrected™](./0100726014352000%20Diablo®%20II:%20Resurrected™) | `0100726014352000` | 91 |
 | [No Man's Sky](./0100853015E86000%20No%20Man's%20Sky) | `0100853015E86000` | 36 |
 | [Minecraft Dungeons II](./0100A7C01B792000%20Minecraft%20Dungeons%20II) | `0100A7C01B792000` | 94 |
@@ -30,7 +31,7 @@ Older sets, in the previous per-emulator layout, are under
 | [Kalanoro](./0100EB60202C8000%20Kalanoro) | `0100EB60202C8000` | 24 |
 | [Hogwarts Legacy](./0100F7E00C70E000%20Hogwarts%20Legacy) | `0100F7E00C70E000` | 65 |
 
-**10 titles, 449 cheats.**
+**11 titles, 464 cheats.**
 
 ## Support
 

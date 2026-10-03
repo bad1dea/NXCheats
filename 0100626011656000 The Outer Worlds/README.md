@@ -10,8 +10,16 @@ The Outer Worlds is a new single-player sci-fi RPG from Obsidian Entertainment a
   ├─ Infinite Health
   ├─ Companions Infinite Health
   ├─ Infinite Tactical Time Dilation
-  ├─ Items Don't Decrease
+  ├─ Stealth Mode
+  ├─ One Hit Kill
+  ├─ Damage/*
+  │  ├─ Damage x2
+  │  ├─ Damage x5
+  │  └─ Damage x10
+  ├─ No Spread
+  ├─ No Recoil
   ├─ No Reload
+  ├─ Items Don't Decrease
   ├─ Infinite Equipment Durability
   ├─ Ignore Encumbrance
   ├─ Move Speed/*
@@ -22,24 +30,16 @@ The Outer Worlds is a new single-player sci-fi RPG from Obsidian Entertainment a
   │  ├─ Jump Height x1.5
   │  ├─ Jump Height x2
   │  └─ Jump Height x3
-  ├─ No Spread
-  ├─ No Recoil
-  ├─ One Hit Kill
-  ├─ Damage/*
-  │  ├─ Damage x2
-  │  ├─ Damage x5
-  │  └─ Damage x10
-  ├─ Stealth Mode
   ├─ Exp/*
   │  ├─ Exp x2
   │  ├─ Exp x5
   │  └─ Exp x10
+  ├─ Skill Points 99
+  ├─ Perk Points 9
   ├─ Bits Gain/*
   │  ├─ Bits Gain x2
   │  ├─ Bits Gain x5
   │  └─ Bits Gain x10
-  ├─ Skill Points 99
-  ├─ Perk Points 9
   ├─ Unlock All Locked Containers
   ├─ Supernova No Hunger
   ├─ Supernova No Thirst

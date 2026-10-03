@@ -6,39 +6,39 @@ false
 false
 [♯ 3. Infinite Tactical Time Dilation]
 false
-[♯ 4. Items Don't Decrease]
+[♯ 4. Stealth Mode]
 false
-[♯ 5. No Reload]
+[♯ 5. One Hit Kill]
 false
-[♯ 6. Infinite Equipment Durability]
+[♯ 6a Damage x2]
 false
-[♯ 7. Ignore Encumbrance]
+[♯ 6b Damage x5]
 false
-[♯ 8a Move Speed x1.5]
+[♯ 6c Damage x10]
 false
-[♯ 8b Move Speed x2]
+[♯ 7. No Spread]
 false
-[♯ 8c Move Speed x3]
+[♯ 8. No Recoil]
 false
-[♯ 9a Jump Height x1.5]
+[♯ 9. No Reload]
 false
-[♯ 9b Jump Height x2]
+[♯10. Items Don't Decrease]
 false
-[♯ 9c Jump Height x3]
+[♯11. Infinite Equipment Durability]
 false
-[♯10. No Spread]
+[♯12. Ignore Encumbrance]
 false
-[♯11. No Recoil]
+[♯13a Move Speed x1.5]
 false
-[♯12. One Hit Kill]
+[♯13b Move Speed x2]
 false
-[♯13a Damage x2]
+[♯13c Move Speed x3]
 false
-[♯13b Damage x5]
+[♯14a Jump Height x1.5]
 false
-[♯13c Damage x10]
+[♯14b Jump Height x2]
 false
-[♯14. Stealth Mode]
+[♯14c Jump Height x3]
 false
 [♯15a Exp x2]
 false
@@ -46,15 +46,15 @@ false
 false
 [♯15c Exp x10]
 false
-[♯16a Bits Gain x2]
+[♯16. Skill Points 99]
 false
-[♯16b Bits Gain x5]
+[♯17. Perk Points 9]
 false
-[♯16c Bits Gain x10]
+[♯18a Bits Gain x2]
 false
-[♯17. Skill Points 99]
+[♯18b Bits Gain x5]
 false
-[♯18. Perk Points 9]
+[♯18c Bits Gain x10]
 false
 [♯19. Unlock All Locked Containers]
 false

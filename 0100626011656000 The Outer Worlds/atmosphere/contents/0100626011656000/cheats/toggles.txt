@@ -1,0 +1,68 @@
+[The Outer Worlds (GLOBAL) v1.0.5 TID=0100626011656000 BID=761CD556AB357C87]
+false
+[Restore Code (Use after unchecking any cheats below)]
+false
+[♯ 1. Infinite Health]
+false
+[♯ 2. Companions Infinite Health]
+false
+[♯ 3. Infinite Tactical Time Dilation]
+false
+[♯ 4. Items Don't Decrease]
+false
+[♯ 5. No Reload]
+false
+[♯ 6. Infinite Equipment Durability]
+false
+[♯ 7. Ignore Encumbrance]
+false
+[♯ 8a Move Speed x1.5]
+false
+[♯ 8b Move Speed x2]
+false
+[♯ 8c Move Speed x3]
+false
+[♯ 9a Jump Height x1.5]
+false
+[♯ 9b Jump Height x2]
+false
+[♯ 9c Jump Height x3]
+false
+[♯10. One Hit Kill]
+false
+[♯11a Damage x2]
+false
+[♯11b Damage x5]
+false
+[♯11c Damage x10]
+false
+[♯12. Stealth Mode]
+false
+[♯13a Exp x2]
+false
+[♯13b Exp x5]
+false
+[♯13c Exp x10]
+false
+[♯14a Bits Gain x2]
+false
+[♯14b Bits Gain x5]
+false
+[♯14c Bits Gain x10]
+false
+[♯15. Skill Points 99]
+false
+[♯16. Perk Points 9]
+false
+[♯17. Unlock All Locked Containers]
+false
+[♯18. Supernova No Hunger]
+false
+[♯19. Supernova No Thirst]
+false
+[♯20. Supernova No Sleep Deprivation]
+false
+[♯21. Supernova Save Anywhere]
+false
+[- khuong ツ -]
+false

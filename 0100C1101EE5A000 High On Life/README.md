@@ -14,7 +14,7 @@ All cheats start off. Restart the game after installing. Ghost Mode: tick it onc
   ├─ Infinite Jumps
   ├─ Infinite Jetpack Fuel
   ├─ Ghost Mode, L3+Up toggles, B up, Down down
-  ├─ One Hit Kill
+  ├─ One-Punch Man (OHK)
   ├─ Damage/*
   │  ├─ Damage x2
   │  ├─ Damage x5

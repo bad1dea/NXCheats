@@ -10,7 +10,7 @@ false
 false
 [♯ 5. Ghost Mode, L3+Up toggles, B up, Down down]
 false
-[♯ 6. One Hit Kill]
+[♯ 6. One-Punch Man (OHK)]
 false
 [♯ 7a Damage x2]
 false

@@ -4,7 +4,7 @@
 
 Fresh out of high school with no job and no ambition, you've really got nothing going for you until an alien cartel that wants to get high off humanity invades Earth.
 
-All cheats start off. Restart the game after installing. Ghost Mode: tick it once, then L3 + D-pad Up turns it on and off, hold B to rise and D-pad Down to sink. Kill All Enemies works while L3 + R3 are held. Not every cheat has been checked in game yet.
+All cheats start off. Restart the game after installing. Ghost Mode: tick it once, then L3 + D-pad Up turns it on and off, hold B to rise and D-pad Down to sink. Kill All Enemies works while L3 + R3 are held.
 
 ```graphql
 # High On Life (GLOBAL) (v327680)

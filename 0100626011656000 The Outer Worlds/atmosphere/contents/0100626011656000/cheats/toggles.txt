@@ -8,7 +8,7 @@ false
 false
 [♯ 4. Stealth Mode]
 false
-[♯ 5. One Hit Kill]
+[♯ 5. One-Punch Man (OHK)]
 false
 [♯ 6a Damage x2]
 false

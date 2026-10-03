@@ -11,7 +11,7 @@ The Outer Worlds is a new single-player sci-fi RPG from Obsidian Entertainment a
   ├─ Companions Infinite Health
   ├─ Infinite Tactical Time Dilation
   ├─ Stealth Mode
-  ├─ One Hit Kill
+  ├─ One-Punch Man (OHK)
   ├─ Damage/*
   │  ├─ Damage x2
   │  ├─ Damage x5

@@ -27,7 +27,7 @@ All cheats start off. Restart the game after installing. Untick a cheat to turn 
   ├─ Damage Taken/*
   │  ├─ Damage Taken Half
   │  └─ Damage Taken Tenth
-  ├─ One Hit Kill
+  ├─ One-Punch Man (OHK)
   ├─ Instant Break
   ├─ Always Critical
   ├─ Always Vulnerable

@@ -30,7 +30,7 @@ false
 false
 [♯ 8b Damage Taken Tenth]
 false
-[♯ 9. One Hit Kill]
+[♯ 9. One-Punch Man (OHK)]
 false
 [♯10. Instant Break]
 false

@@ -4,6 +4,8 @@
 
 Raise Some Hell
 
+Thanks to god-jester's [d3hack](https://github.com/god-jester/d3hack), which helped a lot.
+
 ```graphql
 # Diablo III: Eternal Collection (GLOBAL) (v1441792)
 ./khuong/01001B300B9BE000/2607A74F5DF7754C/*
@@ -91,8 +93,6 @@ Raise Some Hell
      ├─ Anniversary buff
      └─ Cow Level buff (Easter egg world)
 ```
-
-Thanks to god-jester's [d3hack](https://github.com/god-jester/d3hack), which helped a lot.
 
 ## Changelog
 [View here](./CHANGELOG.md)

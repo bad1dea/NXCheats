@@ -1,0 +1,250 @@
+[Super Mario RPG (GLOBAL) v65536 TID=0100BC0018138000 BID=97F9664CFB272154]
+false
+[Party]
+false
+[♯ 1. Inf. HP]
+false
+[♯ 2. Inf. MP (Flower Power)]
+false
+[♯ 3. Inf. Item Usage]
+false
+[♯ 4. Star Power]
+false
+[♯ 4a Star Power (Invincible)]
+false
+[♯ 4b Star Power Hotkey (Minus Toggles)]
+false
+[♯ 4c Star Power Hotkey (Minus Gives a 10 s Star)]
+false
+[Star Power end]
+false
+[♯ 5. Party Starts Battles]
+false
+[♯ 5a Party Starts Battles With Attack Up and Defense Up]
+false
+[♯ 5b Party Starts Battles Behind a Barrier (99)]
+false
+[♯ 5c Party Starts Battles With Both Buffs and a Barrier]
+false
+[Party Starts Battles end]
+false
+[Party end]
+false
+[Battle]
+false
+[♯ 6. 100% Hit Chance]
+false
+[♯ 7. Always Succeed At Running Away]
+false
+[♯ 8. Always Special Enem(y-ies)]
+false
+[♯ 9. Action Guage Always Full]
+false
+[♯10. 999 Chain (After Successful Chain)]
+false
+[♯11. Always Perfect Super & Ultra Jumps (Hold ZR to Stop Jumping)]
+false
+[♯12. Auto Action Commands]
+false
+[♯12a Auto Action Commands (Atk Only)]
+false
+[♯12b Auto Action Commands (Both Atk and Def)]
+false
+[Auto Action Commands end]
+false
+[♯13. Enemies]
+false
+[♯13a Enemies Are 0% to 50% Stronger (Per Enemy)]
+false
+[♯13b Enemies Are 50% to 100% Stronger (Per Enemy)]
+false
+[♯13c Enemies Are 100% to 200% Stronger (Per Enemy)]
+false
+[♯13d Enemies Are 50% Weaker]
+false
+[♯13e Enemies Are 75% Weaker]
+false
+[♯13f Enemies Have 1 HP]
+false
+[Enemies end]
+false
+[♯14. Player Dmg Multiplier]
+false
+[♯14a Player Dmg Multiplier (0.5x)]
+false
+[♯14b Player Dmg Multiplier (1x)]
+false
+[♯14c Player Dmg Multiplier (1.5x) ★]
+false
+[♯14d Player Dmg Multiplier (2.0x)]
+false
+[♯14e Player Dmg Multiplier (3.0x)]
+false
+[♯14f Player Dmg Multiplier (4.0x)]
+false
+[♯14g Player Dmg Multiplier (5.0x)]
+false
+[Player Dmg Multiplier end]
+false
+[♯15. Enemy Dmg Multiplier]
+false
+[♯15a Enemy Dmg Multiplier (0x)]
+false
+[♯15b Enemy Dmg Multiplier (0.5x)]
+false
+[♯15c Enemy Dmg Multiplier (1x)]
+false
+[♯15d Enemy Dmg Multiplier (2.0x)]
+false
+[♯15e Enemy Dmg Multiplier (3.0x)]
+false
+[♯15f Enemy Dmg Multiplier (4.0x)]
+false
+[♯15g Enemy Dmg Multiplier (5.0x)]
+false
+[♯15h Enemy Dmg Multiplier (10.0x)]
+false
+[Enemy Dmg Multiplier end]
+false
+[Battle end]
+false
+[Rewards]
+false
+[♯16. Bonus Flower Always Drops]
+false
+[♯17. Force Item Drop (EDIT THIS - Must use with 100% Drop Rate)]
+false
+[ツ Set the first value of this entry to the item ID to drop. ツ]
+false
+[♯18. 100% Item Drop Rate]
+false
+[♯18a 100% Item Drop Rate (Normal Drop Only)]
+false
+[♯18b 100% Item Drop Rate (Prefer Rare Item Drop)]
+false
+[100% Item Drop Rate end]
+false
+[♯19. XP Multiplier]
+false
+[♯19a XP Multiplier (2x) ★]
+false
+[♯19b XP Multiplier (4x)]
+false
+[♯19c XP Multiplier (8x)]
+false
+[♯19d XP Multiplier (16x)]
+false
+[XP Multiplier end]
+false
+[♯20. Coin Multiplier]
+false
+[♯20a Coin Multiplier (2x) ★]
+false
+[♯20b Coin Multiplier (4x)]
+false
+[♯20c Coin Multiplier (8x)]
+false
+[♯20d Coin Multiplier (16x)]
+false
+[Coin Multiplier end]
+false
+[♯21. Frog Coin Multiplier]
+false
+[♯21a Frog Coin Multiplier (2x) ★]
+false
+[♯21b Frog Coin Multiplier (4x)]
+false
+[♯21c Frog Coin Multiplier (8x)]
+false
+[♯21d Frog Coin Multiplier (16x)]
+false
+[Frog Coin Multiplier end]
+false
+[Rewards end]
+false
+[Shops and Items]
+false
+[♯22. All Items Cost 0 Coins]
+false
+[♯23. Free Purchases (Coins & Frog Coins)]
+false
+[♯24. Add 1 of Every Single Item (After Buying Anything)]
+false
+[ツ Also adds key items; this may affect progress. ツ]
+false
+[♯25. All Consumable Items (Check Storage Box)]
+false
+[♯26. Have (5) of All Shared Gear (Use Any Item After)]
+false
+[Shops and Items end]
+false
+[Field]
+false
+[♯27. Ignore Encounter Trigger]
+false
+[♯28. Game Speed]
+false
+[♯28a Game Speed (1x)]
+false
+[♯28b Game Speed (1.5x)]
+false
+[♯28c Game Speed (2x)]
+false
+[♯28d Game Speed (3x)]
+false
+[♯28e Game Speed (4x)]
+false
+[♯28f Game Speed (Hold R3 for 3x)]
+false
+[Game Speed end]
+false
+[♯29. Movement Speed Multiplier]
+false
+[♯29a Movement Speed Multiplier (1.5x)]
+false
+[♯29b Movement Speed Multiplier (1.75x)]
+false
+[♯29c Movement Speed Multiplier (2x)]
+false
+[♯29d Movement Speed Multiplier (3x)]
+false
+[Movement Speed Multiplier end]
+false
+[♯30. Jump Height Multiplier]
+false
+[♯30a Jump Height Multiplier (1.5x)]
+false
+[♯30b Jump Height Multiplier (2x)]
+false
+[♯30c Jump Height Multiplier (3x)]
+false
+[Jump Height Multiplier end]
+false
+[Field end]
+false
+[Mini Games]
+false
+[♯31. 2x Reward for Egg Shuffle Game]
+false
+[♯32. Midas River - No Fish Hit(s)]
+false
+[♯33. Auto Yoshi Race]
+false
+[♯34. Goomba Thumping High Score]
+false
+[Mini Games end]
+false
+[Debug]
+false
+[♯35. Debug Menu]
+false
+[♯35a Debug Menu (Attach It)]
+false
+[♯35b Debug Menu Hotkey (L3+R3 Opens It)]
+false
+[Debug Menu end]
+false
+[Debug end]
+false
+[- khuong ツ -]
+false

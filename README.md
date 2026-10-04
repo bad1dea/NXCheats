@@ -74,8 +74,9 @@ load it.
 | [OCTOPATH TRAVELER II](./0100A3501946E000%20OCTOPATH%20TRAVELER%20II) | `0100A3501946E000` | 35 |
 | [The Outer Worlds](./0100626011656000%20The%20Outer%20Worlds) | `0100626011656000` | 33 |
 | [Splatoon™ 3](./0100C2500FC20000%20Splatoon™%203) | `0100C2500FC20000` | 28 |
+| [Super Mario RPG™](./0100BC0018138000%20Super%20Mario%20RPG™) | `0100BC0018138000` | 79 |
 
-**15 titles, 629 cheats.**
+**16 titles, 708 cheats.**
 
 ## Support
 

@@ -1,0 +1,210 @@
+[FINAL FANTASY II (GLOBAL) v262144 TID=01006B7014156000 BID=C3E3F12D5C46367D]
+false
+[Party]
+false
+[♯ 1. Inf. HP]
+false
+[♯ 2. Inf. MP]
+false
+[♯ 3. Max Hit Rate (Party)]
+false
+[♯ 4. Max Evasion Rate (Party)]
+false
+[♯ 5. Guest Characters Stay in the Party]
+false
+[Party end]
+false
+[Battle]
+false
+[♯ 6. One-Punch Man (OHK)]
+false
+[♯ 7. 100% Drop Rate]
+false
+[♯ 8. Battle and Auto Battle Speed Multiplier]
+false
+[♯ 8a Battle and Auto Battle Speed Multiplier (1.5x)]
+false
+[♯ 8b Battle and Auto Battle Speed Multiplier (2x)]
+false
+[♯ 8c Battle and Auto Battle Speed Multiplier (2.5x)]
+false
+[♯ 8d Auto Battle Speed Multiplier (1.5x)]
+false
+[♯ 8e Auto Battle Speed Multiplier (2x)]
+false
+[♯ 8f Auto Battle Speed Multiplier (2.5x)]
+false
+[♯ 8g Auto Battle Speed Multiplier (3x)]
+false
+[♯ 8h Auto Battle Speed Multiplier (4x)]
+false
+[♯ 8i Auto Battle Speed Multiplier (5x)]
+false
+[Battle and Auto Battle Speed Multiplier end]
+false
+[Battle end]
+false
+[Growth]
+false
+[♯ 9. Stat Growth Always Succeeds (Party)]
+false
+[♯10. Max Stats After Battle (Party)]
+false
+[♯11. Used Weapons and Spells]
+false
+[♯11a Used Weapons and Spells Always Gain Skill]
+false
+[♯11b Used Weapons and Spells Gain a Level Each Battle]
+false
+[Used Weapons and Spells end]
+false
+[♯12. Weapon Skill Level Multiplier]
+false
+[♯12a Weapon Skill Level Multiplier (0x)]
+false
+[♯12b Weapon Skill Level Multiplier (0.5x)]
+false
+[♯12c Weapon Skill Level Multiplier (1x)]
+false
+[♯12d Weapon Skill Level Multiplier (2x)]
+false
+[♯12e Weapon Skill Level Multiplier (4x)]
+false
+[♯12f Weapon Skill Level Multiplier (8x)]
+false
+[♯12g Weapon Skill Level Multiplier (16x)]
+false
+[♯12h Weapon Skill Level Multiplier (30x)]
+false
+[Weapon Skill Level Multiplier end]
+false
+[♯13. Magic Skill Level Multiplier]
+false
+[♯13a Magic Skill Level Multiplier (0x)]
+false
+[♯13b Magic Skill Level Multiplier (0.5x)]
+false
+[♯13c Magic Skill Level Multiplier (1x)]
+false
+[♯13d Magic Skill Level Multiplier (2x)]
+false
+[♯13e Magic Skill Level Multiplier (4x)]
+false
+[♯13f Magic Skill Level Multiplier (8x)]
+false
+[♯13g Magic Skill Level Multiplier (16x)]
+false
+[♯13h Magic Skill Level Multiplier (30x)]
+false
+[Magic Skill Level Multiplier end]
+false
+[♯14. Attribute Multiplier]
+false
+[♯14a Attribute Multiplier (0x)]
+false
+[♯14b Attribute Multiplier (0.5x)]
+false
+[♯14c Attribute Multiplier (1x)]
+false
+[♯14d Attribute Multiplier (2x)]
+false
+[♯14e Attribute Multiplier (4x)]
+false
+[♯14f Attribute Multiplier (8x)]
+false
+[♯14g Attribute Multiplier (16x)]
+false
+[♯14h Attribute Multiplier (30x)]
+false
+[Attribute Multiplier end]
+false
+[Growth end]
+false
+[Rewards]
+false
+[♯15. Inf. Gil]
+false
+[♯16. Inf. Item Usage]
+false
+[♯17. Get All Items After Battle (Need 100% Drop Rate Enabled)]
+false
+[♯18. Gil Multiplier]
+false
+[♯18a Gil Multiplier (0x)]
+false
+[♯18b Gil Multiplier (0.5x)]
+false
+[♯18c Gil Multiplier (1x)]
+false
+[♯18d Gil Multiplier (2x)]
+false
+[♯18e Gil Multiplier (4x)]
+false
+[♯18f Gil Multiplier (8x)]
+false
+[♯18g Gil Multiplier (16x)]
+false
+[♯18h Gil Multiplier (30x)]
+false
+[Gil Multiplier end]
+false
+[Rewards end]
+false
+[Shops and Keywords]
+false
+[♯19. Shops Sell Every Available Shop Items]
+false
+[♯20. Bypass Equip Check (Allow Any Char to Any Item)]
+false
+[♯21. Learn All Keywords (Next Keyword Menu)]
+false
+[Shops and Keywords end]
+false
+[Field]
+false
+[♯22. No Clip and No Collision (ZL)]
+false
+[♯23. Always Show Hidden Passage(s)]
+false
+[♯23a Always Show Hidden Passage(s) (Blinking) ★]
+false
+[♯23b Always Show Hidden Passage(s)]
+false
+[Always Show Hidden Passage(s) end]
+false
+[♯24. High Encounter Rate]
+false
+[♯24a High Encounter Rate (Encounters Must Be Enabled)]
+false
+[♯24b No Random Encounters]
+false
+[High Encounter Rate end]
+false
+[♯25. Game Speed]
+false
+[♯25a Game Speed (1x)]
+false
+[♯25b Game Speed (1.5x)]
+false
+[♯25c Game Speed (2x)]
+false
+[♯25d Game Speed (3x)]
+false
+[♯25e Game Speed (4x)]
+false
+[Game Speed end]
+false
+[♯26. Field Walk Speed]
+false
+[♯26a Field Walk Speed (x2)]
+false
+[♯26b Field Walk Speed (x4)]
+false
+[♯26c Field Walk Speed (x8)]
+false
+[Field Walk Speed end]
+false
+[Field end]
+false
+[- khuong ツ -]
+false

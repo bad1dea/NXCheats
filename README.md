@@ -63,6 +63,7 @@ load it.
 | [Diablo® II: Resurrected™](./0100726014352000%20Diablo®%20II:%20Resurrected™) | `0100726014352000` | 91 |
 | [Diablo III: Eternal Collection](./01001B300B9BE000%20Diablo%20III:%20Eternal%20Collection) | `01001B300B9BE000` | 70 |
 | [FINAL FANTASY](./01000EA014150000%20FINAL%20FANTASY) | `01000EA014150000` | 59 |
+| [FINAL FANTASY II](./01006B7014156000%20FINAL%20FANTASY%20II) | `01006B7014156000` | 71 |
 | [FINAL FANTASY VI](./0100AA001415E000%20FINAL%20FANTASY%20VI) | `0100AA001415E000` | 81 |
 | [Garfield - Escape From Monday](./01000EB0276F2000%20Garfield%20-%20Escape%20From%20Monday) | `01000EB0276F2000` | 22 |
 | [Hello Kitty Island Adventure](./010027901C89C000%20Hello%20Kitty%20Island%20Adventure) | `010027901C89C000` | 12 |
@@ -79,7 +80,7 @@ load it.
 | [Super Mario RPG™](./0100BC0018138000%20Super%20Mario%20RPG™) | `0100BC0018138000` | 78 |
 | [The Witcher 3: Wild Hunt - Complete Edition](./01003D100E9C6000%20The%20Witcher%203:%20Wild%20Hunt%20-%20Complete%20Edition) | `01003D100E9C6000` | 35 |
 
-**19 titles, 887 cheats.**
+**20 titles, 958 cheats.**
 
 ## Support
 

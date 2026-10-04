@@ -79,7 +79,7 @@ load it.
 | [Super Mario RPG™](./0100BC0018138000%20Super%20Mario%20RPG™) | `0100BC0018138000` | 78 |
 | [The Witcher 3: Wild Hunt - Complete Edition](./01003D100E9C6000%20The%20Witcher%203:%20Wild%20Hunt%20-%20Complete%20Edition) | `01003D100E9C6000` | 35 |
 
-**18 titles, 852 cheats.**
+**19 titles, 887 cheats.**
 
 ## Support
 

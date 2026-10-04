@@ -1,6 +1,6 @@
 # NXCheats
 
-Cheats for Nintendo Switch games, built for **Atmosphere on real hardware**.
+
 
 <p align="center">
   <imgsrc="https://github.com/bad1dea/NXCheats/assets/10354814/467a59df-2b33-4f3b-80b4-3ba5292420d6"
@@ -8,15 +8,32 @@ Cheats for Nintendo Switch games, built for **Atmosphere on real hardware**.
        width="350">
 </p>
 
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/4331184e-10b5-48f9-8360-0d412747c583" />
+<p>
+  <img
+    src="https://github.com/user-attachments/assets/4331184e-10b5-48f9-8360-0d412747c583"
+    width="250"
+    align="left"
+    alt="NXCheats"
+  />
+<br><br><br>
 
+Cheats for Nintendo Switch games, built for
+**Atmosphere on real hardware**.
 
-Each title has its own directory holding the SD-card layout, so installing a
-set is unzipping it onto the card. A cheat file is tied to one build id: the
-filename is that build id, and a set from another version will not load.
+<br>
 
-Older sets, in the previous per-emulator layout, are under
-[`_old`](./_old).
+Each title has its own directory holding the SD-card layout,
+so installing a set is unzipping it onto the card.
+
+<br>
+
+A cheat file is tied to one build ID: the filename is that
+build ID, and a set from another version will not load.
+
+<br clear="all" />
+
+<br> 
+Older sets, in the previous per-emulator layout, are under [`_old`](./_old).
 
 ## Titles
 

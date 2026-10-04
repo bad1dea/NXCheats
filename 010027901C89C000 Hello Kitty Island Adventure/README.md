@@ -2,6 +2,8 @@
   <img src="_assets/banner.jpg" width="900" alt="logo" style="border-radius:50%"/>
 </p>
 
+Embark on a cozy adventure with Hello Kitty and Friends and restore an abandoned island to its former glory.
+
 ```graphql
 # Hello Kitty Island Adventure (GLOBAL) (v1376256)
 ./khuong/010027901C89C000/5134D58C555B8E71/*

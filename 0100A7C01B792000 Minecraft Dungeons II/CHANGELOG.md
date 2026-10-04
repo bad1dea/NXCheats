@@ -1,5 +1,9 @@
 # Change log
 
+## 2026/10/03
+1. added One-Punch Man (OHK)
+2. removed One Hit Kill
+
 ## 2026/09/30
 1. added 55 console cheats: equip gear, kill nearby mobs (L3 + R3), levels, XP, revive and stat changes. Tick one, then untick it before the next
 2. added extra cheats such as Immortal, Unstoppable, Triple Shot and Life Steal

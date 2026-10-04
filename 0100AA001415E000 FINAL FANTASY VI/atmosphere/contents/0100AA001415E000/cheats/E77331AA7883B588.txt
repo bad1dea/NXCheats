@@ -1,0 +1,404 @@
+[FINAL FANTASY VI (GLOBAL) v458752 TID=0100AA001415E000 BID=E77331AA7883B588]
+
+{IPS patch required or cheats won't work}
+080E0000 02D83F60 00000000 00000000
+080E0000 02D83F68 00000000 00000000
+080E0000 02D83F70 00000000 00000000
+080E0000 02D83F78 00000000 00000000
+080E0000 02D83F80 00000000 00000000
+080E0000 02D83F88 00000000 00000000
+080E0000 02D83F90 00000000 00000000
+080E0000 02D83F98 00000000 00000000
+080E0000 02D83FA0 00000000 00000000
+080E0000 02D83FA8 00000000 00000000
+080E0000 02D83FB0 00000000 00000000
+080E0000 02D83FB8 00000000 00000000
+080E0000 02D83FC0 00000000 00000000
+080E0000 02D83FC8 00000000 00000000
+080E0000 02D83FD0 00000000 00000000
+080E0000 02D83FD8 00000000 00000000
+080E0000 02D83FE0 00000000 00000000
+080E0000 02D83FE8 00000000 00000000
+080E0000 02D83FF0 00000000 00000000
+080E0000 02D83FF8 00000000 00000000
+
+[Party]
+20000000
+
+[♯ 1. Inf. HP]
+040E0000 02D83F64 00000001
+
+[♯ 2. Inf. MP]
+040E0000 02D83F68 00000001
+
+[♯ 3. 100% Critical Hit Rate (Party)]
+040E0000 02D83FB8 00000001
+
+[♯ 4. Max Hit Rate (Party)]
+040E0000 02D83FE4 00000001
+
+[♯ 5. Max Evasion Rate (Party)]
+040E0000 02D83FE8 00000001
+
+[♯ 6. ATB Bar Always Full (Party)]
+040E0000 02D83FA8 00000001
+
+[♯ 7. Party Attack Multiplier]
+20000000
+
+[♯ 7a Party Attack Multiplier (x2)]
+040E0000 02D83FAC 00000001
+
+[♯ 7b Party Attack Multiplier (x4)]
+040E0000 02D83FAC 00000002
+
+[♯ 7c Party Attack Multiplier (x8)]
+040E0000 02D83FAC 00000003
+
+[Party Attack Multiplier end]
+20000001
+
+[♯ 8. Party Defense Multiplier]
+20000000
+
+[♯ 8a Party Defense Multiplier (x2)]
+040E0000 02D83FB0 00000001
+
+[♯ 8b Party Defense Multiplier (x4)]
+040E0000 02D83FB0 00000002
+
+[♯ 8c Party Defense Multiplier (x8)]
+040E0000 02D83FB0 00000003
+
+[Party Defense Multiplier end]
+20000001
+
+[♯ 9. Party Magic Power Multiplier]
+20000000
+
+[♯ 9a Party Magic Power Multiplier (x2)]
+040E0000 02D83FB4 00000001
+
+[♯ 9b Party Magic Power Multiplier (x4)]
+040E0000 02D83FB4 00000002
+
+[♯ 9c Party Magic Power Multiplier (x8)]
+040E0000 02D83FB4 00000003
+
+[Party Magic Power Multiplier end]
+20000001
+
+[Party end]
+20000001
+
+[Battle]
+20000000
+
+[♯10. One-Punch Man (OHK)]
+040E0000 02D83F78 00000001
+
+[♯11. 100% Steal Rate]
+040E0000 02D83F70 00000001
+
+[♯12. Always Steal Rare Item (If Enemy Has)]
+040E0000 02D83F74 00000001
+
+[♯13. 100% Drop Rate]
+040E0000 02D83F7C 00000001
+
+[♯14. Battle and Auto Battle Speed Multiplier]
+20000000
+
+[♯14a Battle and Auto Battle Speed Multiplier (1.5x)]
+040E0000 02D83F80 00000001
+040E0000 02D83F84 3FC00000
+
+[♯14b Battle and Auto Battle Speed Multiplier (2x)]
+040E0000 02D83F80 00000001
+040E0000 02D83F84 40000000
+
+[♯14c Battle and Auto Battle Speed Multiplier (2.5x)]
+040E0000 02D83F80 00000001
+040E0000 02D83F84 40200000
+
+[♯14d Auto Battle Speed Multiplier (1.5x)]
+040E0000 02D83F84 3FC00000
+
+[♯14e Auto Battle Speed Multiplier (2x)]
+040E0000 02D83F84 40000000
+
+[♯14f Auto Battle Speed Multiplier (2.5x)]
+040E0000 02D83F84 40200000
+
+[♯14g Auto Battle Speed Multiplier (3x)]
+040E0000 02D83F84 40400000
+
+[♯14h Auto Battle Speed Multiplier (4x)]
+040E0000 02D83F84 40800000
+
+[♯14i Auto Battle Speed Multiplier (5x)]
+040E0000 02D83F84 40A00000
+
+[Battle and Auto Battle Speed Multiplier end]
+20000001
+
+[Battle end]
+20000001
+
+[Espers and Characters]
+20000000
+
+[♯15. Learn All Rages (On a Leap)]
+040E0000 02D83FC8 00000001
+
+[♯16. Equip Espers on Any Character]
+040E0000 02D83FF0 00000001
+
+[♯17. Terra's Trance Never Ends]
+040E0000 02D83FD4 00000001
+
+[♯18. Desperation Attacks Always Fire (Low HP)]
+040E0000 02D83FD8 00000001
+
+[♯19. Cursed Shield Becomes the Paladin Shield Next Battle]
+040E0000 02D83FDC 00000001
+
+[♯20. Shadow Never Leaves the Party]
+040E0000 02D83FE0 00000001
+
+[♯21. Add General Leo to the Party]
+040E0000 02D83FF8 00000001
+
+[♯22. Esper Level-Up Stat Bonus Multiplier]
+20000000
+
+[♯22a Esper Level-Up Stat Bonus Multiplier (x2)]
+040E0000 02D83FCC 00000002
+
+[♯22b Esper Level-Up Stat Bonus Multiplier (x3)]
+040E0000 02D83FCC 00000003
+
+[♯22c Esper Level-Up Stat Bonus Multiplier (x5)]
+040E0000 02D83FCC 00000005
+
+[Esper Level-Up Stat Bonus Multiplier end]
+20000001
+
+[♯23. Esper Spells Mastered at]
+20000000
+
+[♯23a Esper Spells Mastered at 1 AP]
+040E0000 02D83FD0 00000001
+
+[♯23b Esper Spells Mastered at 5 AP]
+040E0000 02D83FD0 00000005
+
+[♯23c Esper Spells Mastered at 20 AP]
+040E0000 02D83FD0 00000014
+
+[♯23d Esper Spells Mastered at 50 AP]
+040E0000 02D83FD0 00000032
+
+[Esper Spells Mastered at end]
+20000001
+
+[Espers and Characters end]
+20000001
+
+[Rewards]
+20000000
+
+[♯24. Inf. Gil]
+040E0000 02D83F60 00000001
+
+[♯25. Inf. Item(s)]
+040E0000 02D83F6C 00000001
+
+[♯26. Get All]
+20000000
+
+[♯26a Get All Items After Battle (Need 100% Drop Rate Enabled)]
+080E0000 02D83F58 0000007F FFFFFFFC
+080E0000 02D83F50 FFFFFFFF C0000000
+080E0000 02D83F48 00FFFFFF FFFFFFFF
+080E0000 02D83F40 FFF7FFFF FFFFFE00
+080E0000 02D83F38 FFFFFFFF FFFFFFFF
+080E0000 02D83F30 00000000 000003FF
+040E0000 02D83F90 00000001
+
+[♯26b Get All Espers After Battle (Need 100% Drop Rate Enabled)]
+080E0000 02D83F28 C0000000 00000000
+080E0000 02D83F20 00000000 01FFFFFF
+040E0000 02D83F90 00000002
+
+[Get All end]
+20000001
+
+[♯27. XP Multiplier]
+20000000
+
+[♯27a XP Multiplier (0x)]
+040E0000 02D83FBC 80000000
+
+[♯27b XP Multiplier (1x)]
+040E0000 02D83FBC 3F800000
+
+[♯27c XP Multiplier (2x)]
+040E0000 02D83FBC 40000000
+
+[♯27d XP Multiplier (4x)]
+040E0000 02D83FBC 40800000
+
+[♯27e XP Multiplier (8x)]
+040E0000 02D83FBC 41000000
+
+[♯27f XP Multiplier (16x)]
+040E0000 02D83FBC 41800000
+
+[XP Multiplier end]
+20000001
+
+[♯28. Gil Multiplier]
+20000000
+
+[♯28a Gil Multiplier (0x)]
+040E0000 02D83FC0 80000000
+
+[♯28b Gil Multiplier (1x)]
+040E0000 02D83FC0 3F800000
+
+[♯28c Gil Multiplier (2x)]
+040E0000 02D83FC0 40000000
+
+[♯28d Gil Multiplier (4x)]
+040E0000 02D83FC0 40800000
+
+[♯28e Gil Multiplier (8x)]
+040E0000 02D83FC0 41000000
+
+[♯28f Gil Multiplier (16x)]
+040E0000 02D83FC0 41800000
+
+[Gil Multiplier end]
+20000001
+
+[♯29. AP Multiplier]
+20000000
+
+[♯29a AP Multiplier (0x)]
+040E0000 02D83FC4 80000000
+
+[♯29b AP Multiplier (1x)]
+040E0000 02D83FC4 3F800000
+
+[♯29c AP Multiplier (2x)]
+040E0000 02D83FC4 40000000
+
+[♯29d AP Multiplier (4x)]
+040E0000 02D83FC4 40800000
+
+[♯29e AP Multiplier (8x)]
+040E0000 02D83FC4 41000000
+
+[♯29f AP Multiplier (16x)]
+040E0000 02D83FC4 41800000
+
+[AP Multiplier end]
+20000001
+
+[Rewards end]
+20000001
+
+[Shops and Abilities]
+20000000
+
+[♯30. Shops Sell Every Available Shop Items]
+040E0000 02D83F88 00000001
+
+[♯31. Unlock All Abilities (View Abilities)]
+040E0000 02D83F8C 00000001
+
+[♯32. Bypass Equip Check (Allow Any Char to Any Item)]
+040E0000 02D83F94 00000001
+
+[Shops and Abilities end]
+20000001
+
+[Field]
+20000000
+
+[♯33. No Clip and No Collision (ZL)]
+040E0000 02052D50 35FFF988
+80000100
+040E0000 02052D50 D503201F
+20000000
+
+[♯34. Setzer's Slots Always Match]
+040E0000 02D83FEC 00000001
+
+[♯35. Always Show Hidden Passage(s)]
+20000000
+
+[♯35a Always Show Hidden Passage(s) (Blinking) ★]
+040E0000 02D83F98 00000001
+
+[♯35b Always Show Hidden Passage(s)]
+040E0000 02D83F98 00000001
+040E0000 02D83F9C 00000001
+
+[Always Show Hidden Passage(s) end]
+20000001
+
+[♯36. High Encounter Rate]
+20000000
+
+[♯36a High Encounter Rate (Encounters Must Be Enabled)]
+040E0000 02D83FA0 00000001
+
+[♯36b No Random Encounters]
+040E0000 02D83FA0 00000002
+
+[High Encounter Rate end]
+20000001
+
+[♯37. Game Speed]
+20000000
+
+[♯37a Game Speed (1x)]
+040E0000 02D83FF4 3F800000
+
+[♯37b Game Speed (1.5x)]
+040E0000 02D83FF4 3FC00000
+
+[♯37c Game Speed (2x)]
+040E0000 02D83FF4 40000000
+
+[♯37d Game Speed (3x)]
+040E0000 02D83FF4 40400000
+
+[♯37e Game Speed (4x)]
+040E0000 02D83FF4 40800000
+
+[Game Speed end]
+20000001
+
+[♯38. Field Walk Speed]
+20000000
+
+[♯38a Field Walk Speed (x2)]
+040E0000 02D83FA4 00003DF5
+
+[♯38b Field Walk Speed (x4)]
+040E0000 02D83FA4 00003D75
+
+[♯38c Field Walk Speed (x8)]
+040E0000 02D83FA4 00003CF5
+
+[Field Walk Speed end]
+20000001
+
+[Field end]
+20000001
+
+[- khuong ツ -]
+20000000

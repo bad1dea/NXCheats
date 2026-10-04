@@ -62,6 +62,7 @@ load it.
 | [Castlevania Belmont's Curse Demo](./0100D1D027E96000%20Castlevania%20Belmont's%20Curse%20Demo) | `0100D1D027E96000` | 20 |
 | [Diablo® II: Resurrected™](./0100726014352000%20Diablo®%20II:%20Resurrected™) | `0100726014352000` | 91 |
 | [Diablo III: Eternal Collection](./01001B300B9BE000%20Diablo%20III:%20Eternal%20Collection) | `01001B300B9BE000` | 70 |
+| [FINAL FANTASY VI](./0100AA001415E000%20FINAL%20FANTASY%20VI) | `0100AA001415E000` | 81 |
 | [Garfield - Escape From Monday](./01000EB0276F2000%20Garfield%20-%20Escape%20From%20Monday) | `01000EB0276F2000` | 22 |
 | [Hello Kitty Island Adventure](./010027901C89C000%20Hello%20Kitty%20Island%20Adventure) | `010027901C89C000` | 12 |
 | [High On Life](./0100C1101EE5A000%20High%20On%20Life) | `0100C1101EE5A000` | 27 |
@@ -76,7 +77,7 @@ load it.
 | [Splatoon™ 3](./0100C2500FC20000%20Splatoon™%203) | `0100C2500FC20000` | 28 |
 | [Super Mario RPG™](./0100BC0018138000%20Super%20Mario%20RPG™) | `0100BC0018138000` | 78 |
 
-**16 titles, 707 cheats.**
+**17 titles, 788 cheats.**
 
 ## Support
 

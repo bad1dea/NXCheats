@@ -13,12 +13,18 @@
 040E0000 03E030D4 52800C69
 040E0000 03E03054 52800C69
 
+[♯ 3. Upgrade Points]
+20000000
+
 [♯ 3a Upgrade Points 999]
 040E0000 03E00750 52807CE8
 040E0000 03E030EC 52807CE9
 
 [♯ 3b Upgrade Points never decrease]
 040E0000 03E030F4 D503201F
+
+[Upgrade Points end]
+20000001
 
 [♯ 4. No game over when chances run out]
 040E0000 03AB59B8 D503201F

@@ -2,6 +2,8 @@
   <img src="_assets/banner.jpg" width="900" alt="logo" style="border-radius:50%"/>
 </p>
 
+Ink, swim, and splat in the freshest shooter around
+
 **This set keeps the game offline.** Every cheat is meant for single
 player. Don't be lame and ruin other people's fun.
 
@@ -10,8 +12,9 @@ player. Don't be lame and ruin other people's fun.
 ./khuong/0100C2500FC20000/28C4287AEE36F749/*
   ├─ Power Eggs top up as you collect
   ├─ Sardinium 99
-  ├─ Upgrade Points 999
-  ├─ Upgrade Points never decrease
+  ├─ Upgrade Points/*
+  │  ├─ Upgrade Points 999
+  │  └─ Upgrade Points never decrease
   ├─ No game over when chances run out
   ├─ Infinite specials in Salmon Run
   ├─ Infinite Triple Inkstrike

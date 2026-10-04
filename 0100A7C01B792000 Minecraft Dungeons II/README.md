@@ -4,6 +4,8 @@
 
 Minecraft Dungeons II is here with more action, more loot, and more adventure. Step through the rift and fight where no hero has been before: the Sift, an uncharted dimension teeming with threats, mysteries, and breathtaking beauty.
 
+<p><img src="_assets/shot-1.png" width="300"/> <img src="_assets/shot-2.png" width="300"/> <img src="_assets/shot-3.png" width="300"/> <img src="_assets/shot-4.png" width="300"/></p>
+
 The Master Code enables offline play. Restart the game after installing this set.
 
 The console cheats (equip gear, levels, revive and so on) run one at a time: tick one, then untick it before ticking the next.
@@ -51,62 +53,68 @@ The console cheats (equip gear, levels, revive and so on) run one at a time: tic
   │  ├─ Thorns
   │  ├─ Guarding Strike Always
   │  └─ Soul Gathering x5
-  └─ Console commands/*
-     ├─ Unlock All Minecart Stations
-     ├─ Give 100000 XP
-     ├─ Level to 50
-     ├─ Level to 100
-     ├─ Gear for the Current Area
-     ├─ Level for the Current Area
-     ├─ Revive
-     ├─ Toggle Immortality
-     ├─ Move Speed 2x
-     ├─ Move Speed 1x
-     ├─ Max Health 500
-     ├─ Max Health 100
-     ├─ Time Dilation 0.5
-     ├─ Time Dilation 1
-     ├─ Equip Unique Sword (Level 100)
-     ├─ Equip Unique Bow (Level 100)
-     ├─ Equip Unique Helmet (Level 100)
-     ├─ Equip Unique Leggings (Level 100)
-     ├─ Equip Unique Boots (Level 100)
-     ├─ Equip Flame Scepter (Level 100)
-     ├─ Equip Lightning Rod (Level 100)
-     ├─ Equip Blizzard Staff (Level 100)
-     ├─ Kill Nearby Hostile Mobs (L3 + R3)
-     ├─ Nearby Mobs to 1 Health (R3 + Minus)
-     ├─ Melee Damage x3
-     ├─ Melee Damage x1
-     ├─ Ranged Damage x3
-     ├─ Ranged Damage x1
-     ├─ Critical Damage x5
-     ├─ Critical Damage x1.5
-     ├─ Melee Attack Speed 2x
-     ├─ Melee Attack Speed 1x
-     ├─ Bow Speed 2x
-     ├─ Bow Speed 1x
-     ├─ Roll Cooldown 0.5 s
-     ├─ Roll Cooldown 2.5 s
-     ├─ Potion Cooldown 2 s
-     ├─ Potion Cooldown 20 s
-     ├─ Max Arrows 30
-     ├─ Max Arrows 15
-     ├─ Looting x3
-     ├─ Rarity Bonus 50%
-     ├─ Drop Chance +50%
-     ├─ Drop Duplication 50%
-     ├─ XP Gain x2
-     ├─ Thorns 100%
-     ├─ Deflect 50% Of Projectiles
-     ├─ Low Gravity 0.5
-     ├─ Gravity 1
-     ├─ Jump Height 1.5x
-     ├─ Jump Height 1x
-     ├─ Souls 100
-     ├─ Enchantment Points 99
-     ├─ Emeralds 9999
-     └─ Echo Shards 100
+  ├─ Console commands/*
+  │  ├─ Unlock All Minecart Stations
+  │  ├─ Give 100000 XP
+  │  ├─ Level to 50
+  │  ├─ Level to 100
+  │  ├─ Gear for the Current Area
+  │  ├─ Level for the Current Area
+  │  ├─ Revive
+  │  ├─ Toggle Immortality
+  │  ├─ Move Speed 2x
+  │  ├─ Move Speed 1x
+  │  ├─ Max Health 500
+  │  ├─ Max Health 100
+  │  ├─ Time Dilation 0.5
+  │  ├─ Time Dilation 1
+  │  ├─ Equip Unique Sword (Level 100)
+  │  ├─ Equip Unique Bow (Level 100)
+  │  ├─ Equip Unique Helmet (Level 100)
+  │  ├─ Equip Unique Leggings (Level 100)
+  │  ├─ Equip Unique Boots (Level 100)
+  │  ├─ Equip Flame Scepter (Level 100)
+  │  ├─ Equip Lightning Rod (Level 100)
+  │  ├─ Equip Blizzard Staff (Level 100)
+  │  ├─ Kill Nearby Hostile Mobs (L3 + R3)
+  │  ├─ Nearby Mobs to 1 Health (R3 + Minus)
+  │  ├─ Melee Damage x3
+  │  ├─ Melee Damage x1
+  │  ├─ Ranged Damage x3
+  │  ├─ Ranged Damage x1
+  │  ├─ Critical Damage x5
+  │  ├─ Critical Damage x1.5
+  │  ├─ Melee Attack Speed 2x
+  │  ├─ Melee Attack Speed 1x
+  │  ├─ Bow Speed 2x
+  │  ├─ Bow Speed 1x
+  │  ├─ Roll Cooldown 0.5 s
+  │  ├─ Roll Cooldown 2.5 s
+  │  ├─ Potion Cooldown 2 s
+  │  ├─ Potion Cooldown 20 s
+  │  ├─ Max Arrows 30
+  │  ├─ Max Arrows 15
+  │  ├─ Looting x3
+  │  ├─ Rarity Bonus 50%
+  │  ├─ Drop Chance +50%
+  │  ├─ Drop Duplication 50%
+  │  ├─ XP Gain x2
+  │  ├─ Thorns 100%
+  │  ├─ Deflect 50% Of Projectiles
+  │  ├─ Low Gravity 0.5
+  │  ├─ Gravity 1
+  │  ├─ Jump Height 1.5x
+  │  ├─ Jump Height 1x
+  │  ├─ Souls 100
+  │  ├─ Enchantment Points 99
+  │  ├─ Emeralds 9999
+  │  └─ Echo Shards 100
+  └─ Cosmetics/*
+     ├─ Unlock Skins, Capes and Pets
+     ├─ Add All Capes (Once)
+     ├─ Add All Pets (Once)
+     ├─ Select Alex Preorder Skin
+     └─ Select Tank Deluxe Skin
 ```
 
 ## Changelog

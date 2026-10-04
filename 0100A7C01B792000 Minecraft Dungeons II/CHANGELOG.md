@@ -1,5 +1,9 @@
 # Change log
 
+## 2026/10/04
+1. added Unlock Skins, Capes and Pets, Add All Capes (Once), Add All Pets (Once), Select Alex Preorder Skin, Select Tank Deluxe Skin
+2. Added cosmetics, skins, and pets.
+
 ## 2026/10/03
 1. added One-Punch Man (OHK)
 2. removed One Hit Kill

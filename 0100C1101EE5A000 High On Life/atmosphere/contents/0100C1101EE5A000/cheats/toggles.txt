@@ -12,11 +12,15 @@ false
 false
 [♯ 6. One-Punch Man (OHK)]
 false
+[♯ 7. Damage]
+false
 [♯ 7a Damage x2]
 false
 [♯ 7b Damage x5]
 false
 [♯ 7c Damage x10]
+false
+[Damage end]
 false
 [♯ 8. Kill All Enemies (hold L3+R3)]
 false
@@ -24,11 +28,17 @@ false
 false
 [♯10. Enemies Don't Attack]
 false
+[♯11. Move Speed]
+false
 [♯11a Move Speed x1.5]
 false
 [♯11b Move Speed x2]
 false
 [♯11c Move Speed x3]
+false
+[Move Speed end]
+false
+[♯12. Jump Power]
 false
 [♯12a Jump Power x1.5]
 false
@@ -36,9 +46,17 @@ false
 false
 [♯12c Jump Power x3]
 false
+[Jump Power end]
+false
+[♯13. Gravity]
+false
 [♯13a Gravity x0.5]
 false
 [♯13b Gravity x0.25]
+false
+[Gravity end]
+false
+[♯14. Game Speed]
 false
 [♯14a Game Speed x0.5]
 false
@@ -46,11 +64,17 @@ false
 false
 [♯14c Game Speed x2]
 false
+[Game Speed end]
+false
+[♯15. Currency Gain]
+false
 [♯15a Currency Gain x2]
 false
 [♯15b Currency Gain x5]
 false
 [♯15c Currency Gain x10]
+false
+[Currency Gain end]
 false
 [♯16. Free Shopping]
 false

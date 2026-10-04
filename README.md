@@ -51,7 +51,7 @@ having to restore code, and a lot more code caves can be put in.
 
 More on how it works, with examples: [TWO-FILES.md](./TWO-FILES.md)
 
-<BID>.txt.noips is the full cheat file without the patch, with all the code
+`<BID>.txt.noips` is the full cheat file without the patch, with all the code
 in it, for anyone who wants to port or edit the cheats. Atmosphere does not
 load it.
 

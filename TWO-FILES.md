@@ -14,31 +14,31 @@ atmosphere folder to the root of your SD card.
 
 ## Why
 
-Cheat files run on CheatVM, and CheatVM has limits:
+This is to help bypass the limits of CheatVM. A cheat can only be so long, the
+cheat file has to write every code cave itself every time it runs, and turning
+a cheat off needs a Restore Code to put the game's code back.
 
-* each cheat can only be so long
-* a code cave has to be written by the cheat file itself, every time it runs
-* turning a cheat off needs a separate Restore Code entry to put the game's
-  code back
-
-With two files, the code caves live in the patch. Every cave checks its own
-word first. When the word is 0 the game runs like normal. The cheat file only
-sets those words, and the master code sets them all back to 0 each time it
-runs, so unticking a cheat turns it off. No Restore Code, a lot more room for
+With two files I put the code caves in the patch. Every cave checks its own
+word first, and when the word is 0 the game runs like normal. The cheat file
+only sets those words. The master code sets them all back to 0 every time it
+runs, so you untick a cheat and it's off. No Restore Code, a lot more room for
 code caves, and a much smaller cheat file.
 
+How the word gated caves work, also in a normal cheat file, with more
+examples: [WORD-CAVES.md](./WORD-CAVES.md)
+
 The patch and the cheat file are both made for one version of the game. After
-an update neither is used until a new set is released.
+an update neither one loads until I put out a new set.
 
 ## How it was done before, and how it is done now
 
-The comments below are only for reading. A real cheat file cannot have
-comments in it.
+The comments below are only there so you can follow along. A real cheat file
+can't have comments in it.
 
 ### Example 1: a patch that needs a Restore Code (made up)
 
-A game subtracts ammo with one instruction. The usual way is to write over it,
-and to have a second entry that writes the original back.
+A game takes ammo away with one instruction. The usual way is to write over
+it, and have a second entry that writes the original back.
 
 **Before**, one file:
 
@@ -50,8 +50,8 @@ and to have a second entry that writes the original back.
 04000000 00123450 51000508      ; write "SUB W8, W8, #1" back
 ```
 
-Unticking Infinite Ammo does not turn it off. You have to tick Restore Code,
-and Restore Code puts back every patch in the file at once.
+Unticking Infinite Ammo doesn't turn it off. You have to tick Restore Code, and
+that puts back every patch in the file at once.
 
 **Now**, two files:
 
@@ -72,13 +72,13 @@ skip:           B    main+0x123454          ; back to the game
 04000000 00FFF000 00000001      ; word_ammo = 1 while ticked
 ```
 
-Untick it and the master sets the word back to 0. The cave sees 0 and runs the
-subtract like normal.
+Untick it and the master sets the word back to 0. The cave sees 0 and takes
+the ammo like normal.
 
 ### Example 2: a multiplier with a few rungs (made up)
 
-Gold x2 / x5 / x10. The usual way gives each rung its own copy of the cave
-with a different number in it, and the cave is written again by every rung.
+Gold x2 / x5 / x10. The usual way gives each rung its own copy of the cave with
+a different number in it, and every rung writes it again.
 
 **Before**, one file:
 
@@ -121,7 +121,7 @@ out:            LDR  W0, [X0]               ; the original instruction
 
 ## Real examples: The Outer Worlds 1.0.5
 
-These are from `0100626011656000 The Outer Worlds`. The old file was already
+These are from `0100626011656000 The Outer Worlds`. My old file was already
 word gated, so it had no Restore Code, but every cheat still had to write its
 whole cave.
 
@@ -148,7 +148,7 @@ whole cave.
 ```
 
 Companions Infinite Health and One-Punch Man (OHK) used the same 24 line cave
-and wrote it again each. Now they are 1 line each too.
+and each wrote it again. Now they're 1 line each too.
 
 ### Exp x2 / x5 / x10
 
@@ -199,5 +199,5 @@ out:             CMP  W1, #1                ; the instruction the hook replaced
 | Patch | none | 1,321 bytes |
 | Restore Code | none (word gated) | none |
 
-The master code is the same in both. It sets every word back to 0, so
-anything you untick turns off.
+The master code is the same in both. It sets every word back to 0, so anything
+you untick turns off.

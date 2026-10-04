@@ -1,0 +1,200 @@
+[FINAL FANTASY V (GLOBAL) v393216 TID=0100AA201415C000 BID=398E519CEA82A9BD]
+false
+[Party]
+false
+[♯ 1. Inf. HP]
+false
+[♯ 2. Inf. MP]
+false
+[♯ 3. Max Hit Rate (Party)]
+false
+[♯ 4. Max Evasion Rate (Party)]
+false
+[♯ 5. 100% Critical Hit Rate (Party)]
+false
+[♯ 6. ATB Bar Always Full (Party)]
+false
+[♯ 7. Two-Handed Attack Multiplier]
+false
+[♯ 7a Two-Handed Attack Multiplier (x3)]
+false
+[♯ 7b Two-Handed Attack Multiplier (x4)]
+false
+[Two-Handed Attack Multiplier end]
+false
+[Party end]
+false
+[Battle]
+false
+[♯ 8. One-Punch Man (OHK)]
+false
+[♯ 9. Always Steal Rare Item (If Enemy Has)]
+false
+[♯10. Battle and Auto Battle Speed Multiplier]
+false
+[♯10a Battle and Auto Battle Speed Multiplier (1.5x)]
+false
+[♯10b Battle and Auto Battle Speed Multiplier (2x)]
+false
+[♯10c Battle and Auto Battle Speed Multiplier (2.5x)]
+false
+[♯10d Auto Battle Speed Multiplier (1.5x)]
+false
+[♯10e Auto Battle Speed Multiplier (2x)]
+false
+[♯10f Auto Battle Speed Multiplier (2.5x)]
+false
+[♯10g Auto Battle Speed Multiplier (3x)]
+false
+[♯10h Auto Battle Speed Multiplier (4x)]
+false
+[♯10i Auto Battle Speed Multiplier (5x)]
+false
+[Battle and Auto Battle Speed Multiplier end]
+false
+[Battle end]
+false
+[Rewards]
+false
+[♯11. Inf. Gil]
+false
+[♯12. Inf. Item Usage]
+false
+[♯13. 100% Drop Rate (Not All Monsters Drop Items)]
+false
+[♯14. Get All Items After Battle]
+false
+[♯14a Get All Items After Battle (Need 100% Drop Rate Enabled)]
+false
+[♯14b Learn Blue Magic After Battle (Need 100% Drop Rate Enabled)]
+false
+[Get All Items After Battle end]
+false
+[♯15. XP Multiplier]
+false
+[♯15a XP Multiplier (0x)]
+false
+[♯15b XP Multiplier (0.5x)]
+false
+[♯15c XP Multiplier (1x)]
+false
+[♯15d XP Multiplier (2x)]
+false
+[♯15e XP Multiplier (4x)]
+false
+[♯15f XP Multiplier (8x)]
+false
+[♯15g XP Multiplier (16x)]
+false
+[♯15h XP Multiplier (30x)]
+false
+[XP Multiplier end]
+false
+[♯16. Gil Multiplier]
+false
+[♯16a Gil Multiplier (0x)]
+false
+[♯16b Gil Multiplier (0.5x)]
+false
+[♯16c Gil Multiplier (1x)]
+false
+[♯16d Gil Multiplier (2x)]
+false
+[♯16e Gil Multiplier (4x)]
+false
+[♯16f Gil Multiplier (8x)]
+false
+[♯16g Gil Multiplier (16x)]
+false
+[♯16h Gil Multiplier (30x)]
+false
+[Gil Multiplier end]
+false
+[♯17. ABP Multiplier]
+false
+[♯17a ABP Multiplier (0x)]
+false
+[♯17b ABP Multiplier (0.5x)]
+false
+[♯17c ABP Multiplier (1x)]
+false
+[♯17d ABP Multiplier (2x)]
+false
+[♯17e ABP Multiplier (4x)]
+false
+[♯17f ABP Multiplier (8x)]
+false
+[♯17g ABP Multiplier (16x)]
+false
+[♯17h ABP Multiplier (30x)]
+false
+[♯17i ABP Multiplier (10000x)]
+false
+[ABP Multiplier end]
+false
+[Rewards end]
+false
+[Shops and Jobs]
+false
+[♯18. Shops Sell Every Available Shop Items]
+false
+[♯19. Bypass Equip Check (Allow Any Char to Any Item)]
+false
+[♯20. Unlock All Jobs (Open the Job Menu)]
+false
+[♯21. All Jobs Count as Mastered]
+false
+[Shops and Jobs end]
+false
+[Field]
+false
+[♯22. No Clip and No Collision (ZL)]
+false
+[♯23. Always Show Hidden Passage(s)]
+false
+[♯23a Always Show Hidden Passage(s) (Blinking) ★]
+false
+[♯23b Always Show Hidden Passage(s)]
+false
+[Always Show Hidden Passage(s) end]
+false
+[♯24. Encounter Rate]
+false
+[♯24a Encounter Rate (None)]
+false
+[♯24b Encounter Rate (x2)]
+false
+[♯24c Encounter Rate (x4)]
+false
+[♯24d Encounter Rate (Every Step, Encounters Must Be Enabled)]
+false
+[Encounter Rate end]
+false
+[♯25. Game Speed]
+false
+[♯25a Game Speed (1x)]
+false
+[♯25b Game Speed (1.5x)]
+false
+[♯25c Game Speed (2x)]
+false
+[♯25d Game Speed (3x)]
+false
+[♯25e Game Speed (4x)]
+false
+[Game Speed end]
+false
+[♯26. Field Walk Speed]
+false
+[♯26a Field Walk Speed (x2)]
+false
+[♯26b Field Walk Speed (x4)]
+false
+[♯26c Field Walk Speed (x8)]
+false
+[Field Walk Speed end]
+false
+[Field end]
+false
+[- khuong ツ -]
+false

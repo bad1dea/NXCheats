@@ -12,7 +12,7 @@ Mario, Bowser, and Peach partner up to repair the wish-granting Star Road in thi
 I tried to find this years ago and failed. I decided to go at it again, and the game's own debug menu is still sitting in the retail build. Nothing ever opens it, so I made a cheat that does. Tick Debug Menu Hotkey and click both sticks (L3+R3) in the field. You can warp to any map, edit coins, flower points and party stats, and switch collision, encounters and an FPS and position overlay.
 
 **Star Power, Game Speed and the hotkeys**
-Star Power is the invincibility star whenever you want it. Tick it for a star that never runs out, or use a Minus hotkey: one toggles it, the other gives you a 10 second star each press. Game Speed goes up to 4x, and Game Speed (Hold R3 for 3x) fast forwards while you hold the stick click. A running star blocks the world map, so turn it off before you leave the field.
+Star Power is the invincibility star whenever you want it. Tick it for a star that never runs out, or use a Minus hotkey: one toggles it, the other gives you a 10 second star each press. Game Speed goes up to 4x, and Game Speed (Hold R3 for 3x) fast forwards (including cutscenes) while you hold the button down. A running star blocks the world map, so turn it off before you leave the field.
 
 Both files have to be installed: the cheat file in atmosphere/contents/0100BC0018138000/cheats and the patch in atmosphere/exefs_patches/nxcheats. Copy the whole atmosphere folder to your SD card.
 

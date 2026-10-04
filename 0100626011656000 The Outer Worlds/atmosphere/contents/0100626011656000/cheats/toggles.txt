@@ -1,7 +1,5 @@
 [The Outer Worlds (GLOBAL) v1.0.5 TID=0100626011656000 BID=761CD556AB357C87]
 false
-[ツ IPS patch required or cheats won't work ツ]
-false
 [♯ 1. Infinite Health]
 false
 [♯ 2. Companions Infinite Health]
@@ -12,11 +10,15 @@ false
 false
 [♯ 5. One-Punch Man (OHK)]
 false
+[♯ 6. Damage]
+false
 [♯ 6a Damage x2]
 false
 [♯ 6b Damage x5]
 false
 [♯ 6c Damage x10]
+false
+[Damage end]
 false
 [♯ 7. No Spread]
 false
@@ -30,11 +32,17 @@ false
 false
 [♯12. Ignore Encumbrance]
 false
+[♯13. Move Speed]
+false
 [♯13a Move Speed x1.5]
 false
 [♯13b Move Speed x2]
 false
 [♯13c Move Speed x3]
+false
+[Move Speed end]
+false
+[♯14. Jump Height]
 false
 [♯14a Jump Height x1.5]
 false
@@ -42,21 +50,31 @@ false
 false
 [♯14c Jump Height x3]
 false
+[Jump Height end]
+false
+[♯15. Exp]
+false
 [♯15a Exp x2]
 false
 [♯15b Exp x5]
 false
 [♯15c Exp x10]
 false
+[Exp end]
+false
 [♯16. Skill Points 99]
 false
 [♯17. Perk Points 9]
+false
+[♯18. Bits Gain]
 false
 [♯18a Bits Gain x2]
 false
 [♯18b Bits Gain x5]
 false
 [♯18c Bits Gain x10]
+false
+[Bits Gain end]
 false
 [♯19. Unlock All Locked Containers]
 false

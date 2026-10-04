@@ -4,6 +4,8 @@
 
 You are Geralt of Rivia, mercenary monster slayer.
 
+The IPS also skips the logo and intro videos and goes straight to the game.
+
 Both files have to be installed: the cheat file in atmosphere/contents/01003D100E9C6000/cheats and the patch in atmosphere/exefs_patches/nxcheats. Copy the whole atmosphere folder to your SD card.
 
 C0AD3CC6D7866578.txt.noips is the full cheat file without the patch, with all the code in it, for anyone who wants to port or edit the cheats. Atmosphere does not load it.

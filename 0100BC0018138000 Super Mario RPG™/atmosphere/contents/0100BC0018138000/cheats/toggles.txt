@@ -36,9 +36,9 @@ false
 false
 [♯ 7. Always Succeed At Running Away]
 false
-[♯ 8. Always Special Enem(y-ies)]
+[♯ 8. Always Special Enemies]
 false
-[♯ 9. Action Guage Always Full]
+[♯ 9. Action Gauge Always Full]
 false
 [♯10. 999 Chain (After Successful Chain)]
 false
@@ -76,13 +76,13 @@ false
 false
 [♯14c Player Dmg Multiplier (1.5x) ★]
 false
-[♯14d Player Dmg Multiplier (2.0x)]
+[♯14d Player Dmg Multiplier (2x)]
 false
-[♯14e Player Dmg Multiplier (3.0x)]
+[♯14e Player Dmg Multiplier (3x)]
 false
-[♯14f Player Dmg Multiplier (4.0x)]
+[♯14f Player Dmg Multiplier (4x)]
 false
-[♯14g Player Dmg Multiplier (5.0x)]
+[♯14g Player Dmg Multiplier (5x)]
 false
 [Player Dmg Multiplier end]
 false
@@ -94,15 +94,15 @@ false
 false
 [♯15c Enemy Dmg Multiplier (1x)]
 false
-[♯15d Enemy Dmg Multiplier (2.0x)]
+[♯15d Enemy Dmg Multiplier (2x)]
 false
-[♯15e Enemy Dmg Multiplier (3.0x)]
+[♯15e Enemy Dmg Multiplier (3x)]
 false
-[♯15f Enemy Dmg Multiplier (4.0x)]
+[♯15f Enemy Dmg Multiplier (4x)]
 false
-[♯15g Enemy Dmg Multiplier (5.0x)]
+[♯15g Enemy Dmg Multiplier (5x)]
 false
-[♯15h Enemy Dmg Multiplier (10.0x)]
+[♯15h Enemy Dmg Multiplier (10x)]
 false
 [Enemy Dmg Multiplier end]
 false
@@ -236,13 +236,7 @@ false
 false
 [Debug]
 false
-[♯35. Debug Menu]
-false
-[♯35a Debug Menu (Attach It)]
-false
-[♯35b Debug Menu Hotkey (L3+R3 Opens It)]
-false
-[Debug Menu end]
+[♯35. Debug Menu Hotkey (L3+R3 Opens It)]
 false
 [Debug end]
 false

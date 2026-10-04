@@ -36,8 +36,8 @@ Both files have to be installed: the cheat file in atmosphere/contents/0100BC001
   ├─ Battle/*
   │  ├─ 100% Hit Chance
   │  ├─ Always Succeed At Running Away
-  │  ├─ Always Special Enem(y-ies)
-  │  ├─ Action Guage Always Full
+  │  ├─ Always Special Enemies
+  │  ├─ Action Gauge Always Full
   │  ├─ 999 Chain (After Successful Chain)
   │  ├─ Always Perfect Super & Ultra Jumps (Hold ZR to Stop Jumping)
   │  ├─ Auto Action Commands/*
@@ -54,19 +54,19 @@ Both files have to be installed: the cheat file in atmosphere/contents/0100BC001
   │  │  ├─ Player Dmg Multiplier (0.5x)
   │  │  ├─ Player Dmg Multiplier (1x)
   │  │  ├─ Player Dmg Multiplier (1.5x)
-  │  │  ├─ Player Dmg Multiplier (2.0x)
-  │  │  ├─ Player Dmg Multiplier (3.0x)
-  │  │  ├─ Player Dmg Multiplier (4.0x)
-  │  │  └─ Player Dmg Multiplier (5.0x)
+  │  │  ├─ Player Dmg Multiplier (2x)
+  │  │  ├─ Player Dmg Multiplier (3x)
+  │  │  ├─ Player Dmg Multiplier (4x)
+  │  │  └─ Player Dmg Multiplier (5x)
   │  └─ Enemy Dmg Multiplier/*
   │     ├─ Enemy Dmg Multiplier (0x)
   │     ├─ Enemy Dmg Multiplier (0.5x)
   │     ├─ Enemy Dmg Multiplier (1x)
-  │     ├─ Enemy Dmg Multiplier (2.0x)
-  │     ├─ Enemy Dmg Multiplier (3.0x)
-  │     ├─ Enemy Dmg Multiplier (4.0x)
-  │     ├─ Enemy Dmg Multiplier (5.0x)
-  │     └─ Enemy Dmg Multiplier (10.0x)
+  │     ├─ Enemy Dmg Multiplier (2x)
+  │     ├─ Enemy Dmg Multiplier (3x)
+  │     ├─ Enemy Dmg Multiplier (4x)
+  │     ├─ Enemy Dmg Multiplier (5x)
+  │     └─ Enemy Dmg Multiplier (10x)
   ├─ Rewards/*
   │  ├─ Bonus Flower Always Drops
   │  ├─ Force Item Drop (EDIT THIS - Must use with 100% Drop Rate)
@@ -118,9 +118,7 @@ Both files have to be installed: the cheat file in atmosphere/contents/0100BC001
   │  ├─ Auto Yoshi Race
   │  └─ Goomba Thumping High Score
   └─ Debug/*
-     └─ Debug Menu/*
-        ├─ Debug Menu (Attach It)
-        └─ Debug Menu Hotkey (L3+R3 Opens It)
+     └─ Debug Menu Hotkey (L3+R3 Opens It)
 ```
 
 ## Changelog

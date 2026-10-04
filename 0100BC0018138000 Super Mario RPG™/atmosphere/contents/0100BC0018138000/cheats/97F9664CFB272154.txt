@@ -110,10 +110,10 @@ C0451400 00000000
 [♯ 7. Always Succeed At Running Away]
 040E0000 02323F88 00000001
 
-[♯ 8. Always Special Enem(y-ies)]
+[♯ 8. Always Special Enemies]
 040E0000 02323F8C 00000001
 
-[♯ 9. Action Guage Always Full]
+[♯ 9. Action Gauge Always Full]
 040E0000 02323F90 00000001
 
 [♯10. 999 Chain (After Successful Chain)]
@@ -184,16 +184,16 @@ C0451400 00000000
 [♯14c Player Dmg Multiplier (1.5x) ★]
 040E0000 02323FAC 3F000000
 
-[♯14d Player Dmg Multiplier (2.0x)]
+[♯14d Player Dmg Multiplier (2x)]
 040E0000 02323FAC 3F800000
 
-[♯14e Player Dmg Multiplier (3.0x)]
+[♯14e Player Dmg Multiplier (3x)]
 040E0000 02323FAC 40000000
 
-[♯14f Player Dmg Multiplier (4.0x)]
+[♯14f Player Dmg Multiplier (4x)]
 040E0000 02323FAC 40400000
 
-[♯14g Player Dmg Multiplier (5.0x)]
+[♯14g Player Dmg Multiplier (5x)]
 040E0000 02323FAC 40800000
 
 [Player Dmg Multiplier end]
@@ -211,19 +211,19 @@ C0451400 00000000
 [♯15c Enemy Dmg Multiplier (1x)]
 040E0000 02323FB0 00000000
 
-[♯15d Enemy Dmg Multiplier (2.0x)]
+[♯15d Enemy Dmg Multiplier (2x)]
 040E0000 02323FB0 3F800000
 
-[♯15e Enemy Dmg Multiplier (3.0x)]
+[♯15e Enemy Dmg Multiplier (3x)]
 040E0000 02323FB0 40000000
 
-[♯15f Enemy Dmg Multiplier (4.0x)]
+[♯15f Enemy Dmg Multiplier (4x)]
 040E0000 02323FB0 40400000
 
-[♯15g Enemy Dmg Multiplier (5.0x)]
+[♯15g Enemy Dmg Multiplier (5x)]
 040E0000 02323FB0 40800000
 
-[♯15h Enemy Dmg Multiplier (10.0x)]
+[♯15h Enemy Dmg Multiplier (10x)]
 040E0000 02323FB0 41100000
 
 [Enemy Dmg Multiplier end]
@@ -489,13 +489,7 @@ C086F400 00000000 00000000
 [Debug]
 20000000
 
-[♯35. Debug Menu]
-20000000
-
-[♯35a Debug Menu (Attach It)]
-040E0000 02323FFC 00000001
-
-[♯35b Debug Menu Hotkey (L3+R3 Opens It)]
+[♯35. Debug Menu Hotkey (L3+R3 Opens It)]
 040E0000 02323FFC 00000001
 80000030
 58030000 032A5400
@@ -510,9 +504,6 @@ C0863400 00000000 00000000
 20000000
 20000000
 20000000
-
-[Debug Menu end]
-20000001
 
 [Debug end]
 20000001

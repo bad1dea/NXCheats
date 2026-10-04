@@ -1,0 +1,320 @@
+[FINAL FANTASY III (GLOBAL) v262144 TID=01002E2014158000 BID=A2FD98846A80B591]
+
+{IPS patch required or cheats won't work}
+080E0000 029D2F88 00000000 00000000
+080E0000 029D2F90 00000000 00000000
+080E0000 029D2F98 00000000 00000000
+080E0000 029D2FA0 00000000 00000000
+080E0000 029D2FA8 00000000 00000000
+080E0000 029D2FB0 00000000 00000000
+080E0000 029D2FB8 00000000 00000000
+080E0000 029D2FC0 00000000 00000000
+080E0000 029D2FC8 00000000 00000000
+080E0000 029D2FD0 00000000 00000000
+080E0000 029D2FD8 00000000 00000000
+080E0000 029D2FE0 00000000 00000000
+080E0000 029D2FE8 00000000 00000000
+080E0000 029D2FF0 00000000 00000000
+080E0000 029D2FF8 00000000 00000000
+
+[Party]
+20000000
+
+[♯ 1. Inf. HP]
+040E0000 029D2F88 00000001
+
+[♯ 2. Inf. MP]
+040E0000 029D2F8C 00000001
+
+[♯ 3. Invincible]
+040E0000 029D2F90 00000001
+
+[♯ 4. Does Not Deduct HP When Poisoned]
+040E0000 029D2F94 00000001
+
+[♯ 5. 100% Critical Hit Rate (Party)]
+040E0000 029D2F98 00000001
+
+[♯ 6. Max Hit Rate (Party)]
+040E0000 029D2F9C 00000001
+
+[♯ 7. Max Evasion Rate (Party)]
+040E0000 029D2FA0 00000001
+
+[♯ 8. Hit Count 16 (Party)]
+040E0000 029D2FA4 00000010
+
+[♯ 9. Evasion Count 16 (Party)]
+040E0000 029D2FA8 00000010
+
+[♯10. Battle Job Level 99 (Party)]
+040E0000 029D2FAC 00000063
+
+[Party end]
+20000001
+
+[Battle]
+20000000
+
+[♯11. One-Punch Man (OHK)]
+040E0000 029D2FB0 00000001
+
+[♯12. 100% Steal Rate]
+040E0000 029D2FB4 00000001
+
+[♯13. Always Steal Rare Item (If Enemy Has)]
+040E0000 029D2FB8 00000001
+
+[♯14. 100% Drop Rate]
+040E0000 029D2FBC 00000001
+
+[♯15. Battle and Auto Battle Speed Multiplier]
+20000000
+
+[♯15a Battle and Auto Battle Speed Multiplier (1.5x)]
+040E0000 029D2FC0 00000001
+040E0000 029D2FC4 3FC00000
+
+[♯15b Battle and Auto Battle Speed Multiplier (2x)]
+040E0000 029D2FC0 00000001
+040E0000 029D2FC4 40000000
+
+[♯15c Battle and Auto Battle Speed Multiplier (2.5x)]
+040E0000 029D2FC0 00000001
+040E0000 029D2FC4 40200000
+
+[♯15d Auto Battle Speed Multiplier (1.5x)]
+040E0000 029D2FC4 3FC00000
+
+[♯15e Auto Battle Speed Multiplier (2x)]
+040E0000 029D2FC4 40000000
+
+[♯15f Auto Battle Speed Multiplier (2.5x)]
+040E0000 029D2FC4 40200000
+
+[♯15g Auto Battle Speed Multiplier (3x)]
+040E0000 029D2FC4 40400000
+
+[♯15h Auto Battle Speed Multiplier (4x)]
+040E0000 029D2FC4 40800000
+
+[♯15i Auto Battle Speed Multiplier (5x)]
+040E0000 029D2FC4 40A00000
+
+[Battle and Auto Battle Speed Multiplier end]
+20000001
+
+[Battle end]
+20000001
+
+[Rewards]
+20000000
+
+[♯16. Inf. Gil]
+040E0000 029D2FC8 00000001
+
+[♯17. Inf. Item Usage]
+040E0000 029D2FCC 00000001
+
+[♯18. Get All Items After Battle (Need 100% Drop Rate Enabled)]
+080E0000 029D2F80 FFF8003F FFFFFFFC
+080E0000 029D2F78 FFFFFFFF FFFFFFFF
+080E0000 029D2F70 FFFFFFFF FFFFF87F
+080E0000 029D2F68 00000000 000007FF
+040E0000 029D2FD0 00000001
+
+[♯19. Gil Multiplier]
+20000000
+
+[♯19a Gil Multiplier (0x)]
+040E0000 029D2FD8 80000000
+
+[♯19b Gil Multiplier (0.5x)]
+040E0000 029D2FD8 3F000000
+
+[♯19c Gil Multiplier (1x)]
+040E0000 029D2FD8 3F800000
+
+[♯19d Gil Multiplier (2x)]
+040E0000 029D2FD8 40000000
+
+[♯19e Gil Multiplier (4x)]
+040E0000 029D2FD8 40800000
+
+[♯19f Gil Multiplier (8x)]
+040E0000 029D2FD8 41000000
+
+[♯19g Gil Multiplier (16x)]
+040E0000 029D2FD8 41800000
+
+[♯19h Gil Multiplier (30x)]
+040E0000 029D2FD8 41F00000
+
+[Gil Multiplier end]
+20000001
+
+[♯20. XP Multiplier]
+20000000
+
+[♯20a XP Multiplier (0x)]
+040E0000 029D2FD4 80000000
+
+[♯20b XP Multiplier (0.5x)]
+040E0000 029D2FD4 3F000000
+
+[♯20c XP Multiplier (1x)]
+040E0000 029D2FD4 3F800000
+
+[♯20d XP Multiplier (2x)]
+040E0000 029D2FD4 40000000
+
+[♯20e XP Multiplier (4x)]
+040E0000 029D2FD4 40800000
+
+[♯20f XP Multiplier (8x)]
+040E0000 029D2FD4 41000000
+
+[♯20g XP Multiplier (16x)]
+040E0000 029D2FD4 41800000
+
+[♯20h XP Multiplier (30x)]
+040E0000 029D2FD4 41F00000
+
+[XP Multiplier end]
+20000001
+
+[♯21. Job Proficiency Multiplier]
+20000000
+
+[♯21a Job Proficiency Multiplier (0.5x)]
+040E0000 029D2FDC 3F000000
+
+[♯21b Job Proficiency Multiplier (1x)]
+040E0000 029D2FDC 3F800000
+
+[♯21c Job Proficiency Multiplier (2x)]
+040E0000 029D2FDC 40000000
+
+[♯21d Job Proficiency Multiplier (4x)]
+040E0000 029D2FDC 40800000
+
+[♯21e Job Proficiency Multiplier (8x)]
+040E0000 029D2FDC 41000000
+
+[♯21f Job Proficiency Multiplier (16x)]
+040E0000 029D2FDC 41800000
+
+[♯21g Job Proficiency Multiplier (30x)]
+040E0000 029D2FDC 41F00000
+
+[Job Proficiency Multiplier end]
+20000001
+
+[♯22. Weapon Mastering Multiplier]
+20000000
+
+[♯22a Weapon Mastering Multiplier (2x)]
+040E0000 029D2FE0 00000001
+
+[♯22b Weapon Mastering Multiplier (4x)]
+040E0000 029D2FE0 00000002
+
+[♯22c Weapon Mastering Multiplier (8x)]
+040E0000 029D2FE0 00000003
+
+[♯22d Weapon Mastering Multiplier (16x)]
+040E0000 029D2FE0 00000004
+
+[Weapon Mastering Multiplier end]
+20000001
+
+[Rewards end]
+20000001
+
+[Shops and Equipment]
+20000000
+
+[♯23. Shops Sell Every Available Shop Items]
+040E0000 029D2FE4 00000001
+
+[♯24. Bypass Equip Check (Allow Any Char to Any Item)]
+040E0000 029D2FE8 00000001
+
+[Shops and Equipment end]
+20000001
+
+[Field]
+20000000
+
+[♯25. No Clip and No Collision (ZL)]
+040E0000 01DC28A8 340001A8
+80000100
+040E0000 01DC28A8 350001A8
+20000000
+
+[♯26. Always Show Hidden Passage(s)]
+20000000
+
+[♯26a Always Show Hidden Passage(s) (Blinking) ★]
+040E0000 029D2FEC 00000001
+
+[♯26b Always Show Hidden Passage(s)]
+040E0000 029D2FEC 00000001
+040E0000 029D2FF0 00000001
+
+[Always Show Hidden Passage(s) end]
+20000001
+
+[♯27. High Encounter Rate]
+20000000
+
+[♯27a High Encounter Rate (Encounters Must Be Enabled)]
+040E0000 029D2FF4 00000001
+
+[♯27b No Random Encounters]
+040E0000 029D2FF4 00000002
+
+[High Encounter Rate end]
+20000001
+
+[♯28. Game Speed]
+20000000
+
+[♯28a Game Speed (1x)]
+040E0000 029D2FF8 3F800000
+
+[♯28b Game Speed (1.5x)]
+040E0000 029D2FF8 3FC00000
+
+[♯28c Game Speed (2x)]
+040E0000 029D2FF8 40000000
+
+[♯28d Game Speed (3x)]
+040E0000 029D2FF8 40400000
+
+[♯28e Game Speed (4x)]
+040E0000 029D2FF8 40800000
+
+[Game Speed end]
+20000001
+
+[♯29. Field Walk Speed]
+20000000
+
+[♯29a Field Walk Speed (x2)]
+040E0000 029D2FFC 00003DF5
+
+[♯29b Field Walk Speed (x4)]
+040E0000 029D2FFC 00003D75
+
+[♯29c Field Walk Speed (x8)]
+040E0000 029D2FFC 00003CF5
+
+[Field Walk Speed end]
+20000001
+
+[Field end]
+20000001
+
+[- khuong ツ -]
+20000000

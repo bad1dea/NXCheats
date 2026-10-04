@@ -1,0 +1,174 @@
+[FINAL FANTASY (GLOBAL) v262144 TID=01000EA014150000 BID=6B0BD4F481C41149]
+false
+[Party]
+false
+[♯ 1. Inf. HP]
+false
+[♯ 2. Inf. MP]
+false
+[♯ 3. Max Spell Charges (9 per Level)]
+false
+[♯ 4. Knight and Ninja Charge Cap 9 (On Level Up)]
+false
+[♯ 5. Max Stat Ups on Level Up]
+false
+[♯ 6. Max HP Growth on Level Up]
+false
+[Party end]
+false
+[Battle]
+false
+[♯ 7. One-Punch Man (OHK)]
+false
+[♯ 8. 100% Drop Rate]
+false
+[♯ 9. Run Never Fails]
+false
+[♯10. Run From Any Battle]
+false
+[♯11. Always Preemptive Strike]
+false
+[♯11a Always Preemptive Strike]
+false
+[♯11b No Back Attacks]
+false
+[Always Preemptive Strike end]
+false
+[♯12. Battle and Auto Battle Speed Multiplier]
+false
+[♯12a Battle and Auto Battle Speed Multiplier (1.5x)]
+false
+[♯12b Battle and Auto Battle Speed Multiplier (2x)]
+false
+[♯12c Battle and Auto Battle Speed Multiplier (2.5x)]
+false
+[♯12d Auto Battle Speed Multiplier (1.5x)]
+false
+[♯12e Auto Battle Speed Multiplier (2x)]
+false
+[♯12f Auto Battle Speed Multiplier (2.5x)]
+false
+[♯12g Auto Battle Speed Multiplier (3x)]
+false
+[♯12h Auto Battle Speed Multiplier (4x)]
+false
+[♯12i Auto Battle Speed Multiplier (5x)]
+false
+[Battle and Auto Battle Speed Multiplier end]
+false
+[Battle end]
+false
+[Rewards]
+false
+[♯13. Inf. Gil]
+false
+[♯14. Inf. Item Usage]
+false
+[♯15. Get All Items After Battle (Need 100% Drop Rate Enabled)]
+false
+[♯16. XP Multiplier]
+false
+[♯16a XP Multiplier (0x)]
+false
+[♯16b XP Multiplier (0.5x)]
+false
+[♯16c XP Multiplier (1x)]
+false
+[♯16d XP Multiplier (2x)]
+false
+[♯16e XP Multiplier (4x)]
+false
+[♯16f XP Multiplier (8x)]
+false
+[♯16g XP Multiplier (16x)]
+false
+[♯16h XP Multiplier (30x)]
+false
+[XP Multiplier end]
+false
+[♯17. Gil Multiplier]
+false
+[♯17a Gil Multiplier (0x)]
+false
+[♯17b Gil Multiplier (0.5x)]
+false
+[♯17c Gil Multiplier (1x)]
+false
+[♯17d Gil Multiplier (2x)]
+false
+[♯17e Gil Multiplier (4x)]
+false
+[♯17f Gil Multiplier (8x)]
+false
+[♯17g Gil Multiplier (16x)]
+false
+[♯17h Gil Multiplier (30x)]
+false
+[Gil Multiplier end]
+false
+[Rewards end]
+false
+[Shops and Equipment]
+false
+[♯18. Shops Sell Every Available Shop Items]
+false
+[♯19. Free Shopping (Buy Price 0)]
+false
+[♯20. Bypass Equip Check (Allow Any Char to Any Item)]
+false
+[Shops and Equipment end]
+false
+[Field]
+false
+[♯21. No Clip and No Collision (ZL)]
+false
+[♯22. Always Show Hidden Passage(s)]
+false
+[♯22a Always Show Hidden Passage(s) (Blinking) ★]
+false
+[♯22b Always Show Hidden Passage(s)]
+false
+[Always Show Hidden Passage(s) end]
+false
+[♯23. No Random Encounters]
+false
+[♯23a No Random Encounters]
+false
+[♯23b Encounter Rate (x2)]
+false
+[♯23c Encounter Rate (x4)]
+false
+[♯23d Encounter Rate (x8)]
+false
+[♯23e Encounter Every Step]
+false
+[No Random Encounters end]
+false
+[♯24. Game Speed]
+false
+[♯24a Game Speed (1x)]
+false
+[♯24b Game Speed (1.5x)]
+false
+[♯24c Game Speed (2x)]
+false
+[♯24d Game Speed (3x)]
+false
+[♯24e Game Speed (4x)]
+false
+[Game Speed end]
+false
+[♯25. Field Walk Speed]
+false
+[♯25a Field Walk Speed (x2)]
+false
+[♯25b Field Walk Speed (x4)]
+false
+[♯25c Field Walk Speed (x8)]
+false
+[Field Walk Speed end]
+false
+[Field end]
+false
+[- khuong ツ -]
+false

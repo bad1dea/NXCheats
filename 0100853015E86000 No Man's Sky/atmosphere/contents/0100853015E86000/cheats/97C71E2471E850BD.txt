@@ -139,6 +139,9 @@
 040E0000 003FB2C4 6B1F0108
 040E0000 003FB32C 6B1F0108
 
+[♯30. Money Multiplier]
+20000000
+
 [♯30a Money Multiplier (2x)]
 040E0000 003FB368 2B010508
 
@@ -147,6 +150,12 @@
 
 [♯30c Money Multiplier (8x)]
 040E0000 003FB368 2B010D08
+
+[Money Multiplier end]
+20000001
+
+[♯31. Item Multiplier]
+20000000
 
 [♯31a Item Multiplier (2x)]
 040E0000 003E46D4 0B1B0508
@@ -157,6 +166,9 @@
 [♯31c Item Multiplier (8x)]
 040E0000 003E46D4 0B1B0D08
 
+[Item Multiplier end]
+20000001
+
 [♯32. Corvette Part Limit 999]
 040E0000 014F7FB0 52807CE8
 040E0000 011954A0 52807CED
@@ -164,6 +176,7 @@
 040E0000 014FE0C4 52807CE2
 
 [ツ Corvette parts past the limit persist in the save ツ]
+400F0000 00000000 00000000
 
 [- khuong ツ -]
 20000000

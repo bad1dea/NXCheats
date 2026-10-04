@@ -2,6 +2,8 @@
   <img src="_assets/banner.jpg" width="900" alt="logo" style="border-radius:50%"/>
 </p>
 
+No Man's Sky is a game about exploration and survival in an infinite procedurally generated universe.
+
 ```graphql
 # No Man's Sky (GLOBAL) (v5177344)
 ./khuong/0100853015E86000/97C71E2471E850BD/*

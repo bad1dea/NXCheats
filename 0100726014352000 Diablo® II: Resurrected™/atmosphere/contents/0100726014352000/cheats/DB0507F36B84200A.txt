@@ -80,7 +80,8 @@
 040E0000 0040D560 54000280
 040E0000 006AAF70 540018C0
 
-[ツ -- Character -- ツ]
+[Character]
+20000000
 
 [♯ 1. Infinite Life]
 040E0000 01B78FC0 00000001
@@ -257,7 +258,11 @@ A4A00400 01B78B94
 [♯ 9c Attack Rating 10000]
 040E0000 01B78FE0 00002710
 
-[ツ -- Character stat overrides -- ツ]
+[Character end]
+20000001
+
+[Character stat overrides]
+20000000
 
 [♯10a Max Life 500]
 040E0000 01B78D54 8001F400
@@ -337,7 +342,11 @@ A4A00400 01B78B94
 040E0000 01B78DEC 8000005F
 040E0000 01B78DF0 80000014
 
-[ツ -- Combat stat overrides -- ツ]
+[Character stat overrides end]
+20000001
+
+[Combat stat overrides]
+20000000
 
 [♯19. Faster Cast Rate 200%]
 040E0000 01B78EDC 800000C8
@@ -372,7 +381,11 @@ A4A00400 01B78B94
 [♯29. Damage Reduced 50%]
 040E0000 01B78DC8 80000032
 
-[ツ -- Experience and loot -- ツ]
+[Combat stat overrides end]
+20000001
+
+[Experience and loot]
+20000000
 
 [♯30a XP x2]
 040E0000 01B78FD4 00000002
@@ -466,7 +479,11 @@ A4A00400 01B78B94
 98011100 00000000 00000008
 31020000
 
-[ツ -- Map and travel -- ツ]
+[Experience and loot end]
+20000001
+
+[Map and travel]
+20000000
 
 [♯40. Reveal current level (ZL + R3 to redo)]
 080E0000 01B78B8C 17A26385 F81B0FF9
@@ -553,7 +570,11 @@ A4100400 01B78A58
 040E0000 0040D560 D503201F
 040E0000 006AAF70 D503201F
 
-[ツ -- Quests (current difficulty) -- ツ]
+[Map and travel end]
+20000001
+
+[Quests (current difficulty)]
+20000000
 
 [♯43. Unlock all acts (not saved)]
 58010000 02D5EC18
@@ -786,7 +807,11 @@ A2410200 00000050
 20000000
 20000000
 
-[ツ -- Camera -- ツ]
+[Quests (current difficulty) end]
+20000001
+
+[Camera]
+20000000
 
 [♯46a Camera zoom: closer (x0.7)]
 080E0000 01B78A50 17B48F9C 52800028
@@ -1153,6 +1178,9 @@ C0861400 00000000 00000000
 64010000 00000000 3E907528
 78010000 00000004
 20000000
+
+[Camera end]
+20000001
 
 [- khuong ツ -]
 20000000

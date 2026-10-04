@@ -14,6 +14,8 @@
 780F0000 0000034D
 610F0000 00000000 00000000
 
+[ツ IPS patch required or cheats won't work ツ]
+
 [♯ 1. Infinite Health]
 040E0000 04571FC0 00000001
 

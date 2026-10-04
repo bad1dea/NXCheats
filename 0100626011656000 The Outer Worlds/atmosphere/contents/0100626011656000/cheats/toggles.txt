@@ -1,5 +1,7 @@
 [The Outer Worlds (GLOBAL) v1.0.5 TID=0100626011656000 BID=761CD556AB357C87]
 false
+[ツ IPS patch required or cheats won't work ツ]
+false
 [♯ 1. Infinite Health]
 false
 [♯ 2. Companions Infinite Health]

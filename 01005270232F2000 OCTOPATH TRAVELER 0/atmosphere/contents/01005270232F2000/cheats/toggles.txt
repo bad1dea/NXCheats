@@ -8,6 +8,8 @@ false
 false
 [♯ 4. Full Ultimate Gauge]
 false
+[♯ 5. Party Stats]
+false
 [♯ 5a Party Stats x2]
 false
 [♯ 5b Party Stats x3]
@@ -16,7 +18,11 @@ false
 false
 [♯ 5d Party Stats x10]
 false
+[Party Stats end]
+false
 [♯ 6. Break Damage Limit]
+false
+[♯ 7. Damage]
 false
 [♯ 7a Damage x2]
 false
@@ -26,9 +32,15 @@ false
 false
 [♯ 7d Damage x50]
 false
+[Damage end]
+false
+[♯ 8. Damage Taken]
+false
 [♯ 8a Damage Taken Half]
 false
 [♯ 8b Damage Taken Tenth]
+false
+[Damage Taken end]
 false
 [♯ 9. One-Punch Man (OHK)]
 false
@@ -46,11 +58,17 @@ false
 false
 [♯16. No Random Encounters]
 false
+[♯17. Encounter Rate]
+false
 [♯17a Encounter Rate x0.5]
 false
 [♯17b Encounter Rate x2]
 false
 [♯17c Encounter Rate x4]
+false
+[Encounter Rate end]
+false
+[♯18. Battle EXP]
 false
 [♯18a Battle EXP x2]
 false
@@ -60,6 +78,10 @@ false
 false
 [♯18d Battle EXP x100]
 false
+[Battle EXP end]
+false
+[♯19. Battle JP]
+false
 [♯19a Battle JP x2]
 false
 [♯19b Battle JP x5]
@@ -67,6 +89,10 @@ false
 [♯19c Battle JP x10]
 false
 [♯19d Battle JP x100]
+false
+[Battle JP end]
+false
+[♯20. Battle Money]
 false
 [♯20a Battle Money x2]
 false
@@ -76,9 +102,15 @@ false
 false
 [♯20d Battle Money x100]
 false
+[Battle Money end]
+false
+[♯21. Always Drop]
+false
 [♯21a Always Drop Items]
 false
 [♯21b Always Drop Rarest Item]
+false
+[Always Drop end]
 false
 [♯22. Max Drop Quantity]
 false
@@ -90,6 +122,8 @@ false
 false
 [♯26. Free Shops]
 false
+[♯27. Move Speed]
+false
 [♯27a Move Speed x1]
 false
 [♯27b Move Speed x1.5]
@@ -97,6 +131,10 @@ false
 [♯27c Move Speed x2]
 false
 [♯27d Move Speed x3]
+false
+[Move Speed end]
+false
+[♯28. Game Speed]
 false
 [♯28a Game Speed x1]
 false
@@ -107,6 +145,8 @@ false
 [♯28d Game Speed x3]
 false
 [♯28e Game Speed x4]
+false
+[Game Speed end]
 false
 [♯29. Field Commands Always Succeed]
 false

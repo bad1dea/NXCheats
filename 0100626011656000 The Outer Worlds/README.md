@@ -4,6 +4,10 @@
 
 The Outer Worlds is a new single-player sci-fi RPG from Obsidian Entertainment and Private Division.
 
+Both files have to be installed: the cheat file in atmosphere/contents/0100626011656000/cheats and the patch in atmosphere/exefs_patches/nxcheats. Copy the whole atmosphere folder to your SD card.
+
+761CD556AB357C87.txt.noips is the full cheat file without the patch, with all the code in it, for anyone who wants to port or edit the cheats. Atmosphere does not load it.
+
 ```graphql
 # The Outer Worlds (GLOBAL) (v1.0.5)
 ./khuong/0100626011656000/761CD556AB357C87/*

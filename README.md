@@ -35,6 +35,24 @@ build ID, and a set from another version will not load.
 <br> 
 Older sets, in the previous per-emulator layout, are under [`_old`](./_old).
 
+## Games with two files
+
+Some games come with two files, a cheat file (.txt) and a patch (.ips). Both
+files have to be installed or the cheats will not work. Copy the whole
+atmosphere folder to the root of your SD card.
+
+```
+atmosphere/contents/<TID>/cheats/<BID>.txt
+atmosphere/exefs_patches/nxcheats/<ID>.ips
+```
+
+This is to help bypass the limits of CheatVM. Cheats turn on and off without
+having to restore code, and a lot more code caves can be put in.
+
+<BID>.txt.noips is the full cheat file without the patch, with all the code
+in it, for anyone who wants to port or edit the cheats. Atmosphere does not
+load it.
+
 ## Titles
 
 | Game | Title id | Cheats |

@@ -1,0 +1,254 @@
+[Minecraft Dungeons II (GLOBAL) v65536 TID=0100A7C01B792000 BID=9E9D887D59F7F7DB]
+false
+[Survival]
+false
+[♯ 1. God Mode]
+false
+[♯ 2. Immortal]
+false
+[♯ 3. Infinite Potions]
+false
+[♯ 4. No Potion Cooldown]
+false
+[♯ 5. Life Steal]
+false
+[♯ 6. Resistances 0%]
+false
+[♯ 7. Resistances 100%]
+false
+[♯ 8. Negate Melee Attacks]
+false
+[♯ 9. Deflect All Projectiles]
+false
+[♯10. Unstoppable]
+false
+[♯11. Guarding Strike Always]
+false
+[♯12. Thorns]
+false
+[Survival end]
+false
+[Combat]
+false
+[♯13. Damage x10]
+false
+[♯14. One-Punch Man (OHK)]
+false
+[♯15. Always Critical Hit]
+false
+[♯16. Critical Damage x10]
+false
+[♯17. Attack Speed x2]
+false
+[♯18. Melee Range x2]
+false
+[♯19. Infinite Arrows]
+false
+[♯20. Bow Speed x2]
+false
+[♯21. Fast Arrow Recharge]
+false
+[♯22. Triple Shot]
+false
+[♯23. Infinite Throwables]
+false
+[Combat end]
+false
+[Movement]
+false
+[♯24. Infinite Roll]
+false
+[♯25. Move Speed x2]
+false
+[♯26. Super Jump]
+false
+[Movement end]
+false
+[Artifacts and Companions]
+false
+[♯27. No Artifact Cooldown]
+false
+[♯28. Companion No Cooldown]
+false
+[Artifacts and Companions end]
+false
+[Resources and Progression]
+false
+[♯29. Infinite Emeralds]
+false
+[♯30. Infinite Echo Shards]
+false
+[♯31. Infinite Enchantment Points]
+false
+[♯32. Infinite Souls]
+false
+[♯33. Soul Gathering x5]
+false
+[♯34. XP x5]
+false
+[Resources and Progression end]
+false
+[Loot and Shops]
+false
+[♯35. Free Merchant Refresh]
+false
+[♯36. Max Drop Chance]
+false
+[♯37. Better Item Quality]
+false
+[♯38. Double Drops]
+false
+[Loot and Shops end]
+false
+[Cosmetics]
+false
+[♯39. Unlock Skins, Capes and Pets]
+false
+[♯40. Add All Capes (Once)]
+false
+[♯41. Add All Pets (Once)]
+false
+[♯42. Select Alex Preorder Skin]
+false
+[♯43. Select Tank Deluxe Skin]
+false
+[Cosmetics end]
+false
+[Player 1: Health and Combat Commands]
+false
+[♯44. Revive]
+false
+[♯45. Toggle Immortality]
+false
+[♯46. Max Health 500]
+false
+[♯47. Max Health 100]
+false
+[♯48. Melee Damage x3]
+false
+[♯49. Melee Damage x1]
+false
+[♯50. Ranged Damage x3]
+false
+[♯51. Ranged Damage x1]
+false
+[♯52. Critical Damage x5]
+false
+[♯53. Critical Damage x1.5]
+false
+[♯54. Melee Attack Speed 2x]
+false
+[♯55. Melee Attack Speed 1x]
+false
+[♯56. Bow Speed 2x]
+false
+[♯57. Bow Speed 1x]
+false
+[♯58. Max Arrows 30]
+false
+[♯59. Max Arrows 15]
+false
+[♯60. Thorns 100%]
+false
+[♯61. Deflect 50% Of Projectiles]
+false
+[Player 1: Health and Combat Commands end]
+false
+[Player 1: Movement and Cooldown Commands]
+false
+[♯62. Move Speed 2x]
+false
+[♯63. Move Speed 1x]
+false
+[♯64. Low Gravity 0.5]
+false
+[♯65. Gravity 1]
+false
+[♯66. Jump Height 1.5x]
+false
+[♯67. Jump Height 1x]
+false
+[♯68. Roll Cooldown 0.5 s]
+false
+[♯69. Roll Cooldown 2.5 s]
+false
+[♯70. Potion Cooldown 2 s]
+false
+[♯71. Potion Cooldown 20 s]
+false
+[Player 1: Movement and Cooldown Commands end]
+false
+[Player 1: Progression and Currency Commands]
+false
+[♯72. Give 100000 XP]
+false
+[♯73. Level to 50]
+false
+[♯74. Level to 100]
+false
+[♯75. Level for the Current Area]
+false
+[♯76. XP Gain x2]
+false
+[♯77. Emeralds 9999]
+false
+[♯78. Echo Shards 100]
+false
+[♯79. Enchantment Points 99]
+false
+[♯80. Souls 100]
+false
+[Player 1: Progression and Currency Commands end]
+false
+[Player 1: Gear and Loot Commands]
+false
+[♯81. Gear for the Current Area]
+false
+[♯82. Equip Unique Sword (Level 100)]
+false
+[♯83. Equip Unique Bow (Level 100)]
+false
+[♯84. Equip Unique Helmet (Level 100)]
+false
+[♯85. Equip Unique Leggings (Level 100)]
+false
+[♯86. Equip Unique Boots (Level 100)]
+false
+[♯87. Equip Flame Scepter (Level 100)]
+false
+[♯88. Equip Lightning Rod (Level 100)]
+false
+[♯89. Equip Blizzard Staff (Level 100)]
+false
+[♯90. Looting x3]
+false
+[♯91. Rarity Bonus 50%]
+false
+[♯92. Drop Chance +50%]
+false
+[♯93. Drop Duplication 50%]
+false
+[Player 1: Gear and Loot Commands end]
+false
+[World Commands]
+false
+[♯94. Unlock All Minecart Stations]
+false
+[♯95. Kill Nearby Hostile Mobs (L3 + R3)]
+false
+[♯96. Nearby Mobs to 1 Health (R3 + Minus)]
+false
+[♯97. Time Dilation 0.5]
+false
+[♯98. Time Dilation 1]
+false
+[World Commands end]
+false
+[Debug]
+false
+[♯99. Debug Menu (Settings Screen)]
+false
+[Debug end]
+false
+[- khuong ツ -]
+false

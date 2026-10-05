@@ -1,0 +1,336 @@
+[FINAL FANTASY II (GLOBAL) v262144 TID=01006B7014156000 BID=C3E3F12D5C46367D]
+
+{IPS patch required or cheats won't work}
+080E0000 03D38F90 00000000 00000000
+080E0000 03D38F98 00000000 00000000
+080E0000 03D38FA0 00000000 00000000
+080E0000 03D38FA8 00000000 00000000
+080E0000 03D38FB0 00000000 00000000
+080E0000 03D38FB8 00000000 00000000
+080E0000 03D38FC0 00000000 00000000
+080E0000 03D38FC8 00000000 00000000
+080E0000 03D38FD0 00000000 00000000
+080E0000 03D38FD8 00000000 00000000
+080E0000 03D38FE0 00000000 00000000
+080E0000 03D38FE8 00000000 00000000
+080E0000 03D38FF0 00000000 00000000
+080E0000 03D38FF8 00000000 00000000
+
+[Party]
+20000000
+
+[♯ 1. Inf. HP]
+040E0000 03D38F90 00000001
+
+[♯ 2. Inf. MP]
+040E0000 03D38F94 00000001
+
+[♯ 3. Max Hit Rate (Party)]
+040E0000 03D38F98 00000001
+
+[♯ 4. Max Evasion Rate (Party)]
+040E0000 03D38F9C 00000001
+
+[♯ 5. Guest Characters Stay in the Party]
+040E0000 03D38FA0 00000001
+
+[Party end]
+20000001
+
+[Battle]
+20000000
+
+[♯ 6. One-Punch Man (OHK)]
+040E0000 03D38FA4 00000001
+
+[♯ 7. 100% Drop Rate]
+040E0000 03D38FA8 00000001
+
+[♯ 8. Battle and Auto Battle Speed Multiplier]
+20000000
+
+[♯ 8a Battle and Auto Battle Speed Multiplier (1.5x)]
+040E0000 03D38FAC 00000001
+040E0000 03D38FB0 3FC00000
+
+[♯ 8b Battle and Auto Battle Speed Multiplier (2x)]
+040E0000 03D38FAC 00000001
+040E0000 03D38FB0 40000000
+
+[♯ 8c Battle and Auto Battle Speed Multiplier (2.5x)]
+040E0000 03D38FAC 00000001
+040E0000 03D38FB0 40200000
+
+[♯ 8d Auto Battle Speed Multiplier (1.5x)]
+040E0000 03D38FB0 3FC00000
+
+[♯ 8e Auto Battle Speed Multiplier (2x)]
+040E0000 03D38FB0 40000000
+
+[♯ 8f Auto Battle Speed Multiplier (2.5x)]
+040E0000 03D38FB0 40200000
+
+[♯ 8g Auto Battle Speed Multiplier (3x)]
+040E0000 03D38FB0 40400000
+
+[♯ 8h Auto Battle Speed Multiplier (4x)]
+040E0000 03D38FB0 40800000
+
+[♯ 8i Auto Battle Speed Multiplier (5x)]
+040E0000 03D38FB0 40A00000
+
+[Battle and Auto Battle Speed Multiplier end]
+20000001
+
+[Battle end]
+20000001
+
+[Growth]
+20000000
+
+[♯ 9. Stat Growth Always Succeeds (Party)]
+040E0000 03D38FB4 00000001
+
+[♯10. Max Stats After Battle (Party)]
+040E0000 03D38FBC 00000001
+
+[♯11. Used Weapons and Spells]
+20000000
+
+[♯11a Used Weapons and Spells Always Gain Skill]
+040E0000 03D38FB8 0000000B
+
+[♯11b Used Weapons and Spells Gain a Level Each Battle]
+040E0000 03D38FB8 000003E8
+
+[Used Weapons and Spells end]
+20000001
+
+[♯12. Weapon Skill Level Multiplier]
+20000000
+
+[♯12a Weapon Skill Level Multiplier (0x)]
+040E0000 03D38FC0 80000000
+
+[♯12b Weapon Skill Level Multiplier (0.5x)]
+040E0000 03D38FC0 3F000000
+
+[♯12c Weapon Skill Level Multiplier (1x)]
+040E0000 03D38FC0 3F800000
+
+[♯12d Weapon Skill Level Multiplier (2x)]
+040E0000 03D38FC0 40000000
+
+[♯12e Weapon Skill Level Multiplier (4x)]
+040E0000 03D38FC0 40800000
+
+[♯12f Weapon Skill Level Multiplier (8x)]
+040E0000 03D38FC0 41000000
+
+[♯12g Weapon Skill Level Multiplier (16x)]
+040E0000 03D38FC0 41800000
+
+[♯12h Weapon Skill Level Multiplier (30x)]
+040E0000 03D38FC0 41F00000
+
+[Weapon Skill Level Multiplier end]
+20000001
+
+[♯13. Magic Skill Level Multiplier]
+20000000
+
+[♯13a Magic Skill Level Multiplier (0x)]
+040E0000 03D38FC4 80000000
+
+[♯13b Magic Skill Level Multiplier (0.5x)]
+040E0000 03D38FC4 3F000000
+
+[♯13c Magic Skill Level Multiplier (1x)]
+040E0000 03D38FC4 3F800000
+
+[♯13d Magic Skill Level Multiplier (2x)]
+040E0000 03D38FC4 40000000
+
+[♯13e Magic Skill Level Multiplier (4x)]
+040E0000 03D38FC4 40800000
+
+[♯13f Magic Skill Level Multiplier (8x)]
+040E0000 03D38FC4 41000000
+
+[♯13g Magic Skill Level Multiplier (16x)]
+040E0000 03D38FC4 41800000
+
+[♯13h Magic Skill Level Multiplier (30x)]
+040E0000 03D38FC4 41F00000
+
+[Magic Skill Level Multiplier end]
+20000001
+
+[♯14. Attribute Multiplier]
+20000000
+
+[♯14a Attribute Multiplier (0x)]
+040E0000 03D38FC8 80000000
+
+[♯14b Attribute Multiplier (0.5x)]
+040E0000 03D38FC8 3F000000
+
+[♯14c Attribute Multiplier (1x)]
+040E0000 03D38FC8 3F800000
+
+[♯14d Attribute Multiplier (2x)]
+040E0000 03D38FC8 40000000
+
+[♯14e Attribute Multiplier (4x)]
+040E0000 03D38FC8 40800000
+
+[♯14f Attribute Multiplier (8x)]
+040E0000 03D38FC8 41000000
+
+[♯14g Attribute Multiplier (16x)]
+040E0000 03D38FC8 41800000
+
+[♯14h Attribute Multiplier (30x)]
+040E0000 03D38FC8 41F00000
+
+[Attribute Multiplier end]
+20000001
+
+[Growth end]
+20000001
+
+[Rewards]
+20000000
+
+[♯15. Inf. Gil]
+040E0000 03D38FCC 00000001
+
+[♯16. Inf. Item Usage]
+040E0000 03D38FD0 00000001
+
+[♯17. Get All Items After Battle (Need 100% Drop Rate Enabled)]
+040E0000 03D38FD4 00000001
+
+[♯18. Gil Multiplier]
+20000000
+
+[♯18a Gil Multiplier (0x)]
+040E0000 03D38FD8 80000000
+
+[♯18b Gil Multiplier (0.5x)]
+040E0000 03D38FD8 3F000000
+
+[♯18c Gil Multiplier (1x)]
+040E0000 03D38FD8 3F800000
+
+[♯18d Gil Multiplier (2x)]
+040E0000 03D38FD8 40000000
+
+[♯18e Gil Multiplier (4x)]
+040E0000 03D38FD8 40800000
+
+[♯18f Gil Multiplier (8x)]
+040E0000 03D38FD8 41000000
+
+[♯18g Gil Multiplier (16x)]
+040E0000 03D38FD8 41800000
+
+[♯18h Gil Multiplier (30x)]
+040E0000 03D38FD8 41F00000
+
+[Gil Multiplier end]
+20000001
+
+[Rewards end]
+20000001
+
+[Shops and Keywords]
+20000000
+
+[♯19. Shops Sell Every Available Shop Items]
+040E0000 03D38FDC 00000001
+
+[♯20. Bypass Equip Check (Allow Any Char to Any Item)]
+040E0000 03D38FE0 00000001
+
+[♯21. Learn All Keywords (Next Keyword Menu)]
+040E0000 03D38FE4 00000001
+
+[Shops and Keywords end]
+20000001
+
+[Field]
+20000000
+
+[♯22. No Clip and No Collision (ZL)]
+040E0000 01E3E3A4 340001A8
+80000100
+040E0000 01E3E3A4 350001A8
+20000000
+
+[♯23. Always Show Hidden Passage(s)]
+20000000
+
+[♯23a Always Show Hidden Passage(s) (Blinking) ★]
+040E0000 03D38FE8 00000001
+
+[♯23b Always Show Hidden Passage(s)]
+040E0000 03D38FE8 00000001
+040E0000 03D38FEC 00000001
+
+[Always Show Hidden Passage(s) end]
+20000001
+
+[♯24. High Encounter Rate]
+20000000
+
+[♯24a High Encounter Rate (Encounters Must Be Enabled)]
+040E0000 03D38FF0 00000001
+
+[♯24b No Random Encounters]
+040E0000 03D38FF0 00000002
+
+[High Encounter Rate end]
+20000001
+
+[♯25. Game Speed]
+20000000
+
+[♯25a Game Speed (1x)]
+040E0000 03D38FF4 3F800000
+
+[♯25b Game Speed (1.5x)]
+040E0000 03D38FF4 3FC00000
+
+[♯25c Game Speed (2x)]
+040E0000 03D38FF4 40000000
+
+[♯25d Game Speed (3x)]
+040E0000 03D38FF4 40400000
+
+[♯25e Game Speed (4x)]
+040E0000 03D38FF4 40800000
+
+[Game Speed end]
+20000001
+
+[♯26. Field Walk Speed]
+20000000
+
+[♯26a Field Walk Speed (x2)]
+040E0000 03D38FF8 00003DF5
+
+[♯26b Field Walk Speed (x4)]
+040E0000 03D38FF8 00003D75
+
+[♯26c Field Walk Speed (x8)]
+040E0000 03D38FF8 00003CF5
+
+[Field Walk Speed end]
+20000001
+
+[Field end]
+20000001
+
+[- khuong ツ -]
+20000000

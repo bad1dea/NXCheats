@@ -1,8 +1,10 @@
 # Change log
 
 ## 2026/10/04
-1. added Unlock Skins, Capes and Pets, Add All Capes (Once), Add All Pets (Once), Select Alex Preorder Skin, Select Tank Deluxe Skin
-2. Added cosmetics, skins, and pets.
+1. added stat cheat support for all local co-op players. One-shot console commands still target player 1
+2. grouped cheats by category
+3. added Unlock Skins, Capes and Pets, Add All Capes (Once), Add All Pets (Once), Select Alex Preorder Skin, Select Tank Deluxe Skin
+4. Added cosmetics, skins, and pets.
 
 ## 2026/10/03
 1. added One-Punch Man (OHK)

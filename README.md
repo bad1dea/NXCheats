@@ -60,6 +60,7 @@ load it.
 | Game | Title id | Cheats |
 |---|---|---:|
 | [Castlevania Belmont's Curse Demo](./0100D1D027E96000%20Castlevania%20Belmont's%20Curse%20Demo) | `0100D1D027E96000` | 20 |
+| [Castlevania: Belmont's Curse](./0100BA4026E94000%20Castlevania:%20Belmont's%20Curse) | `0100BA4026E94000` | 20 |
 | [Diablo® II: Resurrected™](./0100726014352000%20Diablo®%20II:%20Resurrected™) | `0100726014352000` | 91 |
 | [Diablo III: Eternal Collection](./01001B300B9BE000%20Diablo%20III:%20Eternal%20Collection) | `01001B300B9BE000` | 70 |
 | [FINAL FANTASY](./01000EA014150000%20FINAL%20FANTASY) | `01000EA014150000` | 59 |
@@ -83,7 +84,7 @@ load it.
 | [Super Mario RPG™](./0100BC0018138000%20Super%20Mario%20RPG™) | `0100BC0018138000` | 78 |
 | [The Witcher 3: Wild Hunt - Complete Edition](./01003D100E9C6000%20The%20Witcher%203:%20Wild%20Hunt%20-%20Complete%20Edition) | `01003D100E9C6000` | 35 |
 
-**23 titles, 1158 cheats.**
+**24 titles, 1178 cheats.**
 
 ## Support
 

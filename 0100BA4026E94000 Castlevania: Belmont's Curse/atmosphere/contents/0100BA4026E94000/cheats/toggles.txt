@@ -1,0 +1,48 @@
+[Castlevania Belmont's Curse (GLOBAL) v65536 TID=0100BA4026E94000 BID=0F1169AA7D0FA452]
+false
+[♯ 1. Infinite Mana]
+false
+[♯ 2. Infinite Health Potions]
+false
+[♯ 3. No Cooldowns]
+false
+[♯ 4. God Mode]
+false
+[♯ 5. Ignore Hits]
+false
+[♯ 6. No Fall Damage]
+false
+[♯ 7. Movement Speed (x2)]
+false
+[♯ 8. Infinite Air Jumps]
+false
+[♯ 9. Infinite Air Dashes]
+false
+[♯10. Game Speed]
+false
+[♯10a Game Speed (x2)]
+false
+[♯10b Game Speed (x1.5)]
+false
+[♯10c Game Speed (x0.5)]
+false
+[Game Speed end]
+false
+[♯11. Unlock All Abilities]
+false
+[♯12. Unlock All Maps]
+false
+[♯13. Reveal Fog of War]
+false
+[♯14. Unlock All Fast Travel]
+false
+[♯15. Skip Cutscenes]
+false
+[♯16. Skip Videos]
+false
+[♯17. Enemies Ignore Player]
+false
+[♯18. Debug Build Flag (Experimental)]
+false
+[- khuong ツ -]
+false

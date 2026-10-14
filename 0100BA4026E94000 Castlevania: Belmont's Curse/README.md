@@ -2,7 +2,7 @@
   <img src="_assets/banner.jpg" width="900" alt="logo" style="border-radius:50%"/>
 </p>
 
-Crimson Curse —Will Your Fate Bloom in Despair or Salvation
+Crimson Curse - Will Your Fate Bloom in Despair or Salvation
 
 <p><a href="_assets/trainer-0F1169AA7D0FA452-main.png"><img src="_assets/trainer-0F1169AA7D0FA452-main.png" width="400" alt="Trainer preview (Designer compact view)"/></a> <a href="_assets/trainer-0F1169AA7D0FA452-options.png"><img src="_assets/trainer-0F1169AA7D0FA452-options.png" width="400" alt="Trainer preview: Game Speed (compact)"/></a></p>
 

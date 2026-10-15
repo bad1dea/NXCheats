@@ -4,6 +4,8 @@
 
 Build Something You Believe In
 
+Tick a row to run it once, then untick it before you use it again. The Selected rows act on the unit or city you have selected.
+
 <p><a href="_assets/trainer-5D9401301AB2BB49-main.png"><img src="_assets/trainer-5D9401301AB2BB49-main.png" width="400" alt="Trainer preview (Designer compact view)"/></a> <a href="_assets/trainer-5D9401301AB2BB49-folder.png"><img src="_assets/trainer-5D9401301AB2BB49-folder.png" width="400" alt="Trainer preview: Player (compact)"/></a></p>
 
 ```graphql

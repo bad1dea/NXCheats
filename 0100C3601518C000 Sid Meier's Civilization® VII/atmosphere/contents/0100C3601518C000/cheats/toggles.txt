@@ -1,0 +1,112 @@
+[Sid Meier's Civilization VII (GLOBAL) 1.5.0.1 TID=0100C3601518C000 BID=5D9401301AB2BB49]
+false
+[♯ 1. Player]
+false
+[♯ 1. Add Gold 10K]
+false
+[♯ 2. Add Gold 100K]
+false
+[♯ 3. Add Gold 1M]
+false
+[♯ 4. Add Influence 100]
+false
+[♯ 5. Add Influence 500]
+false
+[♯ 6. Add Influence 1K]
+false
+[♯ 7. Add Influence 5K]
+false
+[♯ 8. Add Influence 10K]
+false
+[♯ 9. Add Attribute Points 1]
+false
+[♯10. Add Attribute Points 5]
+false
+[♯11. Add Attribute Points 10]
+false
+[♯12. Add Attribute Points 25]
+false
+[♯13. Add Attribute Points 50]
+false
+[Player end]
+false
+[♯14. Units]
+false
+[♯14. Restore Movement (Selected Unit)]
+false
+[♯15. Heal (Selected Unit)]
+false
+[♯16. Give Experience 20 (Selected Unit)]
+false
+[♯17. Give Experience 50 (Selected Unit)]
+false
+[♯18. Give Experience 100 (Selected Unit)]
+false
+[♯19. Give Experience 200 (Selected Unit)]
+false
+[♯20. Give Experience 500 (Selected Unit)]
+false
+[♯21. Restore Movement (All Units)]
+false
+[♯22. Heal (All Units)]
+false
+[Units end]
+false
+[♯23. Cities]
+false
+[♯23. Complete Production (Selected City)]
+false
+[♯24. Add Population 1 (Selected City)]
+false
+[♯25. Add Population 2 (Selected City)]
+false
+[♯26. Add Population 5 (Selected City)]
+false
+[♯27. Add Population 10 (Selected City)]
+false
+[♯28. Add Population 20 (Selected City)]
+false
+[♯29. Complete Production (All Cities)]
+false
+[♯30. Add Population 1 (All Cities)]
+false
+[♯31. Add Population 2 (All Cities)]
+false
+[♯32. Add Population 5 (All Cities)]
+false
+[♯33. Add Population 10 (All Cities)]
+false
+[♯34. Add Population 20 (All Cities)]
+false
+[Cities end]
+false
+[♯35. Research]
+false
+[♯35. Complete Current Research]
+false
+[♯36. Complete Current Civic]
+false
+[♯37. Add Science 100]
+false
+[♯38. Add Science 500]
+false
+[♯39. Add Science 1K]
+false
+[♯40. Add Science 5K]
+false
+[♯41. Add Science 10K]
+false
+[♯42. Add Culture 100]
+false
+[♯43. Add Culture 500]
+false
+[♯44. Add Culture 1K]
+false
+[♯45. Add Culture 5K]
+false
+[♯46. Add Culture 10K]
+false
+[Research end]
+false
+[- khuong ツ -]
+false

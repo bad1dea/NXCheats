@@ -4,9 +4,11 @@
 
 No Man's Sky is a game about exploration and survival in an infinite procedurally generated universe.
 
+<p><a href="_assets/trainer-5507E92D36CD1F9C-main.png"><img src="_assets/trainer-5507E92D36CD1F9C-main.png" width="400" alt="Trainer preview (Designer compact view)"/></a> <a href="_assets/trainer-5507E92D36CD1F9C-options.png"><img src="_assets/trainer-5507E92D36CD1F9C-options.png" width="400" alt="Trainer preview: Money Multiplier (compact)"/></a></p>
+
 ```graphql
-# No Man's Sky (GLOBAL) (v5177344)
-./khuong/0100853015E86000/97C71E2471E850BD/*
+# No Man's Sky (GLOBAL) (v5242880)
+./khuong/0100853015E86000/5507E92D36CD1F9C/*
   ├─ Inf. Shields
   ├─ Inf. Health
   ├─ Inf. Stamina

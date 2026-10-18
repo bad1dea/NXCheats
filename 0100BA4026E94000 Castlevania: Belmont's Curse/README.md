@@ -4,6 +4,8 @@
 
 Crimson Curse - Will Your Fate Bloom in Despair or Salvation
 
+Debug Hotkeys: hold L and R, then press Left for Boost Stats (+10 levels), Right for Level Up, Down for Unlock Next Ability, A for Refill Life or B for Refill Mana.
+
 <p><a href="_assets/trainer-0F1169AA7D0FA452-main.png"><img src="_assets/trainer-0F1169AA7D0FA452-main.png" width="400" alt="Trainer preview (Designer compact view)"/></a> <a href="_assets/trainer-0F1169AA7D0FA452-options.png"><img src="_assets/trainer-0F1169AA7D0FA452-options.png" width="400" alt="Trainer preview: Game Speed (compact)"/></a></p>
 
 ```graphql

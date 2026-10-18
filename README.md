@@ -61,7 +61,7 @@ load it.
 |---|---|---:|
 | [Baladins](./010083B01D9B8000%20Baladins) | `010083B01D9B8000` | 7 |
 | [Castlevania Belmont's Curse Demo](./0100D1D027E96000%20Castlevania%20Belmont's%20Curse%20Demo) | `0100D1D027E96000` | 20 |
-| [Castlevania: Belmont's Curse](./0100BA4026E94000%20Castlevania:%20Belmont's%20Curse) | `0100BA4026E94000` | 20 |
+| [Castlevania: Belmont's Curse](./0100BA4026E94000%20Castlevania:%20Belmont's%20Curse) | `0100BA4026E94000` | 22 |
 | [Chained Beasts](./0100B04026946000%20Chained%20Beasts) | `0100B04026946000` | 17 |
 | [Diablo® II: Resurrected™](./0100726014352000%20Diablo®%20II:%20Resurrected™) | `0100726014352000` | 91 |
 | [Diablo III: Eternal Collection](./01001B300B9BE000%20Diablo%20III:%20Eternal%20Collection) | `01001B300B9BE000` | 70 |
@@ -87,7 +87,7 @@ load it.
 | [Super Mario RPG™](./0100BC0018138000%20Super%20Mario%20RPG™) | `0100BC0018138000` | 78 |
 | [The Witcher 3: Wild Hunt - Complete Edition](./01003D100E9C6000%20The%20Witcher%203:%20Wild%20Hunt%20-%20Complete%20Edition) | `01003D100E9C6000` | 35 |
 
-**27 titles, 1248 cheats.**
+**27 titles, 1250 cheats.**
 
 ## Support
 

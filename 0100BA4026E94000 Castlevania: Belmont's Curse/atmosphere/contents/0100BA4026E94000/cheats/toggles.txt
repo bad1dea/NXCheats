@@ -4,45 +4,49 @@ false
 false
 [♯ 2. Infinite Health Potions]
 false
-[♯ 3. No Cooldowns]
+[♯ 3. God Mode]
 false
-[♯ 4. God Mode]
+[♯ 4. Ignore Hits]
 false
-[♯ 5. Ignore Hits]
+[♯ 5. No Fall Damage]
 false
-[♯ 6. No Fall Damage]
+[♯ 6. No Fall Teleport]
 false
-[♯ 7. Movement Speed (x2)]
+[♯ 7. No Cooldowns]
 false
-[♯ 8. Infinite Air Jumps]
+[♯ 8. Enemies Ignore Player]
 false
-[♯ 9. Infinite Air Dashes]
+[♯ 9. Movement Speed (x2)]
 false
-[♯10. Game Speed]
+[♯10. Infinite Air Jumps]
 false
-[♯10a Game Speed (x2)]
+[♯11. Infinite Air Dashes]
 false
-[♯10b Game Speed (x1.5)]
+[♯12. Game Speed]
 false
-[♯10c Game Speed (x0.5)]
+[♯12a Game Speed (x2)]
+false
+[♯12b Game Speed (x1.5)]
+false
+[♯12c Game Speed (x0.5)]
 false
 [Game Speed end]
 false
-[♯11. Unlock All Abilities]
+[♯13. Unlock All Abilities]
 false
-[♯12. Unlock All Maps]
+[♯14. Unlock All Maps]
 false
-[♯13. Reveal Fog of War]
+[♯15. Reveal Fog of War]
 false
-[♯14. Unlock All Fast Travel]
+[♯16. Unlock All Fast Travel]
 false
-[♯15. Skip Cutscenes]
+[♯17. Easy Arcana Tasks]
 false
-[♯16. Skip Videos]
+[♯18. Skip Cutscenes]
 false
-[♯17. Enemies Ignore Player]
+[♯19. Skip Videos]
 false
-[♯18. Debug Build Flag (Experimental)]
+[♯20. Debug Hotkeys (L+R + D-pad, A or B)]
 false
 [- khuong ツ -]
 false

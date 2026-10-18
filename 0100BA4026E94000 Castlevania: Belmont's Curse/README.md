@@ -11,10 +11,12 @@ Crimson Curse - Will Your Fate Bloom in Despair or Salvation
 ./khuong/0100BA4026E94000/0F1169AA7D0FA452/*
   ├─ Infinite Mana
   ├─ Infinite Health Potions
-  ├─ No Cooldowns
   ├─ God Mode
   ├─ Ignore Hits
   ├─ No Fall Damage
+  ├─ No Fall Teleport
+  ├─ No Cooldowns
+  ├─ Enemies Ignore Player
   ├─ Movement Speed (x2)
   ├─ Infinite Air Jumps
   ├─ Infinite Air Dashes
@@ -26,10 +28,10 @@ Crimson Curse - Will Your Fate Bloom in Despair or Salvation
   ├─ Unlock All Maps
   ├─ Reveal Fog of War
   ├─ Unlock All Fast Travel
+  ├─ Easy Arcana Tasks
   ├─ Skip Cutscenes
   ├─ Skip Videos
-  ├─ Enemies Ignore Player
-  └─ Debug Build Flag (Experimental)
+  └─ Debug Hotkeys (L+R + D-pad, A or B)
 ```
 
 ## Changelog

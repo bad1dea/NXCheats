@@ -4,7 +4,7 @@
 
 Chained Beasts is a 1-4 player co-op gladiator roguelike. Fight chaotic battles chained to your friends. Use your chains or the arena to beat up foes in creative ways and survive the day.
 
-<p><a href="_assets/trainer-2A303783D368DF8A-main.png"><img src="_assets/trainer-2A303783D368DF8A-main.png" width="400" alt="Trainer preview (Designer compact view)"/></a> <a href="_assets/trainer-2A303783D368DF8A-options.png"><img src="_assets/trainer-2A303783D368DF8A-options.png" width="400" alt="Trainer preview: Money Multiplier (compact)"/></a></p>
+<p><a href="_assets/trainer-2A303783D368DF8A-main.png"><img src="_assets/trainer-2A303783D368DF8A-main.png" width="400" alt="Trainer preview (Designer compact view)"/></a> <a href="_assets/trainer-2A303783D368DF8A-page2.png"><img src="_assets/trainer-2A303783D368DF8A-page2.png" width="400" alt="Trainer preview: page 2 (compact)"/></a></p>
 
 ```graphql
 # Chained Beasts (GLOBAL) (v196608)

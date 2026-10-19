@@ -71,6 +71,7 @@ load it.
 | [FINAL FANTASY IV](./01004B301415A000%20FINAL%20FANTASY%20IV) | `01004B301415A000` | 64 |
 | [FINAL FANTASY V](./0100AA201415C000%20FINAL%20FANTASY%20V) | `0100AA201415C000` | 68 |
 | [FINAL FANTASY VI](./0100AA001415E000%20FINAL%20FANTASY%20VI) | `0100AA001415E000` | 81 |
+| [Frostpunk](./0100B1C0249B4000%20Frostpunk) | `0100B1C0249B4000` | 18 |
 | [Garfield - Escape From Monday](./01000EB0276F2000%20Garfield%20-%20Escape%20From%20Monday) | `01000EB0276F2000` | 22 |
 | [Hello Kitty Island Adventure](./010027901C89C000%20Hello%20Kitty%20Island%20Adventure) | `010027901C89C000` | 12 |
 | [High On Life](./0100C1101EE5A000%20High%20On%20Life) | `0100C1101EE5A000` | 27 |
@@ -87,7 +88,7 @@ load it.
 | [Super Mario RPG™](./0100BC0018138000%20Super%20Mario%20RPG™) | `0100BC0018138000` | 78 |
 | [The Witcher 3: Wild Hunt - Complete Edition](./01003D100E9C6000%20The%20Witcher%203:%20Wild%20Hunt%20-%20Complete%20Edition) | `01003D100E9C6000` | 35 |
 
-**27 titles, 1250 cheats.**
+**28 titles, 1268 cheats.**
 
 ## Support
 

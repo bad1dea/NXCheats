@@ -1,0 +1,128 @@
+[FINAL FANTASY RESONANCE (GLOBAL) v65536 TID=0100606026F12000 BID=84E182F72EE1DA4F VER=20261022-010851]
+false
+[Player]
+false
+[♯ 1. Infinite HP]
+false
+[♯ 2. Infinite MP]
+false
+[♯ 3. Full Limit Gauge]
+false
+[♯ 4a Player Speed 2x]
+false
+[♯ 4b Player Speed 3x]
+false
+[Player end]
+false
+[Battle]
+false
+[♯ 5. Instant Break]
+false
+[♯ 6. One-Punch Man (OHK)]
+false
+[♯ 7a Damage 2x]
+false
+[♯ 7b Damage 5x]
+false
+[♯ 7c Damage 10x]
+false
+[♯ 8. No Random Encounters]
+false
+[♯ 9. Always Flee]
+false
+[♯10a Encounter Rate 0.25x]
+false
+[♯10b Encounter Rate 0.5x]
+false
+[♯10c Encounter Rate 2x]
+false
+[♯10d Encounter Rate 3x]
+false
+[♯10e Encounter Rate 4x]
+false
+[Battle end]
+false
+[Money]
+false
+[♯11. Gil 8008135]
+false
+[♯12a Battle Gil 2x]
+false
+[♯12b Battle Gil 5x]
+false
+[♯12c Battle Gil 10x]
+false
+[Money end]
+false
+[Rewards]
+false
+[♯13. Max EXP]
+false
+[♯14. Max Items]
+false
+[♯15. 100% Drop Rate]
+false
+[♯16a Battle EXP 2x]
+false
+[♯16b Battle EXP 5x]
+false
+[♯16c Battle EXP 10x]
+false
+[♯17a Enemy Drops Elixir]
+false
+[♯17b Enemy Drops Megalixir]
+false
+[♯17c Enemy Drops Phoenix Down]
+false
+[♯17d Enemy Drops Turbo Ether]
+false
+[♯17e Enemy Drops Excalibur]
+false
+[♯17f Enemy Drops Crystal Armor]
+false
+[♯17g Enemy Drops Genji Armor]
+false
+[♯17h Enemy Drops Ribbon]
+false
+[♯17i Enemy Drops Super Ribbon]
+false
+[♯17j Enemy Drops Ultima Reactor]
+false
+[Rewards end]
+false
+[Speed]
+false
+[♯18a Game Speed 0.5x (Stays After Unticking)]
+false
+[♯18b Game Speed 1x]
+false
+[♯18c Game Speed 2x (Stays After Unticking)]
+false
+[♯18d Game Speed 3x (Stays After Unticking)]
+false
+[♯18e Game Speed 4x (Stays After Unticking)]
+false
+[♯18f Game Speed 5x (Stays After Unticking)]
+false
+[Speed end]
+false
+[Unlocks]
+false
+[♯19. Unlock All Party Members (Stays After Unticking)]
+false
+[♯20. Unlock All Visions (Stays After Unticking)]
+false
+[♯21. Max Vision Ranks and Awakening (Stays After Unticking)]
+false
+[♯22. Unlock All Summons]
+false
+[♯23. Unlock All World Map Locations]
+false
+[♯24. Unlock Fast Travel]
+false
+[♯25. Fast Travel During Story Events]
+false
+[Unlocks end]
+false
+[- khuong ツ -]
+false

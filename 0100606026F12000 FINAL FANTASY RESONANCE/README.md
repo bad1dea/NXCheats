@@ -4,7 +4,11 @@
 
 Hope resonates within the crystals
 
-<p><a href="_assets/trainer-84E182F72EE1DA4F-main.png"><img src="_assets/trainer-84E182F72EE1DA4F-main.png" width="400" alt="Trainer preview (Designer compact view)"/></a> <a href="_assets/trainer-84E182F72EE1DA4F-folder.png"><img src="_assets/trainer-84E182F72EE1DA4F-folder.png" width="400" alt="Trainer preview: Player (compact)"/></a> <a href="_assets/trainer-84E182F72EE1DA4F-options.png"><img src="_assets/trainer-84E182F72EE1DA4F-options.png" width="400" alt="Trainer preview: Damage (compact)"/></a></p>
+<p><img src="_assets/shot-1.png" width="300"/></p>
+
+You can't have all the cheats on, they go over the limit of CheatVM. Use the trainer if you want to use more cheats. Instructions are on GitHub, do not ask here.
+
+<p><a href="_assets/trainer-84E182F72EE1DA4F-main.png"><img src="_assets/trainer-84E182F72EE1DA4F-main.png" width="400" alt="Trainer preview (Designer compact view)"/></a> <a href="_assets/trainer-84E182F72EE1DA4F-folder.png"><img src="_assets/trainer-84E182F72EE1DA4F-folder.png" width="400" alt="Trainer preview: Player (compact)"/></a> <a href="_assets/trainer-84E182F72EE1DA4F-options.png"><img src="_assets/trainer-84E182F72EE1DA4F-options.png" width="400" alt="Trainer preview: Ability AP Limit + (compact)"/></a></p>
 
 ```graphql
 # FINAL FANTASY RESONANCE (GLOBAL) (v65536)
@@ -13,9 +17,15 @@ Hope resonates within the crystals
   │  ├─ Infinite HP
   │  ├─ Infinite MP
   │  ├─ Full Limit Gauge
+  │  ├─ Ability AP Limit/*
+  │  │  ├─ Ability AP Limit +50
+  │  │  ├─ Ability AP Limit +100
+  │  │  ├─ Ability AP Limit +250
+  │  │  └─ Ability AP Limit +999
   │  └─ Player Speed/*
-  │     ├─ Player Speed 2x
-  │     └─ Player Speed 3x
+  │     ├─ Player Speed 1x
+  │     ├─ Player Speed 2x (Stays After Unticking)
+  │     └─ Player Speed 3x (Stays After Unticking)
   ├─ Battle/*
   │  ├─ Instant Break
   │  ├─ One-Punch Man (OHK)
@@ -24,6 +34,7 @@ Hope resonates within the crystals
   │  │  ├─ Damage 5x
   │  │  └─ Damage 10x
   │  ├─ No Random Encounters
+  │  ├─ Instant Encounter (Hold L3+R3)
   │  ├─ Always Flee
   │  └─ Encounter Rate/*
   │     ├─ Encounter Rate 0.25x
@@ -45,6 +56,10 @@ Hope resonates within the crystals
   │  │  ├─ Battle EXP 2x
   │  │  ├─ Battle EXP 5x
   │  │  └─ Battle EXP 10x
+  │  ├─ Battle MRP/*
+  │  │  ├─ Battle MRP 2x
+  │  │  ├─ Battle MRP 5x
+  │  │  └─ Battle MRP 10x
   │  └─ Enemy Drops/*
   │     ├─ Enemy Drops Elixir
   │     ├─ Enemy Drops Megalixir
